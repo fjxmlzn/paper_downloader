@@ -80,7 +80,7 @@ In most cases we have tried, the above two ways can give you a reasonably correc
 
 ## How it works
 ### Detecting paper titles
-If you are familiar with HTML, you will know that HTML is basically a tree structure with each node in charge of a block in UI. As a reasonable way of writing the webpage, the paper titles should present in the same level of the tree, and the node types of their ancestors should have the same pattern. Therefore, the tool will group all text nodes according to their path to the root. For each group of texts, the tool uses some simple heuristics (e.g., number of words) to determine if the group is titles. The heuristics we use are very simple, but they turn out to work well in our (limited) tests.
+HTML is basically a tree structure with each node in charge of a block in UI. As a reasonable way of writing the webpage, the paper titles should present in the same level of the tree, and the node types of their ancestors should have the same pattern. Therefore, the tool will group all text nodes according to their path to the root. For each group of texts, the tool uses some simple heuristics (e.g., number of words) to determine if the group is titles. The heuristics we use are very simple, but they turn out to work well in our (limited) tests.
 
 By default, the path to the root only considers the node type (e.g., div, ul, strong). In some cases, titles happen to have the same node type path with some other random strings. In these cases, you can include other node properties (e.g., class) into the path discrimination, using `-a` option.
  

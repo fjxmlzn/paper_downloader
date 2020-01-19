@@ -1,0 +1,10 @@
+{
+    "conf_name": "nsdi2018", 
+    "conf_url": "https://www.usenix.org/conference/nsdi18/technical-sessions", 
+    "conf_attrs": [], 
+    "conf_ele": [
+        "[[\"[document]\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"article\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"article\"], [\"h2\"], [\"a\"]]", 
+        "[[\"[document]\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"article\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"article\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"p\"]]", 
+        "[[\"[document]\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"article\"], [\"div\"], [\"div\"], [\"div\"], [\"div\"], [\"article\"], [\"h2\"], [\"a\"]]"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "conf_name": "sigcomm2017", 
+    "conf_url": "https://conferences.sigcomm.org/sigcomm/2017/accepted-papers.html", 
+    "conf_attrs": [
+        "class"
+    ], 
+    "conf_ele": [
+        "[[\"[document]\", null], [\"html\", null], [\"body\", null], [\"div\", [\"main-page\"]], [\"div\", [\"ui-content\"]], [\"div\", [\"content-primary\"]], [\"div\", [\"accepted-papers-program\"]], [\"ul\", [\"program\"]], [\"li\", [\"prog-item\"]], [\"div\", [\"paper-navgroup\"]], [\"h4\", null], [\"div\", null], [\"p\", [\"paper-header\"]]]"
+    ]
+}

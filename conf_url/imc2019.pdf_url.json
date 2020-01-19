@@ -1,0 +1,893 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355567", 
+                "paper_title": "Internet Performance from Facebook's Edge"
+            }, 
+            {
+                "pdf_url": "https://www.dcc.ufmg.br/~cunha/papers/schlinker19imc-fbperf.pdf", 
+                "paper_title": "Internet Performance from Facebook's Edge"
+            }, 
+            {
+                "pdf_url": "https://homepages.dcc.ufmg.br/~cunha/papers/schlinker19imc-fbperf.pdf", 
+                "paper_title": "Internet Performance from Facebook's Edge"
+            }, 
+            {
+                "pdf_url": "http://homepages.dcc.ufmg.br/~cunha/papers/schlinker19imc-fbperf.pdf", 
+                "paper_title": "Internet Performance from Facebook's Edge"
+            }
+        ], 
+        "paper_title": "Internet Performance from Facebook's Edge"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355594", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://www.santivargas.com/docs/cdnjson.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~arunab/papers/imc19_cdn.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://netsys.cs.stonybrook.edu/sites/netsys.cs.stonybrook.edu/files/cdnjson.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/70fc/60027e8ada8ff13cef7315fec52e6324f422.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://www.moritzsteiner.de/papers/apitraffic.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/jp/ja/multimedia/documents/technical-publication/characterizing-json-traffic-patterns-on-a-cdn.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p216.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/4b7c/f25d1b4363e4ca161f80f283fad6233721e3.pdf", 
+                "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+            }
+        ], 
+        "paper_title": "Characterizing JSON Traffic Patterns on a CDN"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355602", 
+                "paper_title": "How Cloud Traffic Goes Hiding: A Study of Amazon's Peering Fabric"
+            }
+        ], 
+        "paper_title": "How Cloud Traffic Goes Hiding: A Study of Amazon's Peering Fabric"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355572", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "http://www.eecs.qmul.ac.uk/~tysong/files/Mastodon.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e0d8/6c89d7bbf332ddd82bd207232a2e07ec515e.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "https://emilianodc.com/PAPERS/mastodonIMC19.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "https://encase.socialcomputing.eu/wp-content/uploads/2019/09/Challenges-in-the-Decentralised-Web-The-Mastodon-Case.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "https://hub.somaton.com/cloud/mario/1909.05801.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Gareth_Tyson/publication/336661890_Challenges_in_the_Decentralised_Web_The_Mastodon_Case/links/5dbe7001299bf1a47b0f33c6/Challenges-in-the-Decentralised-Web-The-Mastodon-Case.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }, 
+            {
+                "pdf_url": "https://nms.kcl.ac.uk/nishanth.sastry/pdf/MastodonIMC19.pdf", 
+                "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+            }
+        ], 
+        "paper_title": "Challenges in the Decentralised Web: The Mastodon Case"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355588", 
+                "paper_title": "Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+            }, 
+            {
+                "pdf_url": "http://www.cse.psu.edu/~sxz16/papers/IMC19.pdf", 
+                "paper_title": "Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/71a1/7ed28fc9299d9663ccc251d169afcff76467.pdf", 
+                "paper_title": "Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+            }, 
+            {
+                "pdf_url": "https://gangw.web.illinois.edu/imc2019-adblock.pdf", 
+                "paper_title": "Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+            }, 
+            {
+                "pdf_url": "https://gangw.cs.illinois.edu/imc2019-adblock.pdf", 
+                "paper_title": "Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+            }, 
+            {
+                "pdf_url": "http://gangw.cs.illinois.edu/imc2019-adblock.pdf", 
+                "paper_title": "Errors, Misunderstandings, and Attacks: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+            }
+        ], 
+        "paper_title": "Errors, Misunderstandings, and Vulnerabilities: Analyzing the Crowdsourcing Process of Ad-blocking Systems"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355583", 
+                "paper_title": "Tales from the porn: A comprehensive privacy analysis of the web porn ecosystem"
+            }, 
+            {
+                "pdf_url": "http://www1.icsi.berkeley.edu/~narseo/papers/pornweb2019_preprint.pdf", 
+                "paper_title": "Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem"
+            }
+        ], 
+        "paper_title": "Tales from the Porn: A Comprehensive Privacy Analysis of the Web Porn Ecosystem"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355584", 
+                "paper_title": "Reducing Permission Requests in Mobile Apps"
+            }
+        ], 
+        "paper_title": "Reducing Permission Requests in Mobile Apps"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355577", 
+                "paper_title": "Information exposure from consumer iot devices: A multidimensional, network-informed measurement approach"
+            }, 
+            {
+                "pdf_url": "https://www.iotjournaal.nl/wp-content/uploads/2019/09/IoT-Privacy-en-Security-onderzoek.pdf", 
+                "paper_title": "Information Exposure From Consumer IoT Devices"
+            }, 
+            {
+                "pdf_url": "https://moniotrlab.ccis.neu.edu/wp-content/uploads/2019/09/ren-imc19.pdf", 
+                "paper_title": "Information Exposure From Consumer IoT Devices"
+            }, 
+            {
+                "pdf_url": "http://mouillere.com/universconvergents/wp-content/uploads/2019/09/Information-Exposure-From-Consumer-IoT-Devices.pdf", 
+                "paper_title": "Information Exposure From Consumer IoT Devices"
+            }, 
+            {
+                "pdf_url": "https://moniotrlab.ccis.neu.edu/wp-content/uploads/2019/11/iot-dataset-terms-imc19.pdf", 
+                "paper_title": "Information Exposure for Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach"
+            }
+        ], 
+        "paper_title": "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355582", 
+                "paper_title": "No More Chasing Waterfalls: A Measurement Study of the Header Bidding Ad-Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p102.pdf", 
+                "paper_title": "No more Chasing Waterfalls: A Measurement Study of the Header Bidding Ad-Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/96ab/7ef2cae9db10c4eb58e4433c19bbbd2bc505.pdf", 
+                "paper_title": "No more Chasing Waterfalls: A Measurement Study of the Header Bidding Ad-Ecosystem"
+            }
+        ], 
+        "paper_title": "No More Chasing Waterfalls: A Measurement Study of the Header Bidding Ad-Ecosystem"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355603", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "https://www.ahmadbashir.com/static/pdf/bashir-imc19.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "https://personalization.ccs.neu.edu/static/pdf/bashir-imc19.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "https://cbw.sh/static/pdf/bashir-imc19.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "https://sajjadium.github.io/files/imc2019adstxt_paper.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "https://www.ccs.neu.edu/home/ahmad/publications/bashir-imc19.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "https://sajjadium.github.io/files/imc2019adstxt_slides.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/home/ahmad/publications/bashir-imc19.pdf", 
+                "paper_title": "A Longitudinal Analysis of the ads. txt Standard"
+            }
+        ], 
+        "paper_title": "A Longitudinal Analysis of the ads.txt Standard"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355600", 
+                "paper_title": "What You See is NOT What You Get: Discovering and Tracking Social Engineering Attack Campaigns"
+            }, 
+            {
+                "pdf_url": "https://sites.google.com/site/robertoperdisci/publications/publication-files/imc2019-final268.pdf", 
+                "paper_title": "What You See is NOT What You Get: Discovering and Tracking Social Engineering Attack Campaigns"
+            }, 
+            {
+                "pdf_url": "http://www.phanivadrevu.com/files/papers/seacma.pdf", 
+                "paper_title": "What You See is NOT What You Get: Discovering and Tracking Social Engineering Attack Campaigns"
+            }
+        ], 
+        "paper_title": "What You See is NOT What You Get: Discovering and Tracking Ad-Driven Social Engineering Attack Campaigns"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355569", 
+                "paper_title": "q-MAX: A Unified Scheme for Improving Network Measurement Throughput"
+            }
+        ], 
+        "paper_title": "q-MAX: A Unified Scheme for Improving Network Measurement Throughput"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355589", 
+                "paper_title": "Learning Regexes to Extract Router Names from Hostnames"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/~mjl/pubs/rnc.pdf", 
+                "paper_title": "Learning Regexes to Extract Router Names from Hostnames"
+            }, 
+            {
+                "pdf_url": "http://ftp.caida.org/~mjl/pubs/rnc.pdf", 
+                "paper_title": "Learning Regexes to Extract Router Names from Hostnames"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2019/learning_regexes_extract_router/learning_regexes_extract_router.pdf", 
+                "paper_title": "Learning Regexes to Extract Router Names from Hostnames"
+            }
+        ], 
+        "paper_title": "Learning Regexes to Extract Router Names from Hostnames"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355598", 
+                "paper_title": "Prefix Top Lists: Gaining Insights with Prefixes from Domain-based Top Lists on DNS Deployment"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p238.pdf", 
+                "paper_title": "Prefix Top Lists: Gaining Insights with Prefixes from Domain-based Top Lists on DNS Deployment"
+            }, 
+            {
+                "pdf_url": "https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/naab2019prefixtoplists.pdf", 
+                "paper_title": "Prefix Top Lists: Gaining Insights with Prefixes from Domain-based Top Lists on DNS Deployment"
+            }, 
+            {
+                "pdf_url": "https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/naab2019prefixtoplists-slides.pdf", 
+                "paper_title": "Prefix Top Lists: Gaining Insights with Prefixes from Domain-based Top Lists on DNS Deployment"
+            }
+        ], 
+        "paper_title": "Prefix Top Lists: Gaining Insights with Prefixes from Domain-based Top Lists on DNS Deployment"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355591", 
+                "paper_title": "Multiway Reliability Analysis of Mobile Broadband Networks"
+            }
+        ], 
+        "paper_title": "Multiway Reliability Analysis of Mobile Broadband Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355578", 
+                "paper_title": "ECON: Modeling the network to improve application performance"
+            }, 
+            {
+                "pdf_url": "https://netsys.cs.stonybrook.edu/sites/netsys.cs.stonybrook.edu/files/p365-Cao.pdf", 
+                "paper_title": "ECON: Modeling the network to improve application performance"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7412/315ea634fcfd52990850a608e115ce7747cf.pdf", 
+                "paper_title": "ECON: Modeling the network to improve application performance"
+            }, 
+            {
+                "pdf_url": "https://davycao.github.io/imc2019-final87.pdf", 
+                "paper_title": "ECON: Modeling the network to improve application performance"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~anshul/imc19_econ.pdf", 
+                "paper_title": "ECON: Modeling the network to improve application performance"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~arunab/papers/imc19_econ.pdf", 
+                "paper_title": "ECON: Modeling the network to improve application performance"
+            }
+        ], 
+        "paper_title": "ECON: Modeling the network to improve application performance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355601", 
+                "paper_title": "TLS Beyond the Browser: Combining End Host and Network Data to Understand Application Behavior"
+            }
+        ], 
+        "paper_title": "TLS Beyond the Browser: Combining End Host and Network Data to Understand Application Behavior"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355599", 
+                "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p256.pdf", 
+                "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+            }, 
+            {
+                "pdf_url": "https://kapravelos.com/publications/vv8-imc19.pdf", 
+                "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+            }, 
+            {
+                "pdf_url": "https://www.kapravelos.com/publications/vv8-imc19.pdf", 
+                "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+            }, 
+            {
+                "pdf_url": "https://www.newswise.com/pdf_docs/157175308312024_Kapravelos%20VisibleV8%202019%20FINAL.pdf", 
+                "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+            }, 
+            {
+                "pdf_url": "http://kapravelos.com/publications/vv8-imc19.pdf", 
+                "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+            }
+        ], 
+        "paper_title": "VisibleV8: In-browser Monitoring of JavaScript in the Wild"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355596", 
+                "paper_title": "RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins"
+            }, 
+            {
+                "pdf_url": "https://users.cs.duke.edu/~bmm/assets/pubs/ChungABCCLMMR-DRS19.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }, 
+            {
+                "pdf_url": "https://www.cs.umd.edu/~dml/papers/rpki_imc19.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }, 
+            {
+                "pdf_url": "https://taejoong.github.io/pubs/publications/chung-2019-rpki.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/uk/en/multimedia/documents/technical-publication/rpki-is-coming-of-age.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }, 
+            {
+                "pdf_url": "https://mislove.org/publications/RPKI-IMC.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/a16b/628b99b8be768918f3a54a532074e9bc8184.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }, 
+            {
+                "pdf_url": "https://www.ccs.neu.edu/home/amislove/publications/RPKI-IMC.pdf", 
+                "paper_title": "RPKI is Coming of Age"
+            }
+        ], 
+        "paper_title": "RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355581", 
+                "paper_title": "Profiling BGP Serial Hijackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p100.pdf", 
+                "paper_title": "Profiling BGP Serial H\u0133ackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2019/profiling_bgp_serial_hijackers/profiling_bgp_serial_hijackers.pdf", 
+                "paper_title": "Profiling BGP Serial Hijackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/2083/a8c7a4d1a20ad6422aae6fa2f0bdba008d61.pdf", 
+                "paper_title": "Profiling BGP Serial H\u0133ackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/ctestart/publications/BGPserialHijackers.pdf", 
+                "paper_title": "Profiling BGP Serial Hijackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/presentations/2019/profiling_bgp_serial_hijackers_imc/profiling_bgp_serial_hijackers_imc.pdf", 
+                "paper_title": "Profiling BGP Serial H\u0133ackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/ctestart/publications/BGPserialHijackers.pdf", 
+                "paper_title": "Profiling BGP Serial Hijackers: Capturing Persistent Misbehavior in the Global Routing Table"
+            }
+        ], 
+        "paper_title": "Profiling BGP Serial Hijackers: Capturing Persistent Misbehavior in the Global Routing Table"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355593", 
+                "paper_title": "Down the Black Hole: Dismantling Operational Practices of BGP Blackholing at IXPs"
+            }, 
+            {
+                "pdf_url": "https://inet.haw-hamburg.de/papers/nbdsw-dbhdo-19.pdf", 
+                "paper_title": "Down the Black Hole: Dismantling Operational Practices of BGP Blackholing at IXPs"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Christoph_Dietzel/publication/336660269_Down_the_Black_Hole_Dismantling_Operational_Practices_of_BGP_Blackholing_at_IXPs/links/5df50040a6fdcc2837225252/Down-the-Black-Hole-Dismantling-Operational-Practices-of-BGP-Blackholing-at-IXPs.pdf", 
+                "paper_title": "Down the Black Hole: Dismantling Operational Practices of BGP Blackholing at IXPs"
+            }, 
+            {
+                "pdf_url": "http://ilab-pub.imp.fu-berlin.de/papers/nbdsw-dbhdo-19.pdf", 
+                "paper_title": "Down the Black Hole: Dismantling Operational Practices of BGP Blackholing at IXPs"
+            }, 
+            {
+                "pdf_url": "https://ilab-pub.imp.fu-berlin.de/papers/nbdsw-dbhdo-19.pdf", 
+                "paper_title": "Down the Black Hole: Dismantling Operational Practices of BGP Blackholing at IXPs"
+            }
+        ], 
+        "paper_title": "Down the Black Hole: Dismantling Operational Practices of BGP Blackholing at IXPs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355585", 
+                "paper_title": "Opening the blackbox of virustotal: Analyzing online phishing scan engines"
+            }, 
+            {
+                "pdf_url": "https://people.cs.vt.edu/pengp17/papers/imc19-virus.pdf", 
+                "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+            }, 
+            {
+                "pdf_url": "https://gangw.web.illinois.edu/imc19-virus.pdf", 
+                "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+            }, 
+            {
+                "pdf_url": "https://songlh.github.io/paper/imc19.pdf", 
+                "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+            }, 
+            {
+                "pdf_url": "https://gangw.cs.illinois.edu/imc19-virus.pdf", 
+                "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+            }, 
+            {
+                "pdf_url": "https://liminyang.web.illinois.edu/data/IMC19_VirusTotal.pdf", 
+                "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+            }, 
+            {
+                "pdf_url": "http://gangw.cs.illinois.edu/imc19-virus.pdf", 
+                "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+            }
+        ], 
+        "paper_title": "Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355597", 
+                "paper_title": "Measuring eWhoring"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~sp849/files/IMC_2019_measuring-ewhoring.pdf", 
+                "paper_title": "Measuring eWhoring"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/~ah793/papers/2019measuring-ewhoring.pdf", 
+                "paper_title": "Measuring eWhoring"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p222.pdf", 
+                "paper_title": "Measuring eWhoring"
+            }, 
+            {
+                "pdf_url": "https://pureportal.strath.ac.uk/files/92764089/Pastrana_etal_ACM_2019_Measuring_eWhoring.pdf", 
+                "paper_title": "Measuring eWhoring"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~ah793/papers/2019measuring-ewhoring.pdf", 
+                "paper_title": "Measuring eWhoring"
+            }
+        ], 
+        "paper_title": "Measuring eWhoring"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355587", 
+                "paper_title": "ShamFinder: An Automated Framework for Detecting IDN Homographs"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p146.pdf", 
+                "paper_title": "ShamFinder: An Automated Framework for Detecting IDN Homographs"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/edd7/bb812486735ccde70af45fdd013459d3adac.pdf", 
+                "paper_title": "ShamFinder: An Automated Framework for Detecting IDN Homographs"
+            }
+        ], 
+        "paper_title": "ShamFinder: An Automated Framework for Detecting IDN Homographs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355570", 
+                "paper_title": "Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Wesley_Hardaker/publication/336654378_Roll_Roll_Roll_your_Root_A_Comprehensive_Analysis_of_the_First_Ever_DNSSEC_Root_KSK_Rollover/links/5e14c2c292851c8364b77589/Roll-Roll-Roll-your-Root-A-Comprehensive-Analysis-of-the-First-Ever-DNSSEC-Root-KSK-Rollover.pdf", 
+                "paper_title": "Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover"
+            }, 
+            {
+                "pdf_url": "https://taejoong.github.io/pubs/publications/muller-2019-ksk.pdf", 
+                "paper_title": "Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/~hardaker/papers/2019-10-ksk-roll.pdf", 
+                "paper_title": "Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover"
+            }
+        ], 
+        "paper_title": "Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355575", 
+                "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Gareth_Tyson/publication/336660580_An_Empirical_Study_of_the_Cost_of_DNS-over-HTTPS/links/5dbe6f1092851c8180260465/An-Empirical-Study-of-the-Cost-of-DNS-over-HTTPS.pdf", 
+                "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p60.pdf", 
+                "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+            }, 
+            {
+                "pdf_url": "http://eecs.qmul.ac.uk/~boettget/assets/doh-imc19.pdf", 
+                "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+            }, 
+            {
+                "pdf_url": "http://www.eecs.qmul.ac.uk/~tysong/files/DoH.pdf", 
+                "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/c69e/ad273c513487bd8efa444a8a1e7dd98cc025.pdf", 
+                "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+            }
+        ], 
+        "paper_title": "An Empirical Study of the Cost of DNS-over-HTTPS"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355580", 
+                "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Zhou_Li24/publication/336083700_An_End-to-End_Large-Scale_Measurement_of_DNS-over-Encryption_How_Far_Have_We_Come/links/5d8d7468458515202b6cef72/An-End-to-End-Large-Scale-Measurement-of-DNS-over-Encryption-How-Far-Have-We-Come.pdf", 
+                "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+            }, 
+            {
+                "pdf_url": "https://faculty.sites.uci.edu/zhouli/files/2019/09/imc19.pdf", 
+                "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+            }, 
+            {
+                "pdf_url": "http://www.luchaoyi.com/uploads/1/2/0/2/120274471/doe-imc19-hotcrp.pdf", 
+                "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+            }, 
+            {
+                "pdf_url": "https://www.liubaojun.org/uploads/1/1/8/3/118316462/imc2019.pdf", 
+                "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+            }, 
+            {
+                "pdf_url": "https://www.luchaoyi.com/uploads/1/2/0/2/120274471/doe-imc19-hotcrp.pdf", 
+                "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+            }
+        ], 
+        "paper_title": "An End-to-End, Large-Scale Measurement of DNS-over-Encryption: How Far Have We Come?"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355571", 
+                "paper_title": "Measuring Security Practices and How They Impact Security"
+            }, 
+            {
+                "pdf_url": "https://arianamirian.com/docs/imc19.pdf", 
+                "paper_title": "Measuring Security Practices and How They Impact Security"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~voelker/pubs/hygiene-imc19.pdf", 
+                "paper_title": "Measuring Security Practices and How They Impact Security"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~gakiwate/papers/measuring_security_practices-imc19.pdf", 
+                "paper_title": "Measuring Security Practices and How They Impact Security"
+            }
+        ], 
+        "paper_title": "Measuring Security Practices and How They Impact Security"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355592", 
+                "paper_title": "Booting the booters: evaluating the effects of police interventions in the market for denial-of-service attacks"
+            }, 
+            {
+                "pdf_url": "https://pureportal.strath.ac.uk/files/92763832/Collier_etal_ACM_2019_evaluating_the_effects_of_police_interventions_in_the_market_for_denial_of_service_attacks.pdf", 
+                "paper_title": "Booting the Booters: Evaluating the Effects of Police Interventions in the Market for Denial-of-Service Attacks"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~ah793/papers/2019booting.pdf", 
+                "paper_title": "Booting the Booters: Evaluating the Effects of Police Interventions in the Market for Denial-of-Service Attacks"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/~ah793/papers/2019booting.pdf", 
+                "paper_title": "Booting the Booters: Evaluating the Effects of Police Interventions in the Market for Denial-of-Service Attacks"
+            }
+        ], 
+        "paper_title": "Booting the booters: Evaluating the effects of police interventions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355590", 
+                "paper_title": "DDoS Hide & Seek: On the Effectiveness of a Booter Services Takedown"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Christoph_Dietzel/publication/335880659_DDoS_Hide_Seek_On_the_Effectiveness_of_a_Booter_Services_Takedown/links/5df372b9299bf10bc3579e71/DDoS-Hide-Seek-On-the-Effectiveness-of-a-Booter-Services-Takedown.pdf", 
+                "paper_title": "DDoS Hide & Seek: On the Effectiveness of a Booter Services Takedown"
+            }, 
+            {
+                "pdf_url": "https://www.de-cix.net/Files/1294bfa5ab32ebdfe8a1013b478099f80f0fd9fb/Research-paper-DDoS-Hide-and-Seek-On-the-Effectiveness-of-a-Booter-Services-Takedown.pdf", 
+                "paper_title": "DDoS Hide & Seek: On the Effectiveness of a Booter Services Takedown"
+            }
+        ], 
+        "paper_title": "DDoS Hide & Seek: On the Effectiveness of a Booter Services Takedown"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1901.00846", 
+                "paper_title": "A first look at the crypto-mining malware ecosystem: A decade of unrestricted wealth"
+            }
+        ], 
+        "paper_title": "A First Look at the Crypto-Mining Malware Ecosystem: A Decade of Unrestricted Wealth"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355566", 
+                "paper_title": "DNS observatory: The big picture of the DNS"
+            }, 
+            {
+                "pdf_url": "https://www.sidnlabs.nl/downloads/1dGMIwNJ7vObXZAK9btQTK/0ca575029d7691e4c70665f66c1ce7cd/foremski19a.pdf", 
+                "paper_title": "DNS Observatory: The Big Picture of the DNS"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p2.pdf", 
+                "paper_title": "DNS Observatory: The Big Picture of the DNS"
+            }, 
+            {
+                "pdf_url": "https://pub.foremski.pl/2019-imc2019-slides.pdf", 
+                "paper_title": "DNS Observatory: The Big Picture of the DNS"
+            }
+        ], 
+        "paper_title": "DNS Observatory: The Big Picture of the DNS"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Moura19a.pdf", 
+                "paper_title": "Cache me if you can: Effects of DNS Time-to-Live (extended)"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Moura19a.pdf", 
+                "paper_title": "Cache me if you can: Effects of DNS Time-to-Live (extended)"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/publications/trpublic/pdfs/isi-tr-734.pdf", 
+                "paper_title": "Cache Me If You Can: Effects of DNS Time-to-Live (extended)"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7e49/f2284ec007a564fa850083f7fe8cf5ec4955.pdf", 
+                "paper_title": "Cache Me If You Can: Effects of DNS Time-to-Live"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7e49/f2284ec007a564fa850083f7fe8cf5ec4955.pdf", 
+                "paper_title": "Cache Me If You Can: Effects of DNS Time-to-Live"
+            }, 
+            {
+                "pdf_url": "https://indico.dns-oarc.net/event/32/contributions/719/attachments/695/1148/hardaker-cache-me-if-you-can.pdf", 
+                "paper_title": "Cache Me If You Can: Effects of DNS Time-to-Live"
+            }
+        ], 
+        "paper_title": "Cache Me If You Can: Effects of DNS Time-to-Live"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355586", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "http://engr.case.edu/rabinovich_michael/otherPubs/ECS_IMC2019_WithClarifications.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "https://datatracker.ietf.org/meeting/106/materials/slides-106-maprg-a-look-at-the-ecs-behavior-of-dns-resolvers-kyle-schomp-01.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/us/en/multimedia/documents/technical-publication/a-look-at-the-ecs-behavior-of-dns-resolvers.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/c5d7/8210e162affea8835a2585246f71cdd33688.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "https://kyle.scho.mp/docs/rdns_ecs.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "https://kyle.schomp.info/docs/rdns_ecs.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/jp/ja/multimedia/documents/technical-publication/a-look-at-the-ecs-behavior-of-dns-resolvers.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }, 
+            {
+                "pdf_url": "http://engr.case.edu/rabinovich_michael/otherPubs/ecs_imc2019.pdf", 
+                "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+            }
+        ], 
+        "paper_title": "A Look at the ECS Behavior of DNS Resolvers"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355579", 
+                "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~anshul/imc19_bbr.pdf", 
+                "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/f9f3/ea01d556a35699561481534bd53465e77cf6.pdf", 
+                "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+            }, 
+            {
+                "pdf_url": "https://davycao.github.io/imc2019-final89.pdf", 
+                "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+            }, 
+            {
+                "pdf_url": "https://netsys.cs.stonybrook.edu/sites/netsys.cs.stonybrook.edu/files/p130-Cao.pdf", 
+                "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~arunab/papers/imc19_bbr.pdf", 
+                "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+            }
+        ], 
+        "paper_title": "When to use and when not to use BBR: An empirical analysis and evaluation study"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355604", 
+                "paper_title": "Modeling BBR's Interactions with Loss-Based Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://justinesherry.com/papers/ware-imc2019.pdf", 
+                "paper_title": "Modeling BBR's Interactions with Loss-Based Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://www.justinesherry.com/papers/ware-imc2019.pdf", 
+                "paper_title": "Modeling BBR's Interactions with Loss-Based Congestion Control"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cmu.edu/~rware/assets/pdf/ware-imc2019.pdf", 
+                "paper_title": "Modeling BBR's Interactions with Loss-Based Congestion Control"
+            }
+        ], 
+        "paper_title": "Modeling BBR's Interactions with Loss-Based Congestion Control"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355595", 
+                "paper_title": "Scanning the Scanners: Sensing the Internet from a Massively Distributed Network Telescope"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/richterp/imc19_scanners.pdf", 
+                "paper_title": "Scanning the Scanners: Sensing the Internet from a Massively Distributed Network Telescope"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/it/it/multimedia/documents/technical-publication/scanning-the-scanners-the-internet-from-a-massively-distributed-network-telescope.pdf", 
+                "paper_title": "Scanning the Scanners: Sensing the Internet from a Massively Distributed Network Telescope"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/cn/zh/multimedia/documents/technical-publication/scanning-the-scanners-the-internet-from-a-massively-distributed-network-telescope.pdf", 
+                "paper_title": "Scanning the Scanners: Sensing the Internet from a Massively Distributed Network Telescope"
+            }
+        ], 
+        "paper_title": "Scanning the Scanners: Sensing the Internet from a Massively Distributed Network Telescope"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355574", 
+                "paper_title": "Packet-level Overload Estimation in LTE Networks using Passive Measurements"
+            }
+        ], 
+        "paper_title": "Packet-level Overload Estimation in LTE Networks using Passive Measurements"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3355369.3355573", 
+                "paper_title": "Taming Anycast in the Wild Internet"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2019/presentations/p52.pdf", 
+                "paper_title": "Taming Anycast in a Wild Internet"
+            }, 
+            {
+                "pdf_url": "https://smcquistin.uk/assets/papers/taming-mcquistin-2019.pdf", 
+                "paper_title": "Taming Anycast in the Wild Internet"
+            }
+        ], 
+        "paper_title": "Taming Anycast in the Wild Internet"
+    }
+]

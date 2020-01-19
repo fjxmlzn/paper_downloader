@@ -1,0 +1,10 @@
+{
+    "conf_name": "imc2018", 
+    "conf_url": "https://conferences.sigcomm.org/imc/2018/program/", 
+    "conf_attrs": [
+        "class"
+    ], 
+    "conf_ele": [
+        "[[\"[document]\", null], [\"html\", null], [\"body\", [\"container\"]], [\"main\", [\"container-fluid\"]], [\"div\", null], [\"div\", [\"panel\", \"panel-default\"]], [\"ul\", [\"list-group\", \"xxpanel-collapse\", \"xxcollapse\", \"in\"]], [\"ul\", [\"list-group\", \"list-group-session\", \"panel-collapse\", \"collapse\", \"in\"]], [\"li\", [\"list-group-item\"]], [\"div\", [\"row\"]], [\"div\", [\"col-md-7\", \"col-md-offset-1\"]], [\"div\", null], [\"strong\", null]]"
+    ]
+}

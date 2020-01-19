@@ -1,0 +1,886 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/43547/Uhlig%20Elastic%20Sketch%20Adaptive%202018%20Accepted.pdf?sequence=1", 
+                "paper_title": "Elastic sketch: Adaptive and fast network-wide measurements"
+            }, 
+            {
+                "pdf_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/43547/Uhlig%20Elastic%20Sketch%20Adaptive%202018%20Accepted.pdf?sequence=1", 
+                "paper_title": "Elastic Sketch: Adaptive and Fast Network-wide Measurements"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/events/apnet2018/papers/elastic_sketch.pdf", 
+                "paper_title": "Elastic Sketch: Adaptive and Fast Network-wide Measurements"
+            }
+        ], 
+        "paper_title": "Elastic Sketch: Adaptive and Fast Network-wide Measurements"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/teach/ALL/b4andafter.pdf", 
+                "paper_title": "B4 and after: managing hierarchy, partitioning, and asymmetry for availability and scale in google's software-defined WAN"
+            }, 
+            {
+                "pdf_url": "http://zoo.cs.yale.edu/classes/cs434/cs434-2019-spring/readings/b4-and-after-sigcomm18.pdf", 
+                "paper_title": "B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN"
+            }, 
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/teach/ALL/b4andafter.pdf", 
+                "paper_title": "B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN"
+            }, 
+            {
+                "pdf_url": "http://www2.cs.duke.edu/courses/fall18/compsci514/readings/b4after-sigcomm18.pdf", 
+                "paper_title": "B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/b4-after.pdf", 
+                "paper_title": "B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.duke.edu/courses/fall18/compsci514/readings/b4after-sigcomm18.pdf", 
+                "paper_title": "B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN"
+            }
+        ], 
+        "paper_title": "B4 and After: Managing Hierarchy, Partitioning, and Asymmetry for Availability and Scale in Google's Software-Defined WAN"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.rob-sherwood.net/papers/FBOSS-Building-Switch-Software-at-Scale.pdf", 
+                "paper_title": "Fboss: building switch software at scale"
+            }, 
+            {
+                "pdf_url": "https://research.fb.com/wp-content/uploads/2018/07/FBOSS-Building-Switch-Software-at-Scale.pdf", 
+                "paper_title": "FBOSS: Building Switch Software at Scale"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d74a/b4cfae3c238611f698493ddc5cddf17603a7.pdf", 
+                "paper_title": "FBOSS: Building Switch Software at Scale"
+            }, 
+            {
+                "pdf_url": "http://www.rob-sherwood.net/papers/FBOSS-Building-Switch-Software-at-Scale.pdf", 
+                "paper_title": "FBOSS: Building Switch Software at Scale"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_6.4.pdf", 
+                "paper_title": "FBOSS: Building Switch Software at Scale"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_6.4.pdf", 
+                "paper_title": "FBOSS: Building Switch Software at Scale"
+            }
+        ], 
+        "paper_title": "FBOSS: Building Switch Software at Scale"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3337821.3337897", 
+                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+            }, 
+            {
+                "pdf_url": "https://user.informatik.uni-goettingen.de/~ychen/papers/Artemis_ICPP19.pdf", 
+                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/959a/4ea32daf52ab3740be80a25922e14f44592f.pdf", 
+                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Yang_Chen9/publication/334684984_Artemis_A_Practical_Low-latency_Naming_and_Routing_System/links/5d58fd1245851545af4c2026/Artemis-A-Practical-Low-latency-Naming-and-Routing-System.pdf", 
+                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+            }
+        ], 
+        "paper_title": "Internet Anycast: Performance,  Problems and Potential"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://nets.cs.pub.ro/~costin/files/vera-tr.pdf", 
+                "paper_title": "Debugging P4 programs with Vera"
+            }, 
+            {
+                "pdf_url": "http://nets.cs.pub.ro/~costin/files/vera-tr.pdf", 
+                "paper_title": "Debugging P4 programs with Vera"
+            }
+        ], 
+        "paper_title": "Debugging P4 Programs With Vera"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~gakiwate/papers/congestion-sigcomm18.pdf", 
+                "paper_title": "Inferring persistent interdomain congestion"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_1.1.pdf", 
+                "paper_title": "INFERRING PERSISTENT INTERDOMAIN CONGESTION"
+            }, 
+            {
+                "pdf_url": "https://vaibhavbajpai.com/documents/papers/proceedings/persistent-congestion-sigcomm-2018.pdf", 
+                "paper_title": "Inferring Persistent Interdomain Congestion"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~gakiwate/papers/congestion-sigcomm18.pdf", 
+                "paper_title": "Inferring Persistent Interdomain Congestion"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2018/inferring_persistent_interdomain_congestion/inferring_persistent_interdomain_congestion.pdf", 
+                "paper_title": "Inferring Persistent Interdomain Congestion"
+            }, 
+            {
+                "pdf_url": "https://vaibhavbajpai.com/documents/talks/persistent-congestion-sigcomm-2018-slides.pdf", 
+                "paper_title": "INFERRING PERSISTENT INTERDOMAIN CONGESTION"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_1.1.pdf", 
+                "paper_title": "INFERRING PERSISTENT INTERDOMAIN CONGESTION"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~snoeren/papers/congestion-sigcomm18.pdf", 
+                "paper_title": "Inferring Persistent Interdomain Congestion"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/~amogh/papers/congestion-SIGCOMM18.pdf", 
+                "paper_title": "Inferring Persistent Interdomain Congestion"
+            }
+        ], 
+        "paper_title": "Inferring Persistent Interdomain Congestion"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf", 
+                "paper_title": "MUTE: bringing IoT to noise cancellation"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umd.edu/~nirupam/images/2_publication/papers/mute_sigcomm18_nirupam.pdf", 
+                "paper_title": "MUTE: Bringing IoT to Noise Cancellation"
+            }, 
+            {
+                "pdf_url": "http://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf", 
+                "paper_title": "MUTE: Bringing IoT to Noise Cancellation"
+            }, 
+            {
+                "pdf_url": "https://www.cs.umd.edu/~nirupam/images/2_publication/papers/mute_sigcomm18_nirupam.pdf", 
+                "paper_title": "MUTE: Bringing IoT to Noise Cancellation"
+            }, 
+            {
+                "pdf_url": "https://synrg.csl.illinois.edu/papers/mute-sigcomm18.pdf", 
+                "paper_title": "MUTE: Bringing IoT to Noise Cancellation"
+            }
+        ], 
+        "paper_title": "MUTE: Bringing IoT to Noise Cancellation"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://ieeexplore.ieee.org/iel7/8867821/8884790/08885151.pdf", 
+                "paper_title": "Deep Reinforcement Learning Based VNF Management in Geo-distributed Edge Computing"
+            }, 
+            {
+                "pdf_url": "https://conferences.computer.org/icdcs/2019/pdfs/ICDCS2019-49XpIlu3rRtYi2T0qVYnNX/11q32rv79UFEJ3yg292g2W/2wuuNJo4MJxdkmVDtTjJq9.pdf", 
+                "paper_title": "Deep Reinforcement Learning based VNF Management in Geo-distributed Edge Computing"
+            }
+        ], 
+        "paper_title": "AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://vincen.tl/files/sigcomm18-yaseen.pdf", 
+                "paper_title": "Synchronized network snapshots"
+            }, 
+            {
+                "pdf_url": "http://vincen.tl/files/sigcomm18-yaseen.pdf", 
+                "paper_title": "Synchronized Network Snapshots"
+            }
+        ], 
+        "paper_title": "Synchronized Network Snapshots"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf", 
+                "paper_title": "Restructuring endpoint congestion control"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf", 
+                "paper_title": "Restructuring Endpoint Congestion Control"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_1.3.pdf", 
+                "paper_title": "RESTRUCTURING ENDPOINT CONGESTION CONTROL"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/5558/59bb6caceb9a85d88115d118a4ae8a3dd820.pdf", 
+                "paper_title": "RESTRUCTURING ENDPOINT CONGESTION CONTROL"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rutgers.edu/~sn624/552-F18/papers/ccp.pdf", 
+                "paper_title": "Restructuring Endpoint Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/alizadeh/papers/ccp-sigcomm18.pdf", 
+                "paper_title": "Restructuring Endpoint Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_1.3.pdf", 
+                "paper_title": "RESTRUCTURING ENDPOINT CONGESTION CONTROL"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rutgers.edu/~sn624/papers/ccp-sigcomm18.pdf", 
+                "paper_title": "Restructuring Endpoint Congestion Control"
+            }
+        ], 
+        "paper_title": "Restructuring Endpoint Congestion Control"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10088605", 
+                "paper_title": "Awstream: Adaptive wide-area streaming analytics"
+            }, 
+            {
+                "pdf_url": "https://www.cs.jhu.edu/~xinjin/files/SIGCOMM18_AWStream.pdf", 
+                "paper_title": "AWStream: Adaptive Wide-Area Streaming Analytics"
+            }, 
+            {
+                "pdf_url": "https://ptolemy.berkeley.edu/publications/papers/18/ZhangEtAl_AWStream_SIGCOMM_18.pdf", 
+                "paper_title": "AWStream: Adaptive Wide-Area Streaming Analytics"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10088605", 
+                "paper_title": "AWStream: adaptive wide-area streaming analytics"
+            }, 
+            {
+                "pdf_url": "https://awstream.github.io/paper/awstream.pdf", 
+                "paper_title": "AWStream: Adaptive Wide-Area Streaming Analytics"
+            }, 
+            {
+                "pdf_url": "http://www.cs.jhu.edu/~xinjin/files/SIGCOMM18_AWStream.pdf", 
+                "paper_title": "AWStream: Adaptive Wide-Area Streaming Analytics"
+            }
+        ], 
+        "paper_title": "AWStream: Adaptive Wide-Area Streaming Analytics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://repository.kaust.edu.sa/bitstream/handle/10754/626547/p357-gupta.pdf?sequence=6", 
+                "paper_title": "Sonata: Query-driven streaming network telemetry"
+            }, 
+            {
+                "pdf_url": "https://mcanini.github.io/papers/sonata.sigcomm18.pdf", 
+                "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~jrex/papers/sonata.pdf", 
+                "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+            }, 
+            {
+                "pdf_url": "https://sites.cs.ucsb.edu/~arpitgupta/pdfs/sonata.pdf", 
+                "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d314/bb3cb6c769dafe1970b9ddf2cbb50c72e3e9.pdf", 
+                "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~jrex/papers/sonata.pdf", 
+                "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+            }
+        ], 
+        "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www4.comp.polyu.edu.hk/~csdwang/Publication/SIGCOMM18-final.pdf", 
+                "paper_title": "A measurement study on multi-path TCP with multiple cellular carriers on high speed rails"
+            }, 
+            {
+                "pdf_url": "http://www.thucsnet.org/uploads/2/5/2/8/25289795/p161-li.pdf", 
+                "paper_title": "A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High Speed Rails"
+            }, 
+            {
+                "pdf_url": "http://www4.comp.polyu.edu.hk/~csdwang/Publication/SIGCOMM18-final.pdf", 
+                "paper_title": "A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High Speed Rails"
+            }, 
+            {
+                "pdf_url": "https://www.cs.purdue.edu/homes/chunyi/pubs/sigcomm18-li.pdf", 
+                "paper_title": "A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High Speed Rails"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/events/apnet2018/papers/measurement.pdf", 
+                "paper_title": "A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High Speed Rails"
+            }, 
+            {
+                "pdf_url": "https://www4.comp.polyu.edu.hk/~csdwang/Publication/SIGCOMM18-final.pdf", 
+                "paper_title": "A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High Speed Rails"
+            }
+        ], 
+        "paper_title": "A Measurement Study on Multi-path TCP with Multiple Cellular Carriers on High-speed Rails"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1806.08159", 
+                "paper_title": "Revisiting network support for rdma"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~radhika/irn.pdf", 
+                "paper_title": "Revisiting Network Support for RDMA"
+            }, 
+            {
+                "pdf_url": "http://netseminar.stanford.edu/seminars/03_16_17.pdf", 
+                "paper_title": "Revisiting Network Support for RDMA"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_6.2.pdf", 
+                "paper_title": "Revisiting Network Support for RDMA"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/56b2/17cea720c2a64883c2dcc2438550ad7a3f49.pdf", 
+                "paper_title": "Revisiting Network Support for RDMA"
+            }
+        ], 
+        "paper_title": "Revisiting Network Support for RDMA"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf", 
+                "paper_title": "Oboe: auto-tuning video ABR algorithms to network conditions"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7a47/77371a4a993445bddb3d4ac6721e93654402.pdf", 
+                "paper_title": "Oboe: Auto-tuning Video ABR Algorithms to Network Conditions"
+            }, 
+            {
+                "pdf_url": "https://nsl.usc.edu/wp-content/uploads/2018/07/oboe-sigcomm18-final128.pdf", 
+                "paper_title": "Oboe: Auto-tuning Video ABR Algorithms to Network Conditions"
+            }, 
+            {
+                "pdf_url": "https://engineering.purdue.edu/~isl/papers/sigcomm18-final128.pdf", 
+                "paper_title": "Oboe: Auto-tuning Video ABR Algorithms to Network Conditions"
+            }
+        ], 
+        "paper_title": "Oboe: Auto-tuning Video ABR Algorithms to Network Conditions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://adslab.cse.cuhk.edu.hk/pubs/tech_sketchlearn.pdf", 
+                "paper_title": "Sketchlearn: relieving user burdens in approximate measurement with automated statistical inference"
+            }, 
+            {
+                "pdf_url": "http://adslab.cse.cuhk.edu.hk/pubs/tech_sketchlearn.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/59b5/8d6556f9371230e07b1a689211f57ef30555.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }, 
+            {
+                "pdf_url": "https://www.cse.cuhk.edu.hk/~pclee/www/pubs/tech_sketchlearn.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/events/apnet2018/papers/sketchlearn.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_10.4.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }, 
+            {
+                "pdf_url": "http://adslab.cse.cuhk.edu.hk/pubs/sigcomm18.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }, 
+            {
+                "pdf_url": "http://www.cse.cuhk.edu.hk/~pclee/www/pubs/tech_sketchlearn.pdf", 
+                "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+            }
+        ], 
+        "paper_title": "SketchLearn: Relieving User Burdens in Approximate Measurement with Automated Statistical Inference"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1112/R02/papers/p327-neugebauer.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_6.3.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1112/R02/papers/p327-neugebauer.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://gianniantichi.github.io/files/papers/pciebench.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/teaching/1011/R02/papers/p327-neugebauer.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://gianniantichi.github.io/files/presentations/pciebench-sigcomm.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/teaching/0910/R02/papers/p327-neugebauer.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1011/R02/papers/p327-neugebauer.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_6.3.pdf", 
+                "paper_title": "Understanding PCIe performance for end host networking"
+            }
+        ], 
+        "paper_title": "Understanding PCIe Performance for End Host Networking"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://128.232.0.20/teaching/0910/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous convergence of policy-rich distributed bellman-ford routing protocols"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_2.4.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/dc69/8c25dee059501c8c0170d879dbf5239181a1.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/teaching/0910/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1718/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_2.4.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/0910/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }
+        ], 
+        "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230562", 
+                "paper_title": "T rident: toward a unified SDN programming framework with automatic updates"
+            }
+        ], 
+        "paper_title": "Trident: Towards a Unified SDN Programming Framework with Automatic Updates"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://faculty.cs.gwu.edu/timwood/papers/18-SIGCOMM-uboxes.pdf", 
+                "paper_title": "Microboxes: high performance nfv with customizable, asynchronous tcp stacks and dynamic subscriptions"
+            }, 
+            {
+                "pdf_url": "http://faculty.cs.gwu.edu/timwood/papers/18-SIGCOMM-uboxes.pdf", 
+                "paper_title": "Microboxes: High Performance NFV with Customizable, Asynchronous TCP Stacks and Dynamic Subscriptions"
+            }, 
+            {
+                "pdf_url": "http://grace-liu.github.io/static/papers/18-SIGCOMM-ubox.pdf", 
+                "paper_title": "Microboxes: High Performance NFV with Customizable, Asynchronous TCP Stacks and Dynamic Subscriptions"
+            }
+        ], 
+        "paper_title": "Microboxes: High Performance NFV with Customizable, Asynchronous TCP Stacks and Dynamic Subscriptions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1803.09615", 
+                "paper_title": "Homa: A receiver-driven low-latency transport protocol using network priorities"
+            }, 
+            {
+                "pdf_url": "http://nms.lcs.mit.edu/papers/p221-montazeri.pdf", 
+                "paper_title": "Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities"
+            }, 
+            {
+                "pdf_url": "http://nms.csail.mit.edu/papers/p221-montazeri.pdf", 
+                "paper_title": "Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf", 
+                "paper_title": "Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/alizadeh/papers/homa-sigcomm18.pdf", 
+                "paper_title": "Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities"
+            }
+        ], 
+        "paper_title": "Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230565", 
+                "paper_title": "In-body backscatter communication and localization"
+            }
+        ], 
+        "paper_title": "In-body Backscatter Communication and Localization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Christoph_Steiger/publication/326842261_Enabling_Deep-Tissue_Networking_for_Miniature_Medical_Devices/links/5b6897cfa6fdcc87df6d5dbb/Enabling-Deep-Tissue-Networking-for-Miniature-Medical-Devices.pdf", 
+                "paper_title": "Enabling deep-tissue networking for miniature medical devices"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Christoph_Steiger/publication/326842261_Enabling_Deep-Tissue_Networking_for_Miniature_Medical_Devices/links/5b6897cfa6fdcc87df6d5dbb/Enabling-Deep-Tissue-Networking-for-Miniature-Medical-Devices.pdf", 
+                "paper_title": "Enabling Deep-Tissue Networking for Miniature Medical Devices"
+            }
+        ], 
+        "paper_title": "Enabling Deep-Tissue Networking for Miniature Medical Devices"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/events/apnet2018/papers/plora.pdf", 
+                "paper_title": "PLoRa: A passive long-range data network from ambient LoRa transmissions"
+            }, 
+            {
+                "pdf_url": "http://paws.cs.princeton.edu/https%3A//conferences.sigcomm.org/events/apnet2018/papers/plora.pdf", 
+                "paper_title": "PLoRa: A Passive Long-Range Data Network from Ambient LoRa Transmissions"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/events/apnet2018/papers/plora.pdf", 
+                "paper_title": "PLoRa: A Passive Long-Range Data Network from Ambient LoRa Transmissions"
+            }
+        ], 
+        "paper_title": "PLoRa: A Passive Long-Range Data Networks from Ambient LoRa Transmissions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/Nisar2018a.pdf", 
+                "paper_title": "Incentivizing censorship measurements via circumvention"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/csaw.pdf", 
+                "paper_title": "Incentivizing Censorship Measurements via Circumvention"
+            }, 
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/Nisar2018a.pdf", 
+                "paper_title": "Incentivizing Censorship Measurements via Circumvention"
+            }
+        ], 
+        "paper_title": "Incentivizing Censorship Measurements via Circumvention"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://cs.cornell.edu/~ragarwal/pubs/sincronia.pdf", 
+                "paper_title": "Sincronia: near-optimal network design for coflows"
+            }, 
+            {
+                "pdf_url": "http://cs.cornell.edu/~ragarwal/pubs/sincronia.pdf", 
+                "paper_title": "Sincronia: Near-Optimal Network Design for Coflows"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~saksham/sincronia.pdf", 
+                "paper_title": "Sincronia: Near-Optimal Network Design for Coflows"
+            }
+        ], 
+        "paper_title": "Sincronia: Near-Optimal Network Design for Coflows"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://eprints.cs.univie.ac.at/5653/11/2018-sigcomm.pdf", 
+                "paper_title": "RADWAN: rate adaptive wide area network"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~phillipa/papers/sigcomm-RADWAN-2018.pdf", 
+                "paper_title": "RADWAN: Rate Adaptive Wide Area Network"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/ghobadi/papers/radwan_sigcomm_2018.pdf", 
+                "paper_title": "RADWAN: Rate Adaptive Wide Area Network"
+            }, 
+            {
+                "pdf_url": "https://ktfoerster.github.io/paper/2018-sigcomm.pdf", 
+                "paper_title": "RADWAN: Rate Adaptive Wide Area Network"
+            }, 
+            {
+                "pdf_url": "http://eprints.cs.univie.ac.at/5653/11/2018-sigcomm.pdf", 
+                "paper_title": "RADWAN: Rate Adaptive Wide Area Network"
+            }, 
+            {
+                "pdf_url": "http://www.racheesingh.com/files/sigcomm-RADWAN-2018.pdf", 
+                "paper_title": "RADWAN: Rate Adaptive Wide Area Network"
+            }
+        ], 
+        "paper_title": "RADWAN: Rate Adaptive Wide Area Network"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10067601", 
+                "paper_title": "Polymorphic radios: A new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10067601", 
+                "paper_title": "Polymorphic radios: a new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_8.3.pdf", 
+                "paper_title": "Polymorphic Radios: A new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Mohammad_Rostami17/publication/326906464_Polymorphic_radios_a_new_design_paradigm_for_ultra-low_power_communication/links/5b82cb24299bf1d5a729723b/Polymorphic-radios-a-new-design-paradigm-for-ultra-low-power-communication.pdf", 
+                "paper_title": "Polymorphic radios: A new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "https://engineering.virginia.edu/sites/default/files/common/departments/electrical-and-computer-engineering/computer-engineering/files/Polymorphicr%20adios.pdf", 
+                "paper_title": "Polymorphic radios: A new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf", 
+                "paper_title": "Polymorphic radios: A new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~dganesan/papers/SIGCOMM18-Polymorphic.pdf", 
+                "paper_title": "Polymorphic radios: A new design paradigm for ultra-low power communication"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_8.3.pdf", 
+                "paper_title": "Polymorphic Radios: A new design paradigm for ultra-low power communication"
+            }
+        ], 
+        "paper_title": "Polymorphic Radios: A New Design Paradigm for Ultra-Low Power Communication"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10095501", 
+                "paper_title": "Hyperloop: group-based NIC-offloading to accelerate replicated transactions in multi-tenant storage systems"
+            }, 
+            {
+                "pdf_url": "http://yibozhu.com/doc/hyperloop-sigcomm18.pdf", 
+                "paper_title": "HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems"
+            }, 
+            {
+                "pdf_url": "http://nvmw.ucsd.edu/nvmw2019-program/unzip/current/nvmw2019-final2.pdf", 
+                "paper_title": "HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems"
+            }, 
+            {
+                "pdf_url": "http://users.ece.cmu.edu/~vsekar/papers/sigcomm18_hyperloop.pdf", 
+                "paper_title": "HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10095501", 
+                "paper_title": "Hyperloop: group-based NIC-offloading to accelerate replicated transactions in multi-tenant storage systems"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/hyperloop.pdf", 
+                "paper_title": "HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems"
+            }
+        ], 
+        "paper_title": "HyperLoop: Group-Based NIC-Offloading to Accelerate Replicated Transactions in Multi-Tenant Storage Systems"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://infoscience.epfl.ch/record/261336/files/main.pdf", 
+                "paper_title": "Automated synthesis of adversarial workloads for network functions"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/bb6b/26feab39cbbb90aa0494cb384e434709aab6.pdf", 
+                "paper_title": "Automated Synthesis of Adversarial Workloads for Network Functions"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_7.2.pdf", 
+                "paper_title": "Automated Synthesis of Adversarial Workloads for Network Functions"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_7.2.pdf", 
+                "paper_title": "Automated Synthesis of Adversarial Workloads for Network Functions"
+            }
+        ], 
+        "paper_title": "Automated Synthesis of Adversarial Workloads for Network Functions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230574", 
+                "paper_title": "Chameleon: scalable adaptation of video analytics"
+            }
+        ], 
+        "paper_title": "Chameleon: Scalable Adaptation of Video Analytics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://discovery.ucl.ac.uk/10054545/1/OnLowLatencyCapableTopologiesAndTheirImpactOnTheDesignOfIntraDomainRouting_sigcomm18.pdf", 
+                "paper_title": "On low-latency-capable topologies, and their impact on the design of intra-domain routing"
+            }, 
+            {
+                "pdf_url": "http://www0.cs.ucl.ac.uk/staff/S.Vissicchio/papers/OnLowLatencyCapableTopologiesAndTheirImpactOnTheDesignOfIntraDomainRouting_sigcomm18.pdf", 
+                "paper_title": "On low-latency-capable topologies, and their impact on the design of intra-domain routing"
+            }
+        ], 
+        "paper_title": "On Low-Latency-Capable Topologies, and Their Impact on the Design of Intra-Domain Routing"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf", 
+                "paper_title": "Leveraging interconnections for performance: the serving infrastructure of a large cdn"
+            }, 
+            {
+                "pdf_url": "https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/p206-wohlfart.pdf", 
+                "paper_title": "Leveraging Interconnections for Performance"
+            }, 
+            {
+                "pdf_url": "http://www2.cs.uh.edu/~gnawali/courses/cosc6377-f18/papers/Wohlfart18.pdf", 
+                "paper_title": "Leveraging Interconnections for Performance"
+            }
+        ], 
+        "paper_title": "Leveraging Interconnections for Performance: The Serving Infrastructure of a Large CDN"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cs.rice.edu/~eugeneng/papers/SIGCOMM18.pdf", 
+                "paper_title": "Masking failures from application performance in data center networks with shareable backup"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rice.edu/~eugeneng/papers/SIGCOMM18.pdf", 
+                "paper_title": "Masking Failures from Application Performance in Data Center Networks with Shareable Backup"
+            }, 
+            {
+                "pdf_url": "http://www.cs.rice.edu/~eugeneng/papers/SIGCOMM18.pdf", 
+                "paper_title": "Masking Failures from Application Performance in Data Center Networks with Shareable Backup"
+            }
+        ], 
+        "paper_title": "Masking Failures from Application Performance in Data Center Networks with Shareable Backup"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230578", 
+                "paper_title": "Chorus: truly distributed distributed-mimo"
+            }
+        ], 
+        "paper_title": "Chorus: Truly Distributed Distributed-MIMO"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf", 
+                "paper_title": "RF-based 3D skeletons"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf", 
+                "paper_title": "RF-Based 3D Skeletons"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/yonglong/yonglong/rfpose.pdf", 
+                "paper_title": "RF-Based 3D Skeletons"
+            }
+        ], 
+        "paper_title": "RF-Based 3D Skeletons"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230580", 
+                "paper_title": "Networking across boundaries: enabling wireless communication through the water-air interface"
+            }
+        ], 
+        "paper_title": "Networking across Boundaries: Enabling Communication through the Water-Air Interface"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://synrg.csl.illinois.edu/papers/agile-sigcomm18.pdf", 
+                "paper_title": "Fast millimeter wave beam alignment"
+            }, 
+            {
+                "pdf_url": "https://synrg.csl.illinois.edu/papers/agile-sigcomm18.pdf", 
+                "paper_title": "Fast Millimeter Wave Beam Alignment"
+            }, 
+            {
+                "pdf_url": "http://synrg.csl.illinois.edu/papers/agile-sigcomm18.pdf", 
+                "paper_title": "Fast Millimeter Wave Beam Alignment"
+            }
+        ], 
+        "paper_title": "Fast Millimeter Wave Beam Alignment"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://yuba.stanford.edu/~nickm/papers/p4v.pdf", 
+                "paper_title": "P4v: Practical verification for programmable data planes"
+            }, 
+            {
+                "pdf_url": "https://jedliu.net/papers/p4v-sigcomm2018.pdf", 
+                "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "http://tiny-tera.stanford.edu/~nickm/papers/p4v.pdf", 
+                "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "http://www.cs.yale.edu/homes/soule/pubs/sigcomm2018.pdf", 
+                "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_9.2.pdf", 
+                "paper_title": "p4v Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "http://yuba.stanford.edu/~nickm/papers/p4v.pdf", 
+                "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~jnfoster/papers/p4v.pdf", 
+                "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "https://jedliu.net/slides/p4v-sigcomm2018-slides.pdf", 
+                "paper_title": "p4v Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_9.2.pdf", 
+                "paper_title": "p4v Practical Verification for Programmable Data Planes"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cornell.edu/~jnfoster/papers/p4v.pdf", 
+                "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+            }
+        ], 
+        "paper_title": "p4v: Practical Verification for Programmable Data Planes"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://patentimages.storage.googleapis.com/ed/8a/65/487c97c90da4c4/US8111707.pdf", 
+                "paper_title": "Compression mechanisms for control plane\u2014data plane processing architectures"
+            }
+        ], 
+        "paper_title": "Control Plane Compression"
+    }
+]

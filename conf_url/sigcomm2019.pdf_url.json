@@ -1,0 +1,660 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342075", 
+                "paper_title": "Enabling a permanent revolution in internet architecture"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/ece598hpn/fa2019/papers/trotsky.pdf", 
+                "paper_title": "Enabling a Permanent Revolution in Internet Architecture"
+            }, 
+            {
+                "pdf_url": "https://courses.grainger.illinois.edu/cs598hpn/fa2019/papers/trotsky.pdf", 
+                "paper_title": "Enabling a Permanent Revolution in Internet Architecture"
+            }, 
+            {
+                "pdf_url": "https://raghavan.usc.edu/papers/evolution-sigcomm19.pdf", 
+                "paper_title": "Enabling a Permanent Revolution in Internet Architecture"
+            }
+        ], 
+        "paper_title": "Enabling a Permanent Revolution in Internet Architecture"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342074", 
+                "paper_title": "Bridging the data charging gap in the cellular edge"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Yuanjie_Li5/publication/335181078_Bridging_the_data_charging_gap_in_the_cellular_edge/links/5da4d08745851553ff91f78c/Bridging-the-data-charging-gap-in-the-cellular-edge.pdf", 
+                "paper_title": "Bridging the Data Charging Gap in the Cellular Edge"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Yuanjie_Li5/publication/335186445_Bridging_the_Data_Charging_Gap_in_the_Cellular_Edge/links/5d9caa3f458515c1d3a1418b/Bridging-the-Data-Charging-Gap-in-the-Cellular-Edge.pdf", 
+                "paper_title": "Bridging the Data Charging Gap in the Cellular Edge"
+            }
+        ], 
+        "paper_title": "Bridging the Data Charging Gap in the Cellular Edge"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342069", 
+                "paper_title": "TEAVAR: striking the right utilization-availability balance in WAN traffic engineering"
+            }, 
+            {
+                "pdf_url": "http://teavar.csail.mit.edu/paper.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "http://www.cs.huji.ac.il/~schapiram/teavar_sigcomm_2019.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "https://www.cse.huji.ac.il/~schapiram/teavar_sigcomm_2019.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "https://www.microsoft.com/en-us/research/uploads/prod/2019/07/teavar_sigcomm_2019.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/6.829/www/currentsemester/papers/teavar.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/ghobadi/papers/teavar_sigcomm_2019.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "https://www.cs.huji.ac.il/~schapiram/teavar_sigcomm_2019.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/ghobadi/papers/teavar_sigcomm_2019.pdf", 
+                "paper_title": "TeaVaR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+            }
+        ], 
+        "paper_title": "TEAVAR: Striking the Right Utilization-Availability Balance in WAN Traffic Engineering"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342085", 
+                "paper_title": "HPCC: high precision congestion control"
+            }, 
+            {
+                "pdf_url": "https://www.repository.cam.ac.uk/bitstream/handle/1810/299420/hpcc.pdf?sequence=1", 
+                "paper_title": "HPCC: High precision congestion control"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/sigcomm2019-final419.pdf", 
+                "paper_title": "HPCC: High Precision Congestion Control"
+            }, 
+            {
+                "pdf_url": "https://rmiao.github.io/publications/hpcc-li.pdf", 
+                "paper_title": "HPCC: High Precision Congestion Control"
+            }, 
+            {
+                "pdf_url": "https://resource.hpisys.com/seminar-papers/2019/paper/20190901_SIGCOMM2019_HPCC%20High%20Precision%20Congestion%20Control.pdf", 
+                "paper_title": "HPCC: High Precision Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/writeup/sigcomm19.pdf", 
+                "paper_title": "HPCC: High Precision Congestion Control"
+            }, 
+            {
+                "pdf_url": "https://schwartzpr.de/website/uploads/Alibaba-HPCC-High-Precision-Congestion-Control.pdf", 
+                "paper_title": "HPCC: High Precision Congestion Control"
+            }
+        ], 
+        "paper_title": "HPCC: High Precision Congestion Control"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342078", 
+                "paper_title": "Pluginizing quic"
+            }, 
+            {
+                "pdf_url": "https://seminar-materials.iijlab.net/iijlab-seminar/iijlab-seminar-20190826.pdf", 
+                "paper_title": "Pluginizing QUIC"
+            }, 
+            {
+                "pdf_url": "https://dial.uclouvain.be/pr/boreal/object/boreal%3A218857/datastream/PDF_01/view", 
+                "paper_title": "Pluginizing QUIC"
+            }
+        ], 
+        "paper_title": "Pluginizing QUIC"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342065", 
+                "paper_title": "Gentle flow control: avoiding deadlock in lossless networks"
+            }, 
+            {
+                "pdf_url": "https://resource.hpisys.com/seminar-papers/2019/paper/20191206_SIGCOMM2019_Gentle%20Flow%20Control%20Avoiding%20Deadlock%20in%20Lossless%20Networks.pdf", 
+                "paper_title": "Gentle Flow Control: Avoiding Deadlock in Lossless Networks"
+            }
+        ], 
+        "paper_title": "Gentle Flow Control: Avoiding Deadlock in Lossless Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342071", 
+                "paper_title": "SocksDirect: Datacenter sockets can be fast and compatible"
+            }, 
+            {
+                "pdf_url": "https://baiwei0427.github.io/papers/socksdirect-sigcomm2019.pdf", 
+                "paper_title": "SocksDirect: Datacenter Sockets can be Fast and Compatible"
+            }, 
+            {
+                "pdf_url": "https://ring0.me/files/SocksDirect/socksdirect-sigcomm19.pdf", 
+                "paper_title": "SocksDirect: Datacenter Sockets can be Fast and Compatible"
+            }
+        ], 
+        "paper_title": "SocksDirect: Datacenter Sockets can be Fast and Compatible"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342073", 
+                "paper_title": "Zooming in on wide-area latencies to a global cloud provider"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/blameit.pdf", 
+                "paper_title": "Zooming in on Wide-area Latencies to a Global Cloud Provider"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/blameit.pdf", 
+                "paper_title": "Zooming in on Wide-area Latencies to a Global Cloud Provider"
+            }
+        ], 
+        "paper_title": "Zooming in on Wide-area Latencies to a Global Cloud Provider"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342081", 
+                "paper_title": "RF-based inertial measurement"
+            }, 
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3342280.3342313", 
+                "paper_title": "RF-based Inertial Measurement"
+            }
+        ], 
+        "paper_title": "RF-based Inertial Measurement"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342092", 
+                "paper_title": "A large-scale analysis of deployed traffic differentiation practices"
+            }, 
+            {
+                "pdf_url": "https://mislove.org/publications/Differentiation-SIGCOMM.pdf", 
+                "paper_title": "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
+            }, 
+            {
+                "pdf_url": "https://www.xbiz.com/docs/news/246295_carrier-speed.pdf", 
+                "paper_title": "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~phillipa/papers/Differentiation-SIGCOMM.pdf", 
+                "paper_title": "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/~amislove/publications/Differentiation-SIGCOMM.pdf", 
+                "paper_title": "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/home/amislove/publications/Differentiation-SIGCOMM.pdf", 
+                "paper_title": "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
+            }
+        ], 
+        "paper_title": "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342084", 
+                "paper_title": "Residential links under the weather"
+            }, 
+            {
+                "pdf_url": "https://www.cs.umd.edu/users/dml/papers/weather_sigcomm19.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/0939/e476ed72421cb608431001ab9e23b3d41d59.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2019/residential_links_under_weather/residential_links_under_weather.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }, 
+            {
+                "pdf_url": "https://obj.umiacs.umd.edu/weather/under-the-weather.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~schulman/docs/sigcomm19-weather.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~schulman/docs/sigcomm19-weather.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umd.edu/~dml/papers/weather_sigcomm19.pdf", 
+                "paper_title": "Residential Links Under the Weather"
+            }
+        ], 
+        "paper_title": "Residential Links Under the Weather"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342070", 
+                "paper_title": "A link layer protocol for quantum networks"
+            }, 
+            {
+                "pdf_url": "https://qutech.nl/wp-content/uploads/2019/03/A-Link-Layer-Protocol-for-Quantum-Networks.pdf", 
+                "paper_title": "A Link Layer Protocol for Quantum Networks"
+            }
+        ], 
+        "paper_title": "A Link Layer Protocol for Quantum Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342068", 
+                "paper_title": "A millimeter wave network for billions of things"
+            }
+        ], 
+        "paper_title": "A Millimeter Wave Network for Billions of Things"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342091", 
+                "paper_title": "Underwater backscatter networking"
+            }
+        ], 
+        "paper_title": "Underwater Backscatter Networking"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342094", 
+                "paper_title": "Validating datacenters at scale"
+            }
+        ], 
+        "paper_title": "Validating Datacenters at Scale"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342088", 
+                "paper_title": "Safely and automatically updating in-network ACL configurations with intent language"
+            }, 
+            {
+                "pdf_url": "https://ennanzhai.github.io/jinjing-sigcomm19.pdf", 
+                "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/sigcomm2019-final505.pdf", 
+                "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+            }, 
+            {
+                "pdf_url": "https://cs.nju.edu.cn/_upload/tpl/01/65/357/template357/lunwen/2019/sigcomm2019-final505.pdf", 
+                "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+            }, 
+            {
+                "pdf_url": "https://people.cs.uchicago.edu/~ravenben/publications/pdf/acl-sigcomm19.pdf", 
+                "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+            }, 
+            {
+                "pdf_url": "https://cs.nju.edu.cn/tianchen/lunwen/2019/sigcomm2019-final505.pdf", 
+                "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+            }, 
+            {
+                "pdf_url": "http://people.cs.uchicago.edu/~ravenben/publications/pdf/acl-sigcomm19.pdf", 
+                "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+            }
+        ], 
+        "paper_title": "Safely and Automatically Updating In-Network ACL Configurations with Intent Language"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342087", 
+                "paper_title": "Formal specification and testing of QUIC"
+            }, 
+            {
+                "pdf_url": "http://mcmil.net/pubs/SIGCOMM19.pdf", 
+                "paper_title": "Formal specification and testing of QUIC"
+            }, 
+            {
+                "pdf_url": "http://www.mcmil.net/pubs/SIGCOMM19.pdf", 
+                "paper_title": "Formal specification and testing of QUIC"
+            }
+        ], 
+        "paper_title": "Formal Specification and Testing of QUIC"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/44272/Cuadrado%20Looking%20for%20Hypergiants%202018%20Accepted.pdf?sequence=1", 
+                "paper_title": "Looking for hypergiants in peeringDB"
+            }, 
+            {
+                "pdf_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/44272/Cuadrado%20Looking%20for%20Hypergiants%202018%20Accepted.pdf?sequence=1", 
+                "paper_title": "Looking for Hypergiants in PeeringDB"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/60b0/a5dfe5edaf91e814c4db959c9a363d91326a.pdf", 
+                "paper_title": "Looking for Hypergiants in PeeringDB"
+            }, 
+            {
+                "pdf_url": "http://coseners.net/wp-content/uploads/2018/07/Looking-for-Hypergiants-in-PeeringDB.pdf", 
+                "paper_title": "Looking for Hypergiants in PeeringDB"
+            }, 
+            {
+                "pdf_url": "https://ccronline.sigcomm.org/wp-content/uploads/2018/07/sigcomm-ccr-final188.pdf", 
+                "paper_title": "Looking for Hypergiants in PeeringDB"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/a413/1cb2d0e7d7b7b696a9fc40c37d8eb7eabed3.pdf", 
+                "paper_title": "Looking for Hypergiants in PeeringDB"
+            }, 
+            {
+                "pdf_url": "https://ccronline.sigcomm.org/wp-content/uploads/2017/09/sigcomm-ccr-paper120.pdf", 
+                "paper_title": "Looking for Hypergiants in PeeringDB"
+            }
+        ], 
+        "paper_title": "Looking for Hypergiants in PeeringDB"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1902.02165", 
+                "paper_title": "The dagstuhl beginners guide to reproducibility for experimental networking research"
+            }, 
+            {
+                "pdf_url": "http://ilab-pub.imp.fu-berlin.de/papers/bbfkp-dbgre-19.pdf", 
+                "paper_title": "The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research"
+            }, 
+            {
+                "pdf_url": "https://ccronline.sigcomm.org/wp-content/uploads/2019/02/sigcomm-ccr-final284.pdf", 
+                "paper_title": "The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research"
+            }, 
+            {
+                "pdf_url": "https://vaibhavbajpai.com/documents/papers/proceedings/dagstuhl-reproducibility-guidelines-ccr-2019.pdf", 
+                "paper_title": "The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research"
+            }
+        ], 
+        "paper_title": "The Dagstuhl Beginners Guide to Reproducibility for Experimental Networking Research"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342072", 
+                "paper_title": "Leveraging quantum annealing for large MIMO processing in centralized radio access networks"
+            }, 
+            {
+                "pdf_url": "http://paws.cs.princeton.edu/sites/default/files/SIGCOMM_19_123_Quantum_MIMO_Decoder_final_version.pdf", 
+                "paper_title": "Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/40d6/cba01995df2c1e48225e1bce288e296c12ce.pdf", 
+                "paper_title": "Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks"
+            }, 
+            {
+                "pdf_url": "https://paws.cs.princeton.edu/sites/default/files/SIGCOMM_19_123_Quantum_MIMO_Decoder_final_version.pdf", 
+                "paper_title": "Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks"
+            }
+        ], 
+        "paper_title": "Leveraging Quantum Annealing for Large MIMO Processing in Centralized Radio Access Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1902.10319", 
+                "paper_title": "Neural Packet Classification"
+            }
+        ], 
+        "paper_title": "Neural Packet Classification"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342080", 
+                "paper_title": "Learning scheduling algorithms for data processing clusters"
+            }, 
+            {
+                "pdf_url": "http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/papers/clusters.pdf", 
+                "paper_title": "Learning Scheduling Algorithms for Data Processing Clusters"
+            }
+        ], 
+        "paper_title": "Learning Scheduling Algorithms for Data Processing Clusters"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342089", 
+                "paper_title": "E2E: embracing user heterogeneity to improve quality of experience on the web"
+            }, 
+            {
+                "pdf_url": "http://sidsen.azurewebsites.net/papers/e2e-sigcomm19.pdf", 
+                "paper_title": "E2E: Embracing User Heterogeneity to Improve ality of Experience on the Web"
+            }, 
+            {
+                "pdf_url": "http://sidsen.org/papers/e2e-sigcomm19.pdf", 
+                "paper_title": "E2E: Embracing User Heterogeneity to Improve ality of Experience on the Web"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/CS219_F19/papers/e2e.pdf", 
+                "paper_title": "E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web"
+            }, 
+            {
+                "pdf_url": "https://people.cs.uchicago.edu/~junchenj/docs/E2E_Sigcomm19.pdf", 
+                "paper_title": "E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web"
+            }
+        ], 
+        "paper_title": "E2E: Embracing User Heterogeneity to ImproveQuality of Experience on the Web"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342082", 
+                "paper_title": "Graphene: efficient interactive set reconciliation applied to blockchain propagation"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/fec6/d234557bfaac7e41a01dce1ade3276427daf.pdf", 
+                "paper_title": "Graphene: Efficient Interactive Set Reconciliation Applied to Blockchain Propagation"
+            }, 
+            {
+                "pdf_url": "https://web.cs.umass.edu/publication/docs/2019/UM-CS-2019-001.pdf", 
+                "paper_title": "Graphene: Efficient Interactive Set Reconciliation Applied to Blockchain Propagation"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~pinar/ozisik.sigcomm.2019.pdf", 
+                "paper_title": "Graphene: Efficient Interactive Set Reconciliation Applied to Blockchain Propagation"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~gbiss/graphene.sigcomm.pdf", 
+                "paper_title": "Graphene: Efficient Interactive Set Reconciliation Applied to Blockchain Propagation"
+            }
+        ], 
+        "paper_title": "Graphene: Efficient Interactive Set Reconciliation Applied to Blockchain Propagation"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342079", 
+                "paper_title": "Offloading distributed applications onto smartNICs using iPipe"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~mgliu/papers/iPipe-sigcomm19.pdf", 
+                "paper_title": "Offloading Distributed Applications onto SmartNICs using iPipe"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/ece598hpn/fa2019/papers/ipipe.pdf", 
+                "paper_title": "Offloading Distributed Applications onto SmartNICs using iPipe"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/cs598hpn/fa2019/papers/ipipe.pdf", 
+                "paper_title": "Offloading Distributed Applications onto SmartNICs using iPipe"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/ipipe.pdf", 
+                "paper_title": "Offloading Distributed Applications onto SmartNICs using iPipe"
+            }
+        ], 
+        "paper_title": "Offloading Distributed Applications onto SmartNICs using iPipe"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342076", 
+                "paper_title": "Nitrosketch: Robust and general sketch-based monitoring in software switches"
+            }, 
+            {
+                "pdf_url": "https://www.cs.bgu.ac.il/~tanm201/wiki.files/nitrosketch.pdf", 
+                "paper_title": "NitroSketch: Robust and General Sketch-based Monitoring in Software Switches"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/997d/6057abf7bf1cfa8fbec580ea64ff6da83485.pdf", 
+                "paper_title": "NitroSketch: Robust and General Sketch-based Monitoring in Software Switches"
+            }, 
+            {
+                "pdf_url": "https://zaoxing.github.io/papers/nitrosketch.pdf", 
+                "paper_title": "NitroSketch: Robust and General Sketch-based Monitoring in Software Switches"
+            }, 
+            {
+                "pdf_url": "https://zaoxing.github.io/papers/NitroSketch_slides.pdf", 
+                "paper_title": "NitroSketch: Robust and General Sketch-based Monitoring in Software Switches"
+            }
+        ], 
+        "paper_title": "NitroSketch: Robust and General Sketch-based Monitoring in Software Switches"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342093", 
+                "paper_title": "PicNIC: predictable virtualized NIC"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cornell.edu/~praveenk/papers/picnic.pdf", 
+                "paper_title": "PicNIC: Predictable Virtualized NIC"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cornell.edu/~jnfoster/papers/picnic.pdf", 
+                "paper_title": "PicNIC: Predictable Virtualized NIC"
+            }
+        ], 
+        "paper_title": "PicNIC: Predictable Virtualized NIC"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342090", 
+                "paper_title": "Fast, scalable, and programmable packet scheduler in hardware"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_8_3.pdf", 
+                "paper_title": "Fast, Scalable, and Programmable Packet Scheduler in Hardware"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/854f/c8bb3fc434188232cc8fe47637a92ab964e7.pdf", 
+                "paper_title": "Fast, Scalable, and Programmable Packet Scheduler in Hardware"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~vishal/papers/pieo_2019.pdf", 
+                "paper_title": "Fast, Scalable, and Programmable Packet Scheduler in Hardware"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cornell.edu/~vishal/papers/pieo_2019.pdf", 
+                "paper_title": "Fast, Scalable, and Programmable Packet Scheduler in Hardware"
+            }
+        ], 
+        "paper_title": "Fast, Scalable, and Programmable Packet Scheduler in Hardware"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342064", 
+                "paper_title": "Vantage: optimizing video upload for time-shifted viewing of social live streams"
+            }
+        ], 
+        "paper_title": "Vantage: Optimizing video upload for time-shifted viewing of social live streams"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342063", 
+                "paper_title": "Pano: Optimizing 360 video streaming with a better understanding of quality perception"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Yu_Guan20/publication/335183706_Pano_optimizing_360_video_streaming_with_a_better_understanding_of_quality_perception/links/5d672989299bf11adf2981fb/Pano-optimizing-360-video-streaming-with-a-better-understanding-of-quality-perception.pdf", 
+                "paper_title": "Pano: Optimizing 360 Video Streaming with a Better Understanding of Quality Perception"
+            }, 
+            {
+                "pdf_url": "https://people.cs.uchicago.edu/~junchenj/docs/360StreamingQuality_SIGCOMM.pdf", 
+                "paper_title": "Pano: Optimizing 360 Video Streaming with a Better Understanding of Quality Perception"
+            }
+        ], 
+        "paper_title": "Pano: Optimizing 360 Video Streaming with a Better Understanding of Quality Perception"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342077", 
+                "paper_title": "End-to-end transport for video QoE fairness"
+            }
+        ], 
+        "paper_title": "End-to-End Transport for Video QOE Fairness"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3341302.3342086", 
+                "paper_title": "Towards highly available clos-based WAN routers"
+            }, 
+            {
+                "pdf_url": "https://raghavan.usc.edu/papers/clos-sigcomm19.pdf", 
+                "paper_title": "Towards Highly Available Clos-Based WAN Routers"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2019/files/slides/paper_10_1.pdf", 
+                "paper_title": "Towards Highly Available Clos-Based WAN Routers"
+            }
+        ], 
+        "paper_title": "Towards Highly Available Clos-Based WAN Routers"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1905.05220", 
+                "paper_title": "On Optimal Neighbor Discovery"
+            }
+        ], 
+        "paper_title": "On Optimal Neighbor Discovery"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~jrex/papers/elmo19.pdf", 
+                "paper_title": "Elmo: Source Routed Multicast for Public Clouds"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~jrex/papers/elmo19.pdf", 
+                "paper_title": "Elmo: Source Routed Multicast for Public Clouds"
+            }
+        ], 
+        "paper_title": "Elmo: Source Routed Multicast for Public Clouds"
+    }
+]

@@ -1,0 +1,959 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19spring_kalia_prepub.pdf", 
+                "paper_title": "Datacenter RPCs can be general and fast"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf", 
+                "paper_title": "Datacenter RPCs can be General and Fast"
+            }, 
+            {
+                "pdf_url": "https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/erpc_nsdi19.pdf", 
+                "paper_title": "Datacenter RPCs can be General and Fast"
+            }, 
+            {
+                "pdf_url": "https://pdl.cmu.edu/PDL-FTP/CloudComputing/erpc_nsdi19.pdf", 
+                "paper_title": "Datacenter RPCs can be General and Fast"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cmu.edu/~akalia/doc/nsdi19/erpc_nsdi19.pdf", 
+                "paper_title": "Datacenter RPCs can be General and Fast"
+            }
+        ], 
+        "paper_title": "Datacenter RPCs can be General and Fast"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-saeed.pdf", 
+                "paper_title": "Eiffel: Efficient and Flexible Software Packet Scheduling."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-saeed.pdf", 
+                "paper_title": "Eiffel: Efficient and Flexible Software Packet Scheduling."
+            }, 
+            {
+                "pdf_url": "https://www.cc.gatech.edu/~amsmti3/files/eiffel_nsdi19.pdf", 
+                "paper_title": "Eiffel: Efficient and Flexible Software Packet Scheduling"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_saeed.pdf", 
+                "paper_title": "Eiffel: Efficient and Flexible Software Packet Scheduling"
+            }, 
+            {
+                "pdf_url": "http://www.cc.gatech.edu/~amsmti3/files/eiffel_nsdi19.pdf", 
+                "paper_title": "Eiffel: Efficient and Flexible Software Packet Scheduling"
+            }
+        ], 
+        "paper_title": "Eiffel: Efficient and Flexible Software Packet Scheduling"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-stephens.pdf", 
+                "paper_title": "Loom: Flexible and Efficient {NIC} Packet Scheduling"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_stephens.pdf", 
+                "paper_title": "Loom: Flexible and Efficient NIC Packet Scheduling"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~swift/papers/nsdi19-loom.pdf", 
+                "paper_title": "Loom: Flexible and Efficient NIC Packet Scheduling"
+            }, 
+            {
+                "pdf_url": "https://wisr.cs.wisc.edu/papers/loom-nsdi.pdf", 
+                "paper_title": "Loom: Flexible and Efficient NIC Packet Scheduling"
+            }, 
+            {
+                "pdf_url": "http://wisr.cs.wisc.edu/papers/loom-nsdi.pdf", 
+                "paper_title": "Loom: Flexible and Efficient NIC Packet Scheduling"
+            }
+        ], 
+        "paper_title": "Loom: Flexible and Efficient NIC Packet Scheduling"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-park.pdf", 
+                "paper_title": "Exploiting commutativity for practical fast replication"
+            }, 
+            {
+                "pdf_url": "https://web.stanford.edu/~seojin/talk/CURP-samsara.pdf", 
+                "paper_title": "Exploiting Commutativity For Practical Fast Replication"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/de80/5123d36db799b9eedf2dcedb19a22c9e5806.pdf", 
+                "paper_title": "Exploiting Commutativity For Practical Fast Replication"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_park.pdf", 
+                "paper_title": "Exploiting Commutativity For Practical Fast Replication"
+            }
+        ], 
+        "paper_title": "Exploiting Commutativity For Practical Fast Replication"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-eisenman.pdf", 
+                "paper_title": "Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-eisenman.pdf", 
+                "paper_title": "Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification."
+            }, 
+            {
+                "pdf_url": "https://web.stanford.edu/~assafe/flashield.pdf", 
+                "paper_title": "Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification"
+            }
+        ], 
+        "paper_title": "Flashield: a Hybrid Key-value Cache that Controls Flash Write Amplification"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_didona.pdf", 
+                "paper_title": "Size-aware Sharding For Improving Tail Latencies in In-memory Key-value Stores."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_didona.pdf", 
+                "paper_title": "Size-aware Sharding For Improving Tail Latencies in In-memory Key-value Stores."
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/2dc3/d8536a8fa4660c6e842ef17c2d1553fceea6.pdf", 
+                "paper_title": "Size-aware Sharding For Improving Tail Latencies in In-memory Key-value Stores"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Diego_Didona2/publication/322929444_Size-aware_Sharding_For_Improving_Tail_Latencies_in_In-memory_Key-value_Stores/links/5bccafd9299bf17a1c652c37/Size-aware-Sharding-For-Improving-Tail-Latencies-in-In-memory-Key-value-Stores.pdf", 
+                "paper_title": "Size-aware Sharding For Improving Tail Latencies in In-memory Key-value Stores"
+            }
+        ], 
+        "paper_title": "Size-aware Sharding For Improving Tail Latencies in In-memory Key-value Stores"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf", 
+                "paper_title": "Monoxide: Scale out Blockchains with Asynchronous Consensus Zones"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Hao_Wang35/publication/332950320_Monoxide_Scale_Out_Blockchain_with_Asynchronous_Consensus_Zones/links/5cd31f73299bf14d95817565/Monoxide-Scale-Out-Blockchain-with-Asynchronous-Consensus-Zones.pdf", 
+                "paper_title": "Monoxide: Scale Out Blockchain with Asynchronous Consensus Zones"
+            }, 
+            {
+                "pdf_url": "https://eprint.iacr.org/2019/263.pdf", 
+                "paper_title": "Monoxide: Scale Out Blockchain with Asynchronous Consensus Zones"
+            }
+        ], 
+        "paper_title": "Monoxide: Scale out Blockchains with Asynchronous Consensus Zones"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-kim.pdf", 
+                "paper_title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-kim.pdf", 
+                "paper_title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_kim_daehyeok.pdf", 
+                "paper_title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/freeflow-nsdi19.pdf", 
+                "paper_title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/nsdi19spring-freeflow.pdf", 
+                "paper_title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds"
+            }
+        ], 
+        "paper_title": "FreeFlow: Software-based Virtual RDMA Networking for Containerized Clouds"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-shu.pdf", 
+                "paper_title": "Direct Universal Access: Making Data Center Resources Available to FPGA."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-shu.pdf", 
+                "paper_title": "Direct Universal Access: Making Data Center Resources Available to FPGA."
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/DUA.pdf", 
+                "paper_title": "Direct Universal Access: Making Data Center Resources Available to FPGA"
+            }, 
+            {
+                "pdf_url": "https://1989chenguo.github.io/Publications/DUA-NSDI19.pdf", 
+                "paper_title": "Direct Universal Access: Making Data Center Resources Available to FPGA"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~mosharaf/Readings/DUA.pdf", 
+                "paper_title": "Direct Universal Access: Making Data Center Resources Available to FPGA"
+            }
+        ], 
+        "paper_title": "Direct Universal Access: Making Data Center Resources Available to FPGA"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-zilberman.pdf", 
+                "paper_title": "Stardust: Divide and conquer in the data center network"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~nz247/publications/zilberman2019stardust.pdf", 
+                "paper_title": "Stardust: Divide and Conquer in the Data Center Network"
+            }
+        ], 
+        "paper_title": "Stardust: Divide and Conquer in the Data Center Network"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-holterbach.pdf", 
+                "paper_title": "Blink: Fast connectivity recovery entirely in the data plane"
+            }, 
+            {
+                "pdf_url": "https://vanbever.eu/pdfs/vanbever_blink_nsdi_2019.pdf", 
+                "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+            }, 
+            {
+                "pdf_url": "http://www0.cs.ucl.ac.uk/staff/S.Vissicchio/papers/Blink_nsdi19.pdf", 
+                "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/blink_nsdi2019.pdf", 
+                "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/blink_nsdi2019.pdf", 
+                "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+            }, 
+            {
+                "pdf_url": "https://swift.ethz.ch/files/blink_nsdi2019.pdf", 
+                "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2019/blink/blink.pdf", 
+                "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+            }
+        ], 
+        "paper_title": "Blink: Fast Connectivity Recovery Entirely in the Data Plane"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-curino.pdf", 
+                "paper_title": "Hydra: a federated resource manager for data-center scale analytics."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-curino.pdf", 
+                "paper_title": "Hydra: a federated resource manager for data-center scale analytics."
+            }
+        ], 
+        "paper_title": "Hydra: a federated resource manager for data-center scale analytics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-pu.pdf", 
+                "paper_title": "Shuffling, fast and slow: scalable analytics on serverless infrastructure"
+            }, 
+            {
+                "pdf_url": "https://shivaram.org/publications/locus-nsdi19.pdf", 
+                "paper_title": "Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~qifan/papers/locus-paper.pdf", 
+                "paper_title": "Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure"
+            }, 
+            {
+                "pdf_url": "http://people.eecs.berkeley.edu/~qifan/papers/locus-paper.pdf", 
+                "paper_title": "Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure"
+            }
+        ], 
+        "paper_title": "Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_yu.pdf", 
+                "paper_title": "dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_yu.pdf", 
+                "paper_title": "dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces."
+            }
+        ], 
+        "paper_title": "dShark: A General, Easy to Program and Scalable Framework for Analyzing In-network Packet Traces"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-zhao.pdf", 
+                "paper_title": "Minimal Rewiring: Efficient Live Expansion for Clos Data Center Networks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-zhao.pdf", 
+                "paper_title": "Minimal Rewiring: Efficient Live Expansion for Clos Data Center Networks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_zhao.pdf", 
+                "paper_title": "Minimal Rewiring: Efficient Live Expansion for Clos Data Center Networks"
+            }
+        ], 
+        "paper_title": "Minimal Rewiring: Efficient Live Expansion for Clos Data Center Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-zhang.pdf", 
+                "paper_title": "Understanding lifecycle management complexity of datacenter topologies"
+            }, 
+            {
+                "pdf_url": "https://nsl.usc.edu/wp-content/uploads/2019/03/nsdi19-fatclique.pdf", 
+                "paper_title": "Understanding Lifecycle Management Complexity of Datacenter Topologies"
+            }
+        ], 
+        "paper_title": "Understanding Lifecycle Management Complexity of Datacenter Topologies"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-shrivastav.pdf", 
+                "paper_title": "Shoal: A Network Architecture for Disaggregated Racks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-shrivastav.pdf", 
+                "paper_title": "Shoal: A Network Architecture for Disaggregated Racks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_shrivastav.pdf", 
+                "paper_title": "Shoal: A Network Architecture for Disaggregated Racks"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~ragarwal/pubs/shoal.pdf", 
+                "paper_title": "Shoal: A Network Architecture for Disaggregated Racks"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~vishal/papers/shoal_2019.pdf", 
+                "paper_title": "Shoal: A Network Architecture for Disaggregated Racks"
+            }
+        ], 
+        "paper_title": "Shoal: A Network Architecture for Disaggregated Racks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-hessar.pdf", 
+                "paper_title": "NetScatter: Enabling Large-Scale Backscatter Networks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-hessar.pdf", 
+                "paper_title": "NetScatter: Enabling Large-Scale Backscatter Networks."
+            }, 
+            {
+                "pdf_url": "https://staff.washington.edu/mehrdadh/files/netscatter.pdf", 
+                "paper_title": "NetScatter: Enabling Large-Scale Backscatter Networks"
+            }
+        ], 
+        "paper_title": "NetScatter: Enabling Large-Scale Backscatter Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-li-zhuqi.pdf", 
+                "paper_title": "Towards programming the radio environment with large arrays of inexpensive antennas"
+            }, 
+            {
+                "pdf_url": "https://www.eng.yale.edu/wenjun/papers/laia-nsdi19.pdf", 
+                "paper_title": "Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas"
+            }, 
+            {
+                "pdf_url": "https://paws.cs.princeton.edu/sites/default/files/LAIA_NSDI19_final.pdf", 
+                "paper_title": "Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas"
+            }, 
+            {
+                "pdf_url": "http://paws.cs.princeton.edu/sites/default/files/LAIA_NSDI19_final.pdf", 
+                "paper_title": "Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas"
+            }
+        ], 
+        "paper_title": "Towards Programming the Radio Environment with Large Arrays of Inexpensive Antennas"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wang-jingxian.pdf", 
+                "paper_title": "Pushing the range limits of commercial passive RFIDs"
+            }, 
+            {
+                "pdf_url": "https://www.witechlab.com/assets/nsdi19-wang-jingxian.pdf", 
+                "paper_title": "Pushing the Range Limits of Commercial Passive RFIDs"
+            }, 
+            {
+                "pdf_url": "https://jingxianwang.github.io/papers/nsdi19-wang-jingxian.pdf", 
+                "paper_title": "Pushing the Range Limits of Commercial Passive RFIDs"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_wang_jingxian.pdf", 
+                "paper_title": "Pushing the Range Limits of Commercial Passive RFIDs"
+            }
+        ], 
+        "paper_title": "Pushing the Range Limits of Commercial Passive RFIDs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-guddeti.pdf", 
+                "paper_title": "Sweepsense: sensing 5 GHz in 5 milliseconds with low-cost radios"
+            }
+        ], 
+        "paper_title": "SweepSense: Sensing 5 GHz in 5 Milliseconds with Low-cost Radios"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-zhuo.pdf", 
+                "paper_title": "Slim:{OS} Kernel Support for a Low-Overhead Container Overlay Network"
+            }, 
+            {
+                "pdf_url": "https://danyangzhuo.com/papers/NSDI19-Slim.pdf", 
+                "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/nsdi19fall-slim.pdf", 
+                "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+            }, 
+            {
+                "pdf_url": "http://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf", 
+                "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/slim.pdf", 
+                "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/slim-nsdi19.pdf", 
+                "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+            }, 
+            {
+                "pdf_url": "https://dada.cs.washington.edu/research/tr/2018/09/UW-CSE-18-09-06.pdf", 
+                "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+            }
+        ], 
+        "paper_title": "Slim: OS Kernel Support for a Low-Overhead Container Overlay Network"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-kaffes.pdf", 
+                "paper_title": "Shinjuku: Preemptive scheduling for \u03bcsecond-scale tail latency"
+            }, 
+            {
+                "pdf_url": "http://www.scs.stanford.edu/~dm/home/papers/kaffes:shinjuku.pdf", 
+                "paper_title": "Shinjuku: Preemptive Scheduling for \u00b5second-scale Tail Latency"
+            }
+        ], 
+        "paper_title": "Shinjuku: Preemptive Scheduling for \u03bcsecond-scale Tail Latency"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-ousterhout.pdf", 
+                "paper_title": "Shenango: Achieving High {CPU} Efficiency for Latency-sensitive Datacenter Workloads"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/aousterh/papers/shenango_nsdi19.pdf", 
+                "paper_title": "Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/aousterh/papers/shenango_nsdi19.pdf", 
+                "paper_title": "Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads"
+            }
+        ], 
+        "paper_title": "Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-yang.pdf", 
+                "paper_title": "End-to-end I/O Monitoring on a Leading Supercomputer"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_yang_bin.pdf", 
+                "paper_title": "End-to-end I/O Monitoring on a Leading Supercomputer"
+            }
+        ], 
+        "paper_title": "End-to-end I/O Monitoring on a Leading Supercomputer"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wu.pdf", 
+                "paper_title": "Zeno: Diagnosing Performance Problems with Temporal Provenance."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wu.pdf", 
+                "paper_title": "Zeno: Diagnosing Performance Problems with Temporal Provenance."
+            }
+        ], 
+        "paper_title": "Zeno: Diagnosing Performance Problems with Temporal Provenance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-khandelwal.pdf", 
+                "paper_title": "Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-khandelwal.pdf", 
+                "paper_title": "Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks."
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~ragarwal/pubs/confluo.pdf", 
+                "paper_title": "Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/0c8b/b064b3286930090c73876df04e70575d1a31.pdf", 
+                "paper_title": "Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~anuragk/papers/confluo.pdf", 
+                "paper_title": "Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks"
+            }
+        ], 
+        "paper_title": "Confluo: Distributed Monitoring and Diagnosis Stack for High-speed Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-li-yuliang.pdf", 
+                "paper_title": "{DETER}: Deterministic {TCP} Replay for Performance Diagnosis"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_li_yuliang.pdf", 
+                "paper_title": "DETER: Deterministic TCP Replay for Performance Diagnosis"
+            }, 
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/writeup/nsdi19.pdf", 
+                "paper_title": "DETER: Deterministic TCP Replay for Performance Diagnosis"
+            }
+        ], 
+        "paper_title": "DETER: Deterministic TCP Replay for Performance Diagnosis"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-jeong.pdf", 
+                "paper_title": "{JANUS}: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/janus.pdf", 
+                "paper_title": "JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~mosharaf/Readings/Janus.pdf", 
+                "paper_title": "JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs"
+            }, 
+            {
+                "pdf_url": "https://ejjeong.github.io/files/janus-talk-long.pdf", 
+                "paper_title": "JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_jeong.pdf", 
+                "paper_title": "JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs"
+            }
+        ], 
+        "paper_title": "JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-subramanya.pdf", 
+                "paper_title": "BLAS-on-flash: an efficient alternative for large scale ML training and inference?"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-subramanya.pdf", 
+                "paper_title": "BLAS-on-flash: an efficient alternative for large scale ML training and inference?"
+            }, 
+            {
+                "pdf_url": "http://harsha-simhadri.org/pubs/nsdi19_final.pdf", 
+                "paper_title": "BLAS-on-flash: An Efficient Alternative for Large Scale ML Training and Inference?"
+            }
+        ], 
+        "paper_title": "BLAS-on-flash: An Efficient Alternative for Large Scale ML Training and Inference?"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-gu.pdf", 
+                "paper_title": "Tiresias: A {GPU} Cluster Manager for Distributed Deep Learning"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/nsdi19fall-tiresias.pdf", 
+                "paper_title": "Tiresias: A GPU Cluster Manager for Distributed Deep Learning"
+            }, 
+            {
+                "pdf_url": "https://rtcl.eecs.umich.edu/wordpress/wp-content/uploads/gu-nsdi19.pdf", 
+                "paper_title": "Tiresias: A GPU Cluster Manager for Distributed Deep Learning"
+            }, 
+            {
+                "pdf_url": "https://www.mosharaf.com/wp-content/uploads/tiresias-nsdi19.pdf", 
+                "paper_title": "Tiresias: A GPU Cluster Manager for Distributed Deep Learning"
+            }
+        ], 
+        "paper_title": "Tiresias: A GPU Cluster Manager for Distributed Deep Learning"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-khalid.pdf", 
+                "paper_title": "Correctness and Performance for Stateful Chained Network Functions."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-khalid.pdf", 
+                "paper_title": "Correctness and Performance for Stateful Chained Network Functions."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_khalid.pdf", 
+                "paper_title": "Correctness and Performance for Stateful Chained Network Functions"
+            }
+        ], 
+        "paper_title": "Correctness and Performance for Stateful Chained Network Functions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-iyer.pdf", 
+                "paper_title": "Performance contracts for software network functions"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_iyer.pdf", 
+                "paper_title": "Performance Contracts for Software Network Functions"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d163/51e14068476c802f62480355c74c3dd51713.pdf", 
+                "paper_title": "Performance Contracts for Software Network Functions"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7a00/957651f282c6e8516ef101e32229fdcc9d06.pdf", 
+                "paper_title": "Performance Contracts for Software Network Functions"
+            }
+        ], 
+        "paper_title": "Performance Contracts for Software Network Functions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-pontarelli.pdf", 
+                "paper_title": "FlowBlaze: Stateful Packet Processing in Hardware."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-pontarelli.pdf", 
+                "paper_title": "FlowBlaze: Stateful Packet Processing in Hardware."
+            }, 
+            {
+                "pdf_url": "https://www.5g-picture-project.eu/download/NSDI19_FlowBlaze.pdf", 
+                "paper_title": "FlowBlaze: Stateful Packet Processing in Hardware"
+            }, 
+            {
+                "pdf_url": "http://ccascone.net/pub/flowblaze-nsdi19.pdf", 
+                "paper_title": "FlowBlaze: Stateful Packet Processing in Hardware"
+            }, 
+            {
+                "pdf_url": "http://axbryd.com/content/NSDI19_FlowBlaze.pdf", 
+                "paper_title": "FlowBlaze: Stateful Packet Processing in Hardware"
+            }
+        ], 
+        "paper_title": "FlowBlaze: Stateful Packet Processing in Hardware"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-geng.pdf", 
+                "paper_title": "{SIMON}: A Simple and Scalable Method for Sensing, Inference and Measurement in Data Center Networks"
+            }
+        ], 
+        "paper_title": "SIMON: A Simple and Scalable Method for Sensing, Inference and Measurement in Data Center Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-dukic.pdf", 
+                "paper_title": "Is advance knowledge of flow sizes a plausible assumption?"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_dukic.pdf", 
+                "paper_title": "Is advance knowledge of flow sizes a plausible assumption?"
+            }, 
+            {
+                "pdf_url": "http://abdujyo2.web.engr.illinois.edu/papers/flux.pdf", 
+                "paper_title": "Is advance knowledge of flow sizes a plausible assumption?"
+            }, 
+            {
+                "pdf_url": "https://people.inf.ethz.ch/asingla/papers/nsdi19flux.pdf", 
+                "paper_title": "Is advance knowledge of flow sizes a plausible assumption?"
+            }, 
+            {
+                "pdf_url": "https://vojislav.net/files/nsdi19-dukic.pdf", 
+                "paper_title": "Is advance knowledge of flow sizes a plausible assumption?"
+            }
+        ], 
+        "paper_title": "Is advance knowledge of flow sizes a plausible assumption?"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-jin.pdf", 
+                "paper_title": "Stable and Practical {AS} Relationship Inference with ProbLink"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~yuchenj/papers/nsdi19-jin.pdf", 
+                "paper_title": "Stable and Practical AS Relationship Inference with ProbLink"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2019/stable_practical_as_relationship/stable_practical_as_relationship.pdf", 
+                "paper_title": "Stable and Practical AS Relationship Inference with ProbLink"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~rcs/research/nsdi19.pdf", 
+                "paper_title": "Stable and Practical AS Relationship Inference with ProbLink"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2019/stable_practical_as_relationship/stable_practical_as_relationship.pdf", 
+                "paper_title": "Stable and Practical AS Relationship Inference with ProbLink"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/probas.pdf", 
+                "paper_title": "Stable and Practical AS Relationship Inference with ProbLink"
+            }
+        ], 
+        "paper_title": "Stable and Practical AS Relationship Inference with ProbLink"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19spring_tan_prepub_020419.pdf", 
+                "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19spring_tan_prepub_020419.pdf", 
+                "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-tan.pdf", 
+                "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://naizhengtan.github.io/doc/papers/netbouncer19tan.pdf", 
+                "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://sysnetome.com/papers/netbouncer_nsdi2019.pdf", 
+                "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/papers/netbouncer.pdf", 
+                "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks"
+            }
+        ], 
+        "paper_title": "NetBouncer: Active Device and Link Failure Localization in Data Center Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wang-frank.pdf", 
+                "paper_title": "Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wang-frank.pdf", 
+                "paper_title": "Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services."
+            }, 
+            {
+                "pdf_url": "https://mickens.seas.harvard.edu/files/mickens/files/riverbed.pdf", 
+                "paper_title": "Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services"
+            }, 
+            {
+                "pdf_url": "https://frankwang.org/files/papers/riverbed-nsdi2019.pdf", 
+                "paper_title": "Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services"
+            }
+        ], 
+        "paper_title": "Riverbed: Enforcing User-defined Privacy Constraints in Distributed Web Services"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-wang-xiang.pdf", 
+                "paper_title": "Hyperscan: a fast multi-pattern regex matcher for modern CPUs"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_wang_xiang.pdf", 
+                "paper_title": "Hyperscan: A Fast Multi-pattern Regex Matcher for Modern CPUs"
+            }
+        ], 
+        "paper_title": "Hyperscan: A Fast Multi-pattern Regex Matcher for Modern CPUs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-sommer.pdf", 
+                "paper_title": "Deniable Upload and Download via Passive Participation."
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-sommer.pdf", 
+                "paper_title": "Deniable Upload and Download via Passive Participation."
+            }
+        ], 
+        "paper_title": "Deniable Upload and Download via Passive Participation"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-cao.pdf", 
+                "paper_title": "{CAUDIT}: Continuous Auditing of {SSH} Servers To Mitigate Brute-Force Attacks"
+            }, 
+            {
+                "pdf_url": "https://pmcao.github.io/files/nsdi19-cao.pdf", 
+                "paper_title": "CAUDIT: Continuous Auditing of SSH Servers to Mitigate Brute-Force Attacks"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_cao.pdf", 
+                "paper_title": "CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks"
+            }
+        ], 
+        "paper_title": "CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-dumitrescu.pdf", 
+                "paper_title": "Dataplane equivalence and its applications"
+            }, 
+            {
+                "pdf_url": "http://nets.cs.pub.ro/~costin/files/netdiff.pdf", 
+                "paper_title": "Dataplane equivalence and its applications"
+            }
+        ], 
+        "paper_title": "Dataplane equivalence and its applications"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-moon.pdf", 
+                "paper_title": "Alembic: automated model inference for stateful network functions"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_moon.pdf", 
+                "paper_title": "ALEMBIC: AUTOMATED MODEL INFERENCE FOR STATEFUL NETWORK FUNCTIONS"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~jhelt/assets/papers/moon-alembic-2019.pdf", 
+                "paper_title": "Alembic: Automated Model Inference for Stateful Network Functions"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~jhelt/assets/slides/moon-alembic-2019-slides.pdf", 
+                "paper_title": "ALEMBIC: AUTOMATED MODEL INFERENCE FOR STATEFUL NETWORK FUNCTIONS"
+            }
+        ], 
+        "paper_title": "Alembic: Automated Model Inference for Stateful Network Functions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-sun.pdf", 
+                "paper_title": "Model-Agnostic and Efficient Exploration of Numerical State Space of Real-World {TCP} Congestion Control Implementations"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Wei_Sun170/publication/332726616_Model-Agnostic_and_Efficient_Exploration_of_Numerical_State_Space_of_Real-World_TCP_Congestion_Control_Implementations/links/5cc676844585156cd7b999b5/Model-Agnostic-and-Efficient-Exploration-of-Numerical-State-Space-of-Real-World-TCP-Congestion-Control-Implementations.pdf", 
+                "paper_title": "Model-Agnostic and Efficient Exploration of Numerical State Space of Real-World TCP Congestion Control Implementations"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_sun.pdf", 
+                "paper_title": "Model-agnostic and efficient exploration of numerical state space of real-world TCP congestion control implementations"
+            }
+        ], 
+        "paper_title": "Model-Agnostic and Efficient Exploration of Numerical State Space of Real-World TCP Congestion Control Implementations"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-hasan.pdf", 
+                "paper_title": "Scaling Community Cellular Networks with CommunityCellularManager"
+            }, 
+            {
+                "pdf_url": "https://www.shaddih.com/papers/ccm-nsdi19.pdf", 
+                "paper_title": "Scaling Community Cellular Networks with CommunityCellularManager"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/nsdi19-hasan.pdf", 
+                "paper_title": "Scaling Community Cellular Networks with CommunityCellularManager"
+            }, 
+            {
+                "pdf_url": "http://ictd.cs.washington.edu/docs/papers/2019/hasan_nsdi2019.pdf", 
+                "paper_title": "Scaling Community Cellular Networks with CommunityCellularManager"
+            }, 
+            {
+                "pdf_url": "https://kurti.sh/pubs/Scaling_Community_Cellular_Networks.pdf", 
+                "paper_title": "Scaling Community Cellular Networks with CommunityCellularManager"
+            }
+        ], 
+        "paper_title": "Scaling Community Cellular Networks with CommunityCellularManager"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/97f3/af99fe101be989e43af3afb5bc7b0d90558c.pdf", 
+                "paper_title": "TrackIO: Tracking First Responders Inside Out"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/97f3/af99fe101be989e43af3afb5bc7b0d90558c.pdf", 
+                "paper_title": "TrackIO: Tracking First Responders Inside Out"
+            }, 
+            {
+                "pdf_url": "http://www.nec-labs.com/uploads/Documents/Mobile-Communications/trackio/TrackIO-auvsi.pdf", 
+                "paper_title": "TrackIO: Tracking First Responders Inside Out"
+            }, 
+            {
+                "pdf_url": "http://www.nec-labs.com/uploads/images/Department-Images/Mobile_Communications/trackio/TrackIO-auvsi.pdf", 
+                "paper_title": "TrackIO: Tracking First Responders Inside Out"
+            }
+        ], 
+        "paper_title": "TrackIO: Tracking First Responders Inside-Out"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-luo.pdf", 
+                "paper_title": "3D backscatter localization for fine-grained robotics"
+            }
+        ], 
+        "paper_title": "3D Backscatter Localization for Fine-Grained Robotics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/nsdi19-jog.pdf", 
+                "paper_title": "Many-to-many beam alignment in millimeter wave networks"
+            }, 
+            {
+                "pdf_url": "http://haitham.ece.illinois.edu/Papers/nsdi19fall-final392.pdf", 
+                "paper_title": "Many-to-Many Beam Alignment in Millimeter Wave Networks"
+            }, 
+            {
+                "pdf_url": "http://sjog2.web.engr.illinois.edu/images/papers/nsdi19-jog.pdf", 
+                "paper_title": "Many-to-Many Beam Alignment in Millimeter Wave Networks"
+            }, 
+            {
+                "pdf_url": "https://synrg.csl.illinois.edu/papers/bouncenet_nsdi19.pdf", 
+                "paper_title": "Many-to-Many Beam Alignment in Millimeter Wave Networks"
+            }
+        ], 
+        "paper_title": "Many-to-Many Beam Alignment in Millimeter Wave Networks"
+    }
+]

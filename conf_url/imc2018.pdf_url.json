@@ -1,0 +1,977 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1805.12512&hellip", 
+                "paper_title": "On the origins of memes by means of fringe web communities"
+            }, 
+            {
+                "pdf_url": "https://seclab.bu.edu/papers/memes-IMC2018.pdf", 
+                "paper_title": "On the Origins of Memes by Means of Fringe Web Communities"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Gianluca_Stringhini/publication/325484133_On_the_Origins_of_Memes_by_Means_of_Fringe_Web_Communities/links/5b13cb60a6fdcc4611e0315b/On-the-Origins-of-Memes-by-Means-of-Fringe-Web-Communities.pdf", 
+                "paper_title": "On the Origins of Memes by Means of Fringe Web Communities"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final102.pdf", 
+                "paper_title": "On the Origins of Memes by Means of Fringe Web Communities"
+            }, 
+            {
+                "pdf_url": "https://seclab.bu.edu/people/gianluca/papers/memes-IMC2018.pdf", 
+                "paper_title": "On the Origins of Memes by Means of Fringe Web Communities"
+            }
+        ], 
+        "paper_title": "On the Origins of Memes by Means of Fringe Web Communities"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/ft_gateway.cfm?id=3278537&type=pdf", 
+                "paper_title": "Following Their Footsteps: Characterizing Account Automation Abuse and Defenses"
+            }, 
+            {
+                "pdf_url": "https://research.fb.com/wp-content/uploads/2018/09/Following-Their-Footsteps-Characterizing-Account-Automation-Abuse-and-Defenses.pdf", 
+                "paper_title": "Following Their Footsteps: Characterizing Account Automation Abuse and Defenses"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~ldekoven/publications/following_their_footsteps.pdf", 
+                "paper_title": "Following Their Footsteps: Characterizing Account Automation Abuse and Defenses"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~voelker/pubs/aas-imc18.pdf", 
+                "paper_title": "Following Their Footsteps: Characterizing Account Automation Abuse and Defenses"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~ldekoven/publications/following_their_footsteps.pdf", 
+                "paper_title": "Following Their Footsteps: Characterizing Account Automation Abuse and Defenses"
+            }
+        ], 
+        "paper_title": "Following Their Footsteps: Characterizing Account Automation Abuse and Defenses"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://people.cs.vt.edu/danfeng/papers/Phishing-IMC-2018.pdf", 
+                "paper_title": "Needle in a haystack: tracking down elite phishing domains in the wild"
+            }, 
+            {
+                "pdf_url": "http://people.cs.vt.edu/danfeng/papers/Phishing-IMC-2018.pdf", 
+                "paper_title": "Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild"
+            }, 
+            {
+                "pdf_url": "https://people.cs.vt.edu/hanghu/paper/phish.pdf", 
+                "paper_title": "Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild"
+            }
+        ], 
+        "paper_title": "Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/ft_gateway.cfm?id=3278566&type=pdf", 
+                "paper_title": "A large scale study of data center network reliability"
+            }, 
+            {
+                "pdf_url": "https://people.inf.ethz.ch/omutlu/pub/data-center-network-errors-at-facebook_imc18.pdf", 
+                "paper_title": "A Large Scale Study of Data Center Network Reliability"
+            }, 
+            {
+                "pdf_url": "https://people.inf.ethz.ch/omutlu/pub/data-center-network-errors-at-facebook_imc18-talk.pdf", 
+                "paper_title": "A Large Scale Study of Data Center Network Reliability"
+            }
+        ], 
+        "paper_title": "A Large Scale Study of Data Center Network Reliability"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://people.cs.uchicago.edu/~ravenben/publications/pdf/nfv-imc18.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }, 
+            {
+                "pdf_url": "http://www.research.att.com/ecms/dam/sites/labs_research/content/publications/Predictive%20Analysis%20in%20Network%20Function%20Virtualization.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }, 
+            {
+                "pdf_url": "http://www2.research.att.com/ecms/dam/sites/labs_research/content/publications/Predictive%20Analysis%20in%20Network%20Function%20Virtualization.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }, 
+            {
+                "pdf_url": "http://people.cs.uchicago.edu/~ravenben/publications/pdf/nfv-imc18.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }, 
+            {
+                "pdf_url": "http://lists.research.att.com/ecms/dam/sites/labs_research/content/publications/Predictive%20Analysis%20in%20Network%20Function%20Virtualization.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }, 
+            {
+                "pdf_url": "https://about.att.com/ecms/dam/sites/labs_research/content/publications/Predictive%20Analysis%20in%20Network%20Function%20Virtualization.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }, 
+            {
+                "pdf_url": "http://about.att.com/ecms/dam/sites/labs_research/content/publications/Predictive%20Analysis%20in%20Network%20Function%20Virtualization.pdf", 
+                "paper_title": "Predictive Analysis in Network Function Virtualization"
+            }
+        ], 
+        "paper_title": "Predictive Analysis in Network Function Virtualization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~snoeren/papers/cloud-imc18.pdf", 
+                "paper_title": "Cloud Datacenter SDN Monitoring: Experiences and Challenges"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~snoeren/papers/cloud-imc18.pdf", 
+                "paper_title": "Cloud Datacenter SDN Monitoring: Experiences and Challenges"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~snoeren/papers/cloud-imc18.pdf", 
+                "paper_title": "Cloud Datacenter SDN Monitoring: Experiences and Challenges"
+            }
+        ], 
+        "paper_title": "Cloud Datacenter SDN Monitoring: Experiences and Challenges"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://eprints.networks.imdea.org/1886/1/imc18-final198.pdf", 
+                "paper_title": "An empirical analysis of the commercial vpn ecosystem"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final198.pdf", 
+                "paper_title": "An Empirical Analysis of the Commercial VPN Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~jdeblasio/papers/vpn-imc18.pdf", 
+                "paper_title": "An Empirical Analysis of the Commercial VPN Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~voelker/pubs/vpn-imc18.pdf", 
+                "paper_title": "An Empirical Analysis of the Commercial VPN Ecosystem"
+            }
+        ], 
+        "paper_title": "An Empirical Analysis of the Commercial VPN Ecosystem"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://people.cs.umass.edu/~phillipa/papers/imc18-final122.pdf", 
+                "paper_title": "How to catch when proxies lie: Verifying the physical locations of network proxies with active geolocation"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~phillipa/papers/imc18-final122.pdf", 
+                "paper_title": "How to Catch when Proxies Lie"
+            }, 
+            {
+                "pdf_url": "http://www.andrew.cmu.edu/user/nicolasc/publications/Weinberg-IMC18.pdf", 
+                "paper_title": "How to Catch when Proxies Lie"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Zachary_Weinberg/publication/331045543_How_to_Catch_when_Proxies_Lie_Verifying_the_Physical_Locations_of_Network_Proxies_with_Active_Geolocation/links/5c62e36645851582c3e3f809/How-to-Catch-when-Proxies-Lie-Verifying-the-Physical-Locations-of-Network-Proxies-with-Active-Geolocation.pdf", 
+                "paper_title": "How to Catch when Proxies Lie"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final122.pdf", 
+                "paper_title": "How to Catch when Proxies Lie"
+            }, 
+            {
+                "pdf_url": "http://www.contrib.andrew.cmu.edu/~nicolasc/publications/Weinberg-IMC18.pdf", 
+                "paper_title": "How to Catch when Proxies Lie"
+            }, 
+            {
+                "pdf_url": "https://www.andrew.cmu.edu/user/nicolasc/publications/Weinberg-IMC18.pdf", 
+                "paper_title": "How to Catch when Proxies Lie"
+            }
+        ], 
+        "paper_title": "How to Catch when Proxies Lie: Verifying the Physical Locations of Network Proxies with Active Geolocation"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1809.09086", 
+                "paper_title": "An Empirical Study of the I2P Anonymity Network and its Censorship Resistance"
+            }, 
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/Hoang2018a.pdf", 
+                "paper_title": "An Empirical Study of the I2P Anonymity Network and its Censorship Resistance"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Nguyen_Phong_Hoang/publication/327445307_An_Empirical_Study_of_the_I2P_Anonymity_Network_and_its_Censorship_Resistance/links/5baabeb7299bf13e604c8cc3/An-Empirical-Study-of-the-I2P-Anonymity-Network-and-its-Censorship-Resistance.pdf", 
+                "paper_title": "An Empirical Study of the I2P Anonymity Network and its Censorship Resistance"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~mikepo/papers/i2p.imc18.pdf", 
+                "paper_title": "An Empirical Study of the I2P Anonymity Network and its Censorship Resistance"
+            }
+        ], 
+        "paper_title": "An Empirical Study of the I2P Anonymity Network and its Censorship Resistance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1809.08481", 
+                "paper_title": "Understanding tor usage with privacy-preserving measurement"
+            }, 
+            {
+                "pdf_url": "https://security.cs.georgetown.edu/~msherr/papers/imc-tor.pdf", 
+                "paper_title": "Understanding Tor Usage with Privacy-Preserving Measurement"
+            }, 
+            {
+                "pdf_url": "https://ohmygodel.com/publications/tor-usage-imc18.pdf", 
+                "paper_title": "Understanding Tor Usage with Privacy-Preserving Measurement"
+            }, 
+            {
+                "pdf_url": "https://www.robgjansen.com/publications/torusage-imc2018.pdf", 
+                "paper_title": "Understanding Tor Usage with Privacy-Preserving Measurement"
+            }, 
+            {
+                "pdf_url": "https://www.ohmygodel.com/publications/tor-usage-imc18.pdf", 
+                "paper_title": "Understanding Tor Usage with Privacy-Preserving Measurement"
+            }, 
+            {
+                "pdf_url": "https://security.cs.georgetown.edu/~akshaya/papers/tormeasurement.pdf", 
+                "paper_title": "Understanding Tor Usage with Privacy-Preserving Measurement"
+            }
+        ], 
+        "paper_title": "Understanding Tor Usage with Privacy-Preserving Measurement"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/3629/8a7c34d3f34860bae0325007dbdc3e0478b3.pdf", 
+                "paper_title": "Characterizing the internet host population using deep learning: A universal and lightweight numerical embedding"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/3629/8a7c34d3f34860bae0325007dbdc3e0478b3.pdf", 
+                "paper_title": "Characterizing the Internet Host Population Using Deep Learning: A Universal and Lightweight Numerical Embedding"
+            }
+        ], 
+        "paper_title": "Characterizing the Internet Host Population Using Deep Learning: A Universal and Lightweight Numerical Embedding"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1806.01633", 
+                "paper_title": "Clusters in the expanse: Understanding and unbiasing IPv6 hitlists"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final171.pdf", 
+                "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+            }, 
+            {
+                "pdf_url": "https://ripe77.ripe.net/wp-content/uploads/presentations/93-slides-presented.pdf", 
+                "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+            }, 
+            {
+                "pdf_url": "https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/gasser2018clusters.pdf", 
+                "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+            }, 
+            {
+                "pdf_url": "https://research.utwente.nl/files/104180782/clusters.pdf", 
+                "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+            }, 
+            {
+                "pdf_url": "https://ris.utwente.nl/ws/files/104180782/clusters.pdf", 
+                "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+            }, 
+            {
+                "pdf_url": "https://sdstrowes.co.uk/publications/gasser-2018-ipv6hitlists.pdf", 
+                "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+            }
+        ], 
+        "paper_title": "Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1805.11308", 
+                "paper_title": "In the IP of the beholder: Strategies for active IPv6 topology discovery"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/es/es/multimedia/documents/technical-publication/strategies-for-active-ipv6-topology-discovery.pdf", 
+                "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final151.pdf", 
+                "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Justin_Rohrer/publication/325439758_In_the_IP_of_the_Beholder_Strategies_for_Active_IPv6_Topology_Discovery/links/5b1eabdca6fdcc69745bdf02/In-the-IP-of-the-Beholder-Strategies-for-Active-IPv6-Topology-Discovery.pdf", 
+                "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~plonka/pubs/imc18-final151.pdf", 
+                "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+            }, 
+            {
+                "pdf_url": "https://ix.cs.uoregon.edu/~ram/papers/IMC-2018.pdf", 
+                "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+            }, 
+            {
+                "pdf_url": "https://rbeverly.net/research/papers/beholder-imc18-presentation.pdf", 
+                "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+            }
+        ], 
+        "paper_title": "In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://compas.cs.stonybrook.edu/~mferdman/downloads.php/IMC18_Impact_of_Device_Performance_on_Mobile_Internet_QoE.pdf", 
+                "paper_title": "Impact of device performance on mobile internet QoE"
+            }, 
+            {
+                "pdf_url": "http://compas.cs.stonybrook.edu/~mferdman/downloads.php/IMC18_Impact_of_Device_Performance_on_Mobile_Internet_QoE.pdf", 
+                "paper_title": "Impact of Device Performance on Mobile Internet QoE"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~arbhattachar/assets/pdf/imc18.pdf", 
+                "paper_title": "Impact of Device Performance on Mobile Internet QoE"
+            }
+        ], 
+        "paper_title": "Impact of Device Performance on Mobile Internet QoE"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final33.pdf", 
+                "paper_title": "A First Look at SIM-Enabled Wearables in the Wild"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final33.pdf", 
+                "paper_title": "A First Look at SIM-Enabled Wearables in the Wild"
+            }
+        ], 
+        "paper_title": "A First Look at Sim-Enabled Wearables in the Wild"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10090659", 
+                "paper_title": "Mobility support in cellular networks: A measurement study on its configurations and implications"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10090659", 
+                "paper_title": "Mobility Support in Cellular Networks: A Measurement Study on Its Configurations and Implications"
+            }
+        ], 
+        "paper_title": "Mobility Support in Cellular Networks: A Measurement Study on Its Configurations and Implications"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1810.07780", 
+                "paper_title": "Beyond google play: A large-scale comparative study of chinese android app markets"
+            }, 
+            {
+                "pdf_url": "http://sei.pku.edu.cn/~yaoguo/papers/Wang-IMC-18.pdf", 
+                "paper_title": "Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets"
+            }
+        ], 
+        "paper_title": "Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://adunna.me/assets/publications/papers/imc18-final60.pdf", 
+                "paper_title": "Characterizing the deployment and performance of multi-CDNS"
+            }, 
+            {
+                "pdf_url": "https://adunna.me/assets/publications/papers/imc18-final60.pdf", 
+                "paper_title": "Characterizing the Deployment and Performance of Multi-CDNs"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~phillipa/papers/imc18-final60.pdf", 
+                "paper_title": "Characterizing the Deployment and Performance of Multi-CDNs"
+            }
+        ], 
+        "paper_title": "Characterizing the deployment and performance of multi-CDNs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1810.02978", 
+                "paper_title": "Dissecting Apple's Meta-CDN during an iOS Update"
+            }
+        ], 
+        "paper_title": "Dissecting Apple's Meta-CDN during an iOS Update"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://engineering.purdue.edu/~isl/papers/imc2018.pdf", 
+                "paper_title": "Understanding Video Management Planes"
+            }, 
+            {
+                "pdf_url": "https://nsl.usc.edu/wp-content/uploads/2018/10/imc18-final138.pdf", 
+                "paper_title": "Understanding Video Management Planes"
+            }, 
+            {
+                "pdf_url": "https://engineering.purdue.edu/~isl/papers/imc2018.pdf", 
+                "paper_title": "Understanding Video Management Planes"
+            }
+        ], 
+        "paper_title": "Understanding Video Management Planes"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.cs.umd.edu/~ramapad/docs/imc18_cdn_outages.pdf", 
+                "paper_title": "Advancing the art of internet edge outage detection"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/richterp/imc18_outageart.pdf", 
+                "paper_title": "Advancing the Art of Internet Edge Outage Detection"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/es/es/multimedia/documents/technical-publication/advancing-the-art-of-internet-edge-outage-detection.pdf", 
+                "paper_title": "Advancing the Art of Internet Edge Outage Detection"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umd.edu/~ramapad/docs/imc18_cdn_outages.pdf", 
+                "paper_title": "Advancing the Art of Internet Edge Outage Detection"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/richterp/outages_imc18_slides.pdf", 
+                "paper_title": "Advancing the Art of Internet Edge Outage Detection"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/kr/ko/multimedia/documents/technical-publication/advancing-the-art-of-internet-edge-outage-detection.pdf", 
+                "paper_title": "Advancing the Art of Internet Edge Outage Detection"
+            }
+        ], 
+        "paper_title": "Advancing the Art of Internet Edge Outage Detection"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/McDonald2018a.pdf", 
+                "paper_title": "403 forbidden: a global view of CDN geoblocking"
+            }, 
+            {
+                "pdf_url": "https://mbernhard.com/papers/geoblocking.pdf", 
+                "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+            }, 
+            {
+                "pdf_url": "https://amcdon.com/papers/403forbidden-imc18.pdf", 
+                "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+            }, 
+            {
+                "pdf_url": "https://jhalderm.com/pub/papers/geoblocking-imc18.pdf", 
+                "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+            }, 
+            {
+                "pdf_url": "https://ensa.fi/papers/403forbidden_imc18.pdf", 
+                "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+            }, 
+            {
+                "pdf_url": "https://censoredplanet.org/assets/403forbidden.pdf", 
+                "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+            }, 
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/McDonald2018a.pdf", 
+                "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+            }
+        ], 
+        "paper_title": "403 Forbidden: A Global View of CDN Geoblocking"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1808.01708", 
+                "paper_title": "Where The Light Gets In: Analyzing Web Censorship Mechanisms in India"
+            }, 
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/Yadav2018a.pdf", 
+                "paper_title": "Where The Light Gets In: Analyzing Web Censorship Mechanisms in India"
+            }
+        ], 
+        "paper_title": "Where The Light Gets In: Analyzing Web Censorship Mechanisms in India"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://people.mpi-inf.mpg.de/~fstreibelt/preprint/communities-imc2018.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "https://clarinet.u-strasbg.fr/~pelsser/publications/Streibelt-BGPcom-IMC2018.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "https://archive.psg.com/181101.imc-communities.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/gsmaragd/publications/IMC2018-Communities-attacks/IMC2018-Communities-attacks.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "https://people.mpi-inf.mpg.de/~fstreibelt/preprint/communities-imc2018.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "http://rbeverly.net/research/papers/communities-imc18.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/gsmaragd/publications/IMC2018-Communities-attacks/IMC2018-Communities-attacks-presentation.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "http://people.mpi-inf.mpg.de/~fstreibelt/preprint/communities-imc2018.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }, 
+            {
+                "pdf_url": "http://rbeverly.net/research/papers/communities-imc18-presentation.pdf", 
+                "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+            }
+        ], 
+        "paper_title": "BGP Communities: Even more Worms in the Routing Can"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2018/dos_attacks_and_bgp/dos_attacks_and_bgp.pdf", 
+                "paper_title": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2018/dos_attacks_and_bgp/dos_attacks_and_bgp.pdf", 
+                "paper_title": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild"
+            }, 
+            {
+                "pdf_url": "https://ripe78.ripe.net/presentations/25-ripe78-slides-mjonker.pdf", 
+                "paper_title": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2018/dos_attacks_and_bgp/dos_attacks_and_bgp.pdf", 
+                "paper_title": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild"
+            }, 
+            {
+                "pdf_url": "https://ripe78.ripe.net/wp-content/uploads/presentations/25-ripe78-slides-mjonker.pdf", 
+                "paper_title": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild"
+            }
+        ], 
+        "paper_title": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3278532.3278543", 
+                "paper_title": "Is the Web Ready for OCSP Must-Staple?"
+            }
+        ], 
+        "paper_title": "Is the Web Ready for OCSP Must Staple?"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1809.08325", 
+                "paper_title": "The rise of certificate transparency and its implications on the internet ecosystem"
+            }, 
+            {
+                "pdf_url": "http://ilab-pub.imp.fu-berlin.de/papers/sgnab-rctii-18.pdf", 
+                "paper_title": "The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem"
+            }, 
+            {
+                "pdf_url": "http://icir.org/johanna/papers/imc18riseofct.pdf", 
+                "paper_title": "The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/johanna/papers/imc18riseofct.pdf", 
+                "paper_title": "The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://www.icir.org/johanna/papers/imc18riseofct.pdf", 
+                "paper_title": "The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem"
+            }
+        ], 
+        "paper_title": "The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://eprints.networks.imdea.org/1884/1/imc_ssl.pdf", 
+                "paper_title": "Coming of age: A longitudinal study of tls deployment"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final193.pdf", 
+                "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+            }, 
+            {
+                "pdf_url": "https://pure.royalholloway.ac.uk/portal/files/32787662/paper.pdf", 
+                "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+            }, 
+            {
+                "pdf_url": "https://software.imdea.org/~juanca/papers/tls_imc18.pdf", 
+                "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+            }, 
+            {
+                "pdf_url": "http://abbas.rpanah.ir/publications/imc2018_tls_paper.pdf", 
+                "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/johanna/papers/imc18tlsdeployment.pdf", 
+                "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+            }, 
+            {
+                "pdf_url": "https://www.icir.org/johanna/papers/imc18tlsdeployment.pdf", 
+                "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+            }
+        ], 
+        "paper_title": "Coming of Age: A Longitudinal Study of TLS Deployment"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final154.pdf", 
+                "paper_title": "Tracing cross border web tracking"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/gsmaragd/publications/IMC2018-GDPR/IMC2018-GDPR.pdf", 
+                "paper_title": "Tracing Cross Border Web Tracking"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final154.pdf", 
+                "paper_title": "Tracing Cross Border Web Tracking"
+            }, 
+            {
+                "pdf_url": "http://laoutaris.info/wp-content/uploads/2018/09/imc18.pdf", 
+                "paper_title": "Tracing Cross Border Web Tracking"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/gsmaragd/publications/IMC2018-GDPR/IMC2018-GDPR.pdf", 
+                "paper_title": "Tracing Cross Border Web Tracking"
+            }
+        ], 
+        "paper_title": "Tracing Cross Border Web Tracking"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://cbw.sh/static/pdf/bashir-imc18.pdf", 
+                "paper_title": "How tracking companies circumvented ad blockers using websockets"
+            }, 
+            {
+                "pdf_url": "http://54.210.98.79/static/pdf/bashir-imc18.pdf", 
+                "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://cbw.sh/static/pdf/bashir-imc18.pdf", 
+                "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://www.ccs.neu.edu/home/ahmad/publications/bashir-imc18.pdf", 
+                "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://www.ieee-security.org/TC/SPW2018/ConPro/papers/bashir-conpro18.pdf", 
+                "paper_title": "How Tracking Companies Circumvent Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://seclab.ccs.neu.edu/static/publications/bashir-imc18.pdf", 
+                "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://wkr.io/publication/imc-2018-ad_sockets.pdf", 
+                "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://sajjadium.github.io/files/imc2018websockets_paper.pdf", 
+                "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://cbw.sh/static/pdf/bashir-conpro18.pdf", 
+                "paper_title": "How Tracking Companies Circumvent Ad Blockers Using WebSockets"
+            }, 
+            {
+                "pdf_url": "https://sajjadium.github.io/files/spconpro2018websockets_paper.pdf", 
+                "paper_title": "How Tracking Companies Circumvent Ad Blockers Using WebSockets"
+            }
+        ], 
+        "paper_title": "How Tracking Companies Circumvented Ad Blockers Using WebSockets"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.fukuda-lab.org/publications/2018/FH_imc2018.pdf", 
+                "paper_title": "Who knocks at the IPv6 door?: Detecting IPv6 scanning"
+            }, 
+            {
+                "pdf_url": "http://www.fukuda-lab.org/publications/2018/FH_imc2018.pdf", 
+                "paper_title": "Who Knocks at the IPv6 Door? Detecting IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Fukuda18a.pdf", 
+                "paper_title": "Who Knocks at the IPv6 Door? Detecting IPv6 Scanning"
+            }
+        ], 
+        "paper_title": "Who Knocks at the IPv6 Door? Detecting IPv6 Scanning"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1805.11506", 
+                "paper_title": "A long way to the top: significance, structure, and stability of internet top lists"
+            }, 
+            {
+                "pdf_url": "https://sdstrowes.co.uk/publications/scheitle-2018-toplists.pdf", 
+                "paper_title": "A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Torsten_Zimmermann2/publication/325439650_A_Long_Way_to_the_Top_Significance_Structure_and_Stability_of_Internet_Top_Lists/links/5c5aa5d545851582c3d199cc/A-Long-Way-to-the-Top-Significance-Structure-and-Stability-of-Internet-Top-Lists.pdf", 
+                "paper_title": "A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2018/papers/imc18-final215.pdf", 
+                "paper_title": "A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists"
+            }, 
+            {
+                "pdf_url": "http://eprints.networks.imdea.org/1842/1/poster_tma.pdf", 
+                "paper_title": "A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists"
+            }
+        ], 
+        "paper_title": "A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3278532.3278538", 
+                "paper_title": "Pushing the boundaries with bdrmapit: Mapping router ownership at Internet scale"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2018/pushing_boundaries_bdrmapit/pushing_boundaries_bdrmapit.pdf", 
+                "paper_title": "Pushing the Boundaries with bdrmapIT: Mapping Router Ownership at Internet Scale"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2018/pushing_boundaries_bdrmapit/pushing_boundaries_bdrmapit.pdf", 
+                "paper_title": "Pushing the Boundaries with bdrmapIT: Mapping Router Ownership at Internet Scale"
+            }
+        ], 
+        "paper_title": "Pushing the Boundaries with bdrmapIT: Mapping Router Ownership at Internet Scale"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1809.10070", 
+                "paper_title": "Multilevel mda-lite paris traceroute"
+            }
+        ], 
+        "paper_title": "Multilevel MDA-Lite Paris Traceroute"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.researchgate.net/profile/George_Nomikos/publication/332370543_O_Peer_Where_Art_Thou_Uncovering_Remote_Peering_Interconnections_at_IXPs/links/5cb04cde4585156cd791775d/O-Peer-Where-Art-Thou-Uncovering-Remote-Peering-Interconnections-at-IXPs.pdf", 
+                "paper_title": "O Peer, Where Art Thou?: Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "https://www.ics.forth.gr/_publications/uncovering_remote_peering_interconnections_v1.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/George_Nomikos/publication/332370543_O_Peer_Where_Art_Thou_Uncovering_Remote_Peering_Interconnections_at_IXPs/links/5cb04cde4585156cd791775d/O-Peer-Where-Art-Thou-Uncovering-Remote-Peering-Interconnections-at-IXPs.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "https://eprints.lancs.ac.uk/id/eprint/127790/1/uncovering_remote_ixp_peering.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "http://www.inspire.edu.gr/wp-content/pdfs/uncovering_remote_peering_interconnections_v1.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "https://www.de-cix.net/Files/b84ab9edaa214a049b0a367d8d43e6d02901343b/Research-paper-O-Peer%2C-Where-Art-Thou-Uncovering-Remote-Peering-Interconnections-at-IXPs.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "http://www.research.lancs.ac.uk/portal/services/downloadRegister/245772745/uncovering_remote_ixp_peering.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "https://www.inspire.edu.gr/wp-content/pdfs/uncovering_remote_peering_interconnections_v1.pdf", 
+                "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }
+        ], 
+        "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311830/spinbit-imc-authors-copy.pdf?sequence=8", 
+                "paper_title": "Three bits suffice: Explicit support for passive measurement of internet latency in quic and tcp"
+            }, 
+            {
+                "pdf_url": "https://mami-project.eu/wp-content/uploads/2018/09/spinbit.pdf", 
+                "paper_title": "Three Bits Suffice: Explicit Support for Passive Measurement of Internet Latency in QUIC and TCP"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/spinbit.pdf", 
+                "paper_title": "Three Bits Suffice: Explicit Support for Passive Measurement of Internet Latency in QUIC and TCP"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/spinbit.pdf", 
+                "paper_title": "Three Bits Suffice: Explicit Support for Passive Measurement of Internet Latency in QUIC and TCP"
+            }, 
+            {
+                "pdf_url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311830/spinbit-imc-authors-copy.pdf", 
+                "paper_title": "Three bits suffice: Explicit support for passive measurement of internet latency in QUIC and TCP"
+            }
+        ], 
+        "paper_title": "Three Bits Suffice: Explicit Support for Passive Measurement of Internet Latency in QUIC and TCP"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.ccs.neu.edu/home/amislove/publications/Ethereum-IMC.pdf", 
+                "paper_title": "Analyzing Ethereum's Contract Topology"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/home/amislove/publications/Ethereum-IMC.pdf", 
+                "paper_title": "Analyzing Ethereum's Contract Topology"
+            }, 
+            {
+                "pdf_url": "https://mislove.org/publications/Ethereum-IMC.pdf", 
+                "paper_title": "Analyzing Ethereum's Contract Topology"
+            }, 
+            {
+                "pdf_url": "https://www.cs.umd.edu/~dml/papers/ethereum_imc18.pdf", 
+                "paper_title": "Analyzing Ethereum's Contract Topology"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/~amislove/publications/Ethereum-IMC.pdf", 
+                "paper_title": "Analyzing Ethereum's Contract Topology"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umd.edu/~dml/papers/ethereum_imc18.pdf", 
+                "paper_title": "Analyzing Ethereum's Contract Topology"
+            }
+        ], 
+        "paper_title": "Analyzing Ethereum's Contract Topology"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://mdbailey.ece.illinois.edu/publications/imc18_ethereum.pdf", 
+                "paper_title": "Measuring Ethereum network peers"
+            }, 
+            {
+                "pdf_url": "http://mdbailey.ece.illinois.edu/publications/imc18_ethereum.pdf", 
+                "paper_title": "Measuring Ethereum Network Peers"
+            }, 
+            {
+                "pdf_url": "https://zanema.com/papers/imc18_ethpeers.pdf", 
+                "paper_title": "Measuring Ethereum Network Peers"
+            }
+        ], 
+        "paper_title": "Measuring Ethereum Network Peers"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1808.00811.pdf%C2%A0", 
+                "paper_title": "Digging into browser-based crypto mining"
+            }, 
+            {
+                "pdf_url": "https://janrueth.com/publication/2018-rueth-mining/2018-rueth-mining.pdf", 
+                "paper_title": "Digging into Browser-based Crypto Mining"
+            }, 
+            {
+                "pdf_url": "https://www.comsys.rwth-aachen.de/fileadmin/papers/2018/2018-rueth-mining.pdf", 
+                "paper_title": "Digging into Browser-based Crypto Mining"
+            }
+        ], 
+        "paper_title": "Digging into Browser-based Crypto Mining"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://assets.ctfassets.net/qhzu5l2wyxby/_Y8d-I97SlewfKIbQilQ7g/2b58f8be9ffea9c62a7c3d34287720c4/isi-tr-725.pdf", 
+                "paper_title": "When the dike breaks: Dissecting dns defenses during ddos"
+            }, 
+            {
+                "pdf_url": "https://assets.ctfassets.net/qhzu5l2wyxby/_Y8d-I97SlewfKIbQilQ7g/2b58f8be9ffea9c62a7c3d34287720c4/isi-tr-725.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During"
+            }, 
+            {
+                "pdf_url": "https://indico.dns-oarc.net/event/29/contributions/647/attachments/624/1005/paper.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Moura18b.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+            }, 
+            {
+                "pdf_url": "https://ripe77.ripe.net/wp-content/uploads/presentations/11-presentation.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+            }, 
+            {
+                "pdf_url": "https://assets.ctfassets.net/yj8364fopk6s/_Y8d-I97SlewfKIbQilQ7g/d06c538bbe9dc0cf96e9d192b7625151/isi-tr-725.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During"
+            }, 
+            {
+                "pdf_url": "https://ripe77.ripe.net/presentations/11-presentation.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+            }, 
+            {
+                "pdf_url": "https://indico.dns-oarc.net/event/29/contributions/647/attachments/624/1004/presentation.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+            }
+        ], 
+        "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.icir.org/mallman/pubs/All18a/All18a.pdf", 
+                "paper_title": "Comments On DNS Robustness"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/mallman/pubs/All18a/All18a.pdf", 
+                "paper_title": "Comments on DNS Robustness"
+            }, 
+            {
+                "pdf_url": "https://irtf.org/anrw/2018/slides-anrw18-final35.pdf", 
+                "paper_title": "Comments on DNS Robustness"
+            }
+        ], 
+        "paper_title": "Comments on DNS Robustness"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://wkr.io/publication/imc-2018-drop_catch.pdf", 
+                "paper_title": "From Deletion to Re-Registration in Zero Seconds: Domain Registrar Behaviour During the Drop"
+            }, 
+            {
+                "pdf_url": "https://wkr.io/publication/imc-2018-drop_catch.pdf", 
+                "paper_title": "From Deletion to Re-Registration in Zero Seconds: Domain Registrar Behaviour During the Drop"
+            }, 
+            {
+                "pdf_url": "https://seclab.ccs.neu.edu/static/publications/imc2018day0.pdf", 
+                "paper_title": "From Deletion to Re-Registration in Zero Seconds: Domain Registrar Behaviour During the Drop"
+            }
+        ], 
+        "paper_title": "From Deletion to Re-Registration in Zero Seconds: Domain Registrar Behaviour During the Drop"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Zhu18b.pdf", 
+                "paper_title": "LDplayer: DNS Experimentation at Scale"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Zhu18b.pdf", 
+                "paper_title": "LDplayer: DNS Experimentation at Scale"
+            }, 
+            {
+                "pdf_url": "https://www.isi.edu/publications/trpublic/pdfs/ISI-TR-722.pdf", 
+                "paper_title": "LDplayer: DNS Experimentation at Scale"
+            }
+        ], 
+        "paper_title": "LDplayer: DNS Experimentation at Scale"
+    }
+]

@@ -1,0 +1,1186 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-horn-daniel.pdf", 
+                "paper_title": "The design, implementation, and deployment of a system to transparently compress hundreds of petabytes of image files for a file-storage service"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/9fe5/c41f28af93b1789a44fc9f232cfff146e870.pdf", 
+                "paper_title": "The Design, Implementation, and Deployment of a System to Transparently Compress Hundreds of Petabytes of Image Files For a File-Storage Service"
+            }
+        ], 
+        "paper_title": "The Design, Implementation, and Deployment of a System to Transparently Compress Hundreds of Petabytes of Image Files for a File-Storage Service"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-nanavati.pdf", 
+                "paper_title": "Decibel: Isolation and sharing in disaggregated rack-scale storage"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_nanavati.pdf", 
+                "paper_title": "Decibel: Isolation and Sharing in Disaggregated Rack-Scale Storage"
+            }, 
+            {
+                "pdf_url": "https://www.cs.ubc.ca/~andy/papers/nsdi17-nanavati.pdf", 
+                "paper_title": "Decibel: Isolation and Sharing in Disaggregated Rack-Scale Storage"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e96b/6c23d6ebe5ebb1a4b3b42fd9b047cd6e04fe.pdf", 
+                "paper_title": "Decibel: Isolation and Sharing in Disaggregated Rack-Scale Storage"
+            }, 
+            {
+                "pdf_url": "https://www.cs.ubc.ca/~mihirn/papers/decibel-nsdi.pdf", 
+                "paper_title": "Decibel: Isolation and Sharing in Disaggregated Rack-Scale Storage"
+            }
+        ], 
+        "paper_title": "Decibel: Isolation and Sharing in Disaggregated Rack-Scale Storage"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wei-michael.pdf", 
+                "paper_title": "vCorfu: A cloud-scale object store on a shared log"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~swanson/papers/NSDI2017vCorfu.pdf", 
+                "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/0247/2fb494ab2e19aa0756bed34b9c6ea73baf4b.pdf", 
+                "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~mfreed/docs/vcorfu-nsdi17.pdf", 
+                "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+            }, 
+            {
+                "pdf_url": "http://www.cs.utexas.edu/users/rossbach/pubs/nsdi17-wei-michael.pdf", 
+                "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~mfreed/docs/vcorfu-nsdi17.pdf", 
+                "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~swanson/papers/NSDI2017-vCorfu.pdf", 
+                "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+            }
+        ], 
+        "paper_title": "vCorfu: A Cloud-Scale Object Store on a Shared Log"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-cano.pdf", 
+                "paper_title": "Curator: Self-managing storage for enterprise clusters"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/curator.pdf", 
+                "paper_title": "Curator: Self-Managing Storage for Enterprise Clusters"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/c4d4/91d5160222ce8fa16c06e20fa313dfed90df.pdf", 
+                "paper_title": "Curator: Self-Managing Storage for Enterprise Clusters"
+            }, 
+            {
+                "pdf_url": "http://www.theether.org/papers/nsdi17.pdf", 
+                "paper_title": "Curator: Self-Managing Storage for Enterprise Clusters"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/curator.pdf", 
+                "paper_title": "Curator: Self-Managing Storage for Enterprise Clusters"
+            }
+        ], 
+        "paper_title": "Curator: Self-Managing Storage for Enterprise Clusters"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-sharma.pdf", 
+                "paper_title": "Evaluating the power of flexible packet processing for network resource allocation"
+            }, 
+            {
+                "pdf_url": "https://people.mpi-sws.org/~antoinek/documents/17nsdi_flexswitch.pdf", 
+                "paper_title": "Evaluating the Power of Flexible Packet Processing for Network Resource Allocation"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/eb4a/6bd071b9a43d3aae85f215896d77e80b8bb9.pdf", 
+                "paper_title": "Evaluating the Power of Flexible Packet Processing for Network Resource Allocation"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/flexswitch.pdf", 
+                "paper_title": "Evaluating the Power of Flexible Packet Processing for Network Resource Allocation"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/flexswitch.pdf", 
+                "paper_title": "Evaluating the Power of Flexible Packet Processing for Network Resource Allocation"
+            }
+        ], 
+        "paper_title": "Evaluating the Power of Flexible Packet Processing for Network Resource Allocation"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-go.pdf", 
+                "paper_title": "APUNet: Revitalizing {GPU} as Packet Processing Accelerator"
+            }, 
+            {
+                "pdf_url": "https://yhwan.github.io/papers/apunet_nsdi17.pdf", 
+                "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+            }, 
+            {
+                "pdf_url": "https://ajamshed.github.io/papers/nsdi17-go.pdf", 
+                "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7a3f/1da4f346d3f6968f5b38c6cdb0c01ee4c6ca.pdf", 
+                "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+            }, 
+            {
+                "pdf_url": "https://www.ndsl.kaist.edu/~yhwan/papers/apunet_nsdi17.pdf", 
+                "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_go.pdf", 
+                "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+            }, 
+            {
+                "pdf_url": "http://www.ndsl.kaist.edu/~kyoungsoo/papers/apunet.pdf", 
+                "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+            }
+        ], 
+        "paper_title": "APUNet: Revitalizing GPU as Packet Processing Accelerator"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kablan.pdf", 
+                "paper_title": "Stateless network functions: Breaking the tight coupling of state and processing"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Azzam_Alsudais/publication/311667043_Stateless_Network_Functions_Breaking_the_Tight_Coupling_of_State_and_Processing/links/58d0cf3c92851c8841c2eeed/Stateless-Network-Functions-Breaking-the-Tight-Coupling-of-State-and-Processing.pdf", 
+                "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/stateless.pdf", 
+                "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/f380/e932eef3f785b01aa3c16fe85bf64f9aea1c.pdf", 
+                "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+            }, 
+            {
+                "pdf_url": "https://eric-keller.github.io/papers/2017/stateless_nsdi17-kablan-slides.pdf", 
+                "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+            }, 
+            {
+                "pdf_url": "https://www.bestateless.com/hubfs/nsdi17-kablan.pdf", 
+                "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+            }, 
+            {
+                "pdf_url": "https://eric-keller.github.io/papers/2017/stateless_nsdi17-kablan.pdf", 
+                "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+            }
+        ], 
+        "paper_title": "Stateless Network Functions: Breaking the Tight Coupling of State and Processing"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jamshed.pdf", 
+                "paper_title": "mos: A reusable networking stack for flow monitoring middleboxes"
+            }, 
+            {
+                "pdf_url": "http://mos.kaist.edu/mos.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }, 
+            {
+                "pdf_url": "http://ina.kaist.ac.kr/~dongsuh/paper/jamshed-nsdi17.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_jamshed.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/78ea/9dea4915d5b2a86eb1854145c91ac2c8aba5.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }, 
+            {
+                "pdf_url": "https://ajamshed.github.io/papers/nsdi17-jamshed.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }, 
+            {
+                "pdf_url": "https://www.ndsl.kaist.edu/~kyoungsoo/papers/mos.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }, 
+            {
+                "pdf_url": "https://mos.kaist.edu/mos.pdf", 
+                "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+            }
+        ], 
+        "paper_title": "mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-shulman.pdf", 
+                "paper_title": "One Key to Sign Them All Considered Vulnerable: Evaluation of {DNSSEC} in the Internet"
+            }
+        ], 
+        "paper_title": "One Key to Sign Them All Considered Vulnerable: Evaluation of DNSSEC in the Internet"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-seongmin.pdf", 
+                "paper_title": "Enhancing security and privacy of tor's ecosystem by using trusted execution environments"
+            }, 
+            {
+                "pdf_url": "http://ina.kaist.ac.kr/~smkim/paper/NSDI-sgx-tor.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/99de/1c59e2e530a7ed9c27251a00ef5e833ff35b.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_kim.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments"
+            }, 
+            {
+                "pdf_url": "https://gts3.org/assets/papers/2017/kim:sgx-tor.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments"
+            }, 
+            {
+                "pdf_url": "https://gts3.org/assets/papers/2017/kim:sgx-tor-slides.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d84b/3b6156bf95fe88accbdd4c176a4d6c2f376c.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by using Trusted Execution Environments"
+            }, 
+            {
+                "pdf_url": "http://ina.kaist.ac.kr/~dongsuh/paper/kim-nsdi17.pdf", 
+                "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by Using Trusted Execution Environments"
+            }
+        ], 
+        "paper_title": "Enhancing Security and Privacy of Tor's Ecosystem by Using Trusted Execution Environments"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kim-minho.pdf", 
+                "paper_title": "ViewMap: Sharing private in-vehicle dashcam videos"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_kim_0.pdf", 
+                "paper_title": "ViewMap: Sharing Private In-Vehicle Dashcam Videos"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/4918/09aa5c65a608156baaf7e4ae319fca609366.pdf", 
+                "paper_title": "ViewMap: Sharing Private In-Vehicle Dashcam Videos"
+            }
+        ], 
+        "paper_title": "ViewMap: Sharing Private In-Vehicle Dashcam Videos"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-chi.pdf", 
+                "paper_title": "A system to verify network behavior of known cryptographic clients"
+            }, 
+            {
+                "pdf_url": "https://robbycochran.com/pdf/NSDI17.pdf", 
+                "paper_title": "A System to Verify Network Behavior of Known Cryptographic Clients"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_chi.pdf", 
+                "paper_title": "A SYSTEM TO VERIFY NETWORK BEHAVIOR OF KNOWN CRYPTOGRAPHIC CLIENTS"
+            }, 
+            {
+                "pdf_url": "https://www.cs.unc.edu/~reiter/papers/2017/NSDI.pdf", 
+                "paper_title": "A System to Verify Network Behavior of Known Cryptographic Clients"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/8f72/d67c4ace54471c5c8984914889098ac1cb48.pdf", 
+                "paper_title": "A System to Verify Network Behavior of Known Cryptographic Clients"
+            }, 
+            {
+                "pdf_url": "https://www.robbycochran.com/pdf/NSDI17.pdf", 
+                "paper_title": "A System to Verify Network Behavior of Known Cryptographic Clients"
+            }, 
+            {
+                "pdf_url": "http://www.cs.unc.edu/~reiter/papers/2017/NSDI.pdf", 
+                "paper_title": "A System to Verify Network Behavior of Known Cryptographic Clients"
+            }
+        ], 
+        "paper_title": "A System to Verify Network Behavior of Known Cryptographic Clients"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-husmann.pdf", 
+                "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large {MIMO} Access Points"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~kylej/papers/FlexCore-nsdi17-final.pdf", 
+                "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points"
+            }, 
+            {
+                "pdf_url": "http://paws.cs.princeton.edu/sites/default/files/FlexCore-nsdi17-final_0.pdf", 
+                "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/a026/cf70029ac1e00ec54fe626d68d211fab0add.pdf", 
+                "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points"
+            }, 
+            {
+                "pdf_url": "https://core.ac.uk/download/pdf/80846205.pdf", 
+                "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~kylej/papers/FlexCore-nsdi17-final.pdf", 
+                "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points"
+            }
+        ], 
+        "paper_title": "FlexCore: Massively Parallel and Flexible Processing for Large MIMO Access Points"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wei-teng.pdf", 
+                "paper_title": "Facilitating robust 60 ghz network deployment by sensing ambient reflectors"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_wei.pdf", 
+                "paper_title": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+            }, 
+            {
+                "pdf_url": "https://cse.buffalo.edu/faculty/dimitrio/courses/cse709_f17/material/papers/emi_nsdi17.pdf", 
+                "paper_title": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+            }, 
+            {
+                "pdf_url": "https://twei7.com/papers/TWei_NSDI17_E-Mi.pdf", 
+                "paper_title": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+            }, 
+            {
+                "pdf_url": "http://xyzhang.ucsd.edu/papers/TWei_NSDI17_EMi.pdf", 
+                "paper_title": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+            }
+        ], 
+        "paper_title": "Facilitating Robust 60 GHz Network Deployment By Sensing Ambient Reflectors"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-bhardwaj.pdf", 
+                "paper_title": "Skip-correlation for multi-power wireless carrier sensing"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_bhardwaj.pdf", 
+                "paper_title": "Skip-Correlation for Multi-Power Wireless Carrier Sensing"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/ccf0/36633b9fb78e8f01026d43d4917468f31505.pdf", 
+                "paper_title": "Skip-Correlation for Multi-Power Wireless Carrier Sensing"
+            }
+        ], 
+        "paper_title": "Skip-Correlation for Multi-Power Wireless Carrier Sensing"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wang-anran.pdf", 
+                "paper_title": "{FM} Backscatter: Enabling Connected Cities and Smart Fabrics"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wang-anran.pdf?xid=PS_smithsonian", 
+                "paper_title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/174d/052461d91928bdf73c32bc0d8eaf4e219e2e.pdf", 
+                "paper_title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
+            }, 
+            {
+                "pdf_url": "http://smartcities.cs.washington.edu/fmbackscatter.pdf", 
+                "paper_title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~gshyam/Papers/fmbackscatter.pdf", 
+                "paper_title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~gshyam/Papers/fmbackscatter.pdf", 
+                "paper_title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
+            }
+        ], 
+        "paper_title": "FM Backscatter: Enabling Connected Cities and Smart Fabrics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-corrigan-gibbs.pdf", 
+                "paper_title": "Prio: Private, robust, and scalable computation of aggregate statistics"
+            }, 
+            {
+                "pdf_url": "https://crypto.stanford.edu/prio/paper.pdf", 
+                "paper_title": "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/ec08/be24d9031ad420a03d401b53a9b49ec2cd34.pdf", 
+                "paper_title": "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics"
+            }, 
+            {
+                "pdf_url": "https://www.henrycg.com/files/academic/papers/nsdi17prio.pdf", 
+                "paper_title": "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics"
+            }
+        ], 
+        "paper_title": "Prio: Private, Robust, and Scalable Computation of Aggregate Statistics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zheng.pdf", 
+                "paper_title": "Opaque: An oblivious and encrypted distributed analytics platform"
+            }, 
+            {
+                "pdf_url": "http://people.eecs.berkeley.edu/~wzheng/opaque.pdf", 
+                "paper_title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform"
+            }, 
+            {
+                "pdf_url": "https://jbeekman.nl/site/publications/opaque.pdf", 
+                "paper_title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/83eb/b8c63c6516243b20767323a5d3f7051a75f6.pdf", 
+                "paper_title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform"
+            }, 
+            {
+                "pdf_url": "https://jbeekman.nl/publications/opaque.pdf", 
+                "paper_title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~wzheng/opaque.pdf", 
+                "paper_title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform"
+            }
+        ], 
+        "paper_title": "Opaque: An Oblivious and Encrypted Distributed Analytics Platform"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wang-frank.pdf", 
+                "paper_title": "Splinter: Practical private queries on public data"
+            }, 
+            {
+                "pdf_url": "https://frankwang.org/files/papers/wang-splinter.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "https://www.frankwang.org/files/papers/wang-splinter.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/8035/a152c7a2906db524d381eb2459efbefbd028.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_wang_frank.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "https://www.bu.edu/macs/files/2017/05/wang-splinter.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "http://dawn.cs.stanford.edu/pubs/splinter-nsdi2017.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "https://pdos.lcs.mit.edu/papers/splinter:nsdi17.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }, 
+            {
+                "pdf_url": "https://www-cs.stanford.edu/~matei/papers/2017/nsdi_splinter.pdf", 
+                "paper_title": "Splinter: Practical Private Queries on Public Data"
+            }
+        ], 
+        "paper_title": "Splinter: Practical Private Queries on Public Data"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf", 
+                "paper_title": "{VFP}: A Virtual Switch Platform for Host {SDN} in the Public Cloud"
+            }
+        ], 
+        "paper_title": "VFP: A Virtual Switch Platform for Host SDN in the Public Cloud"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-panda-aurojit-scl.pdf", 
+                "paper_title": "{SCL}: Simplifying Distributed {SDN} Control Planes"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~apanda/assets/papers/scl.pdf", 
+                "paper_title": "SCL: Simplifying Distributed SDN Control Planes"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/23bd/e3dadb4effccb3b539c5ce46c295a11615bb.pdf", 
+                "paper_title": "SCL: Simplifying Distributed SDN Control Planes"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/pilo.pdf", 
+                "paper_title": "SCL: Simplifying Distributed SDN Control Planes"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/pilo.pdf", 
+                "paper_title": "SCL: Simplifying Distributed SDN Control Planes"
+            }, 
+            {
+                "pdf_url": "http://people.eecs.berkeley.edu/~apanda/assets/papers/scl.pdf", 
+                "paper_title": "SCL: Simplifying Distributed SDN Control Planes"
+            }
+        ], 
+        "paper_title": "SCL: Simplifying Distributed SDN Control Planes"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-chang.pdf", 
+                "paper_title": "Robust validation of network designs under uncertain demands and failures"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/5ecc/82e93bbe370cda324eb89f1e65d9cc8496dd.pdf", 
+                "paper_title": "Robust validation of network designs under uncertain demands and failures"
+            }, 
+            {
+                "pdf_url": "https://engineering.purdue.edu/~isl/papers/nsdi17-final59.pdf", 
+                "paper_title": "Robust validation of network designs under uncertain demands and failures"
+            }, 
+            {
+                "pdf_url": "https://on-the-run.github.io/webpage/docs/nsdi17-final59.pdf", 
+                "paper_title": "Robust validation of network designs under uncertain demands and failures"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_chang.pdf", 
+                "paper_title": "Robust validation of network designs under uncertain demands and failures"
+            }
+        ], 
+        "paper_title": "Robust Validation of Network Designs under Uncertain Demands and Failures"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf", 
+                "paper_title": "Encoding, fast and slow: Low-latency video processing using thousands of tiny threads"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf", 
+                "paper_title": "Encoding, fast and slow: Low-latency video processing using thousands of tiny threads"
+            }, 
+            {
+                "pdf_url": "https://www.johnemmons.com/files/john_emmons_excamera.pdf", 
+                "paper_title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~gmporter/papers/nsdi17-excamera.pdf", 
+                "paper_title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e665/4c70c990b64eb951771ece0a10c8bd001c56.pdf", 
+                "paper_title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~shivaram/cs744-readings/excamera.pdf", 
+                "paper_title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/excamera.pdf", 
+                "paper_title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads"
+            }
+        ], 
+        "paper_title": "Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vanini.pdf", 
+                "paper_title": "Let it flow: Resilient asymmetric load balancing with flowlet switching"
+            }
+        ], 
+        "paper_title": "Let It Flow: Resilient Asymmetric Load Balancing with Flowlet Switching"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-perry.pdf", 
+                "paper_title": "Flowtune: Flowlet control for datacenter networks"
+            }, 
+            {
+                "pdf_url": "http://nms.lcs.mit.edu/papers/flowtune-nsdi17.pdf", 
+                "paper_title": "Flowtune: Flowlet Control for Datacenter Networks"
+            }, 
+            {
+                "pdf_url": "https://devavrat.mit.edu/wp-content/uploads/2017/11/Flowtune-Flowlet-Control-for-Datacenter-Networks.pdf", 
+                "paper_title": "Flowtune: Flowlet Control for Datacenter Networks"
+            }, 
+            {
+                "pdf_url": "https://core.ac.uk/download/pdf/78071365.pdf", 
+                "paper_title": "Flowtune: Flowlet Control for Datacenter Networks"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/8dd2/371b1291c0311967e4f1330f53da4b3d503f.pdf", 
+                "paper_title": "Flowtune: Flowlet Control for Datacenter Networks"
+            }
+        ], 
+        "paper_title": "Flowtune: Flowlet Control for Datacenter Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-ousterhout.pdf", 
+                "paper_title": "Flexplane: an experimentation platform for resource management in datacenters"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/aousterh/papers/flexplane_nsdi17.pdf", 
+                "paper_title": "Flexplane: An Experimentation Platform for Resource Management in Datacenters"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/aousterh/papers/flexplane_nsdi17.pdf", 
+                "paper_title": "Flexplane: An Experimentation Platform for Resource Management in Datacenters"
+            }
+        ], 
+        "paper_title": "Flexplane: An Experimentation Platform for Resource Management in Datacenters"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-mehdi.pdf", 
+                "paper_title": "I can't believe it's not causal! scalable causal consistency with no slowdown cascades"
+            }, 
+            {
+                "pdf_url": "https://sns.cs.princeton.edu/assets/papers/2017-nsdi-zhang.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~wlloyd/papers/occult-nsdi17.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "https://www.cs.utexas.edu/~lorenzo/papers/Mehdi17Occult.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/lorenzo/papers/Mehdi17Occult.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10077634", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/22d9/bd7d4d4e071ae573ac56fca7b58824c50801.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "http://www.cs.utexas.edu/~ncrooks/2017-nsdi-occult.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~wlloyd/papers/occult-nsdi17.pdf", 
+                "paper_title": "I Can't Believe It's Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+            }
+        ], 
+        "paper_title": "I Can\u2019t Believe It\u2019s Not Causal! Scalable Causal Consistency with No Slowdown Cascades"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf", 
+                "paper_title": "Cherrypick: Adaptively unearthing the best cloud configurations for big data analytics"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/5242/0c1238997d8eb970f7a9a61813b11b05e2e9.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }, 
+            {
+                "pdf_url": "https://shivaram.org/publications/cherrypick-nsdi17.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }, 
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/talk/nsdi17-cherrypick.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }, 
+            {
+                "pdf_url": "http://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/papers/alipourfard_nsdi_2017.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }, 
+            {
+                "pdf_url": "http://www.cs.yale.edu/homes/yu-minlan/writeup/nsdi17-cherrypick.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_alipourfard.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/nsdi17-cherrypick-final.pdf", 
+                "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+            }
+        ], 
+        "paper_title": "CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-berger.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the hot object memory cache in a content delivery network"
+            }, 
+            {
+                "pdf_url": "http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/Web/People/harchol/Papers/NSDI17.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "http://www.dat-berger.de/pdf/2017AdaptSize_NSDI.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "https://disco.cs.uni-kl.de/discofiles/publicationsfiles/BHS17.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "https://pdl.cmu.edu/PDL-FTP/associated/nsdi17-berger.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/CS239_W19/papers/adaptsize.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~ramesh/Site/PUBLICATIONS_files/nsdi17-berger.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e7bb/88d0bd83b9b81e93e987787f2366dce5f313.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }, 
+            {
+                "pdf_url": "https://www.pdl.cmu.edu/PDL-FTP/associated/nsdi17-berger.pdf", 
+                "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+            }
+        ], 
+        "paper_title": "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gowda.pdf", 
+                "paper_title": "Bringing IoT to sports analytics"
+            }, 
+            {
+                "pdf_url": "http://synrg.csl.illinois.edu/papers/cricket-nsdi-2017.pdf", 
+                "paper_title": "Bringing IoT to Sports Analytics"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/60b0/35d5c39df79d984b385eb2dd68288adea8fd.pdf", 
+                "paper_title": "Bringing IoT to Sports Analytics"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/ece598rr/sp2017/material/cricket-nsdi-2017.pdf", 
+                "paper_title": "Bringing IoT to Sports Analytics"
+            }, 
+            {
+                "pdf_url": "http://www.cse.psu.edu/~mkg31/papers/cricket-nsdi-2017.pdf", 
+                "paper_title": "Bringing IoT to Sports Analytics"
+            }, 
+            {
+                "pdf_url": "https://synrg.csl.illinois.edu/papers/cricket-nsdi-2017.pdf", 
+                "paper_title": "Bringing IoT to Sports Analytics"
+            }
+        ], 
+        "paper_title": "Bringing IoT to Sports Analytics"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-vasisht.pdf", 
+                "paper_title": "Farmbeats: An iot platform for data-driven agriculture"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/786b/30a6f49a513db1ef5cb55dfabd52076fb7be.pdf", 
+                "paper_title": "FarmBeats: An IoT Platform for Data-Driven Agriculture"
+            }
+        ], 
+        "paper_title": "FarmBeats: An IoT Platform for Data-Driven Agriculture"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-abari.pdf", 
+                "paper_title": "Enabling high-quality untethered virtual reality"
+            }, 
+            {
+                "pdf_url": "https://cs.uwaterloo.ca/~oabari/Papers/NSDI17.pdf", 
+                "paper_title": "Enabling High-Quality Untethered Virtual Reality"
+            }, 
+            {
+                "pdf_url": "https://cse.buffalo.edu/faculty/dimitrio/courses/cse709_f17/material/papers/movr_nsdi17.pdf", 
+                "paper_title": "Enabling High-Quality Untethered Virtual Reality"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/courses/archive/spring19/cos463/papers/movr.pdf", 
+                "paper_title": "Enabling High-Quality Untethered Virtual Reality"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/courses/archive/spring18/cos463/papers/movr.pdf", 
+                "paper_title": "Enabling High-Quality Untethered Virtual Reality"
+            }
+        ], 
+        "paper_title": "Enabling High-Quality Untethered Virtual Reality"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-kelton.pdf", 
+                "paper_title": "Improving user perceived page load times using gaze"
+            }, 
+            {
+                "pdf_url": "https://netsys.cs.stonybrook.edu/sites/netsys.cs.stonybrook.edu/files/webgaze.pdf", 
+                "paper_title": "Improving User Perceived Page Load Time Using Gaze"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_kelton.pdf", 
+                "paper_title": "Improving User Perceived Page Load Time using Gaze"
+            }, 
+            {
+                "pdf_url": "https://www.cs.utexas.edu/~swadhin/reading_group/slides/PageLoad.pdf", 
+                "paper_title": "Improving User Perceived Page Load Time using Gaze"
+            }, 
+            {
+                "pdf_url": "http://gaze.cs.stonybrook.edu/paper/webgaze_nsdi17_final.pdf", 
+                "paper_title": "Improving User Perceived Page Load Time Using Gaze"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e68b/642704709bf9622d7aad526a57e61b8a5c8d.pdf", 
+                "paper_title": "Improving User Perceived Page Load Times Using Gaze"
+            }, 
+            {
+                "pdf_url": "https://www3.cs.stonybrook.edu/~arunab/papers/webgaze.pdf", 
+                "paper_title": "Improving User Perceived Page Load Time Using Gaze"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/b76e/83f1789f0fb9757b00d68b41c2bfc508cd09.pdf", 
+                "paper_title": "Improving User Perceived Page Load Time Using Gaze"
+            }
+        ], 
+        "paper_title": "Improving User Perceived Page Load Times Using Gaze"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zhuo.pdf", 
+                "paper_title": "{RAIL}: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/2aee/3b526f646fb1c2ef54259497653ad5fff749.pdf", 
+                "paper_title": "RAIL: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_zhuo.pdf", 
+                "paper_title": "RAIL: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks"
+            }
+        ], 
+        "paper_title": "RAIL: A Case for Redundant Arrays of Inexpensive Links in Data Center Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-chen.pdf", 
+                "paper_title": "Enabling wide-spread communications on optical fabric with megaswitch"
+            }, 
+            {
+                "pdf_url": "http://www.cs.yale.edu/homes/yu-minlan/writeup/nsdi17-megaswitch.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }, 
+            {
+                "pdf_url": "http://www.cse.ust.hk/~kaichen/papers/megaswitch-nsdi17.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~gmporter/papers/nsdi17-megaswitch.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_chen_li.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/606b/8763a3ed206716bf61a5b00afd048907f6e3.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }, 
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/writeup/nsdi17-megaswitch.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }, 
+            {
+                "pdf_url": "https://www.cse.ust.hk/~kaichen/papers/megaswitch-nsdi17.pdf", 
+                "paper_title": "Enabling Wide-spread Communications on Optical Fabric with MegaSwitch"
+            }
+        ], 
+        "paper_title": "Enabling Wide-Spread Communications on Optical Fabric with MegaSwitch"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-roy.pdf", 
+                "paper_title": "Passive realtime datacenter fault detection and localization"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/8ccf/2885d3bb874b619ce19f9b2a302dae2a2f54.pdf", 
+                "paper_title": "Passive Realtime Datacenter Fault Detection and Localization"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/system/files/login/articles/login_fall17_06_roy.pdf", 
+                "paper_title": "Passive Realtime Datacenter Fault Detection and Localization"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~snoeren/papers/fault-nsdi17.pdf", 
+                "paper_title": "Passive Realtime Datacenter Fault Detection and Localization"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~snoeren/papers/fault-nsdi17.pdf", 
+                "paper_title": "Passive Realtime Datacenter Fault Detection and Localization"
+            }
+        ], 
+        "paper_title": "Passive Realtime Datacenter Fault Detection and Localization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf", 
+                "paper_title": "Clipper: A low-latency online prediction serving system"
+            }, 
+            {
+                "pdf_url": "https://databricks.com/wp-content/uploads/2018/12/nsdi17-crankshaw.pdf", 
+                "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/clipper.pdf", 
+                "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~mosharaf/Readings/Clipper.pdf", 
+                "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/0a5f/f7336879c99513dca6fce6ef44984ebf3f55.pdf", 
+                "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+            }, 
+            {
+                "pdf_url": "https://ucbrise.github.io/cs294-rise-fa16/assets/papers/clipper_latest_draft_nsdi.pdf", 
+                "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+            }, 
+            {
+                "pdf_url": "https://rise.cs.berkeley.edu/wp-content/uploads/2017/02/clipper_final.pdf", 
+                "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+            }
+        ], 
+        "paper_title": "Clipper: A Low-Latency Online Prediction Serving System"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-hsieh.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching {LAN} Speeds"
+            }, 
+            {
+                "pdf_url": "https://people.inf.ethz.ch/omutlu/pub/gaia-geo-distributed-ML-at-LAN-speed_nsdi17.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_hsieh.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/Gaia.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }, 
+            {
+                "pdf_url": "https://pdl.cmu.edu/PDL-FTP/BigLearning/gaia.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/2db5/306c3679642bfbffc684de986cff80baf4c7.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }, 
+            {
+                "pdf_url": "https://www.pdl.cmu.edu/PDL-FTP/BigLearning/gaia.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~mosharaf/Readings/Gaia.pdf", 
+                "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+            }
+        ], 
+        "paper_title": "Gaia: Geo-Distributed Machine Learning Approaching LAN Speeds"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-gu.pdf", 
+                "paper_title": "Efficient memory disaggregation with infiniswap"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~mosharaf/Readings/Infiniswap.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with INFINISWAP"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/Infiniswap.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with INFINISWAP"
+            }, 
+            {
+                "pdf_url": "https://www.eecs.umich.edu/eecs/about/articles/2017/infiniswap-nsdi17.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with INFINISWAP"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_gu.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with Infiniswap"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/ece598ms/sp2018/papers/paper202.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with INFINISWAP"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/b6b6/8de1eaf5f28dea6596990c83f363c44ea208.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with INFINISWAP"
+            }, 
+            {
+                "pdf_url": "https://www.mosharaf.com/wp-content/uploads/infiniswap-nsdi17.pdf", 
+                "paper_title": "Efficient Memory Disaggregation with INFINISWAP"
+            }
+        ], 
+        "paper_title": "Efficient Memory Disaggregation with Infiniswap"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-xiao.pdf", 
+                "paper_title": "Tux\u00b2: Distributed Graph Computation for Machine Learning"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/TuX2.pdf", 
+                "paper_title": "TUX2: Distributed Graph Computation for Machine Learning"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~mosharaf/Readings/TuX2.pdf", 
+                "paper_title": "TUX2: Distributed Graph Computation for Machine Learning"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/5541/6b8613af06855bd94059c3d0305adc58057b.pdf", 
+                "paper_title": "TuX2: Distributed Graph Computation for Machine Learning"
+            }
+        ], 
+        "paper_title": "Tux\u00b2: Distributed Graph Computation for Machine Learning"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-ryzhyk.pdf", 
+                "paper_title": "Correct by construction networks using stepwise refinement"
+            }, 
+            {
+                "pdf_url": "https://mcanini.github.io/papers/cocoon.nsdi17.pdf", 
+                "paper_title": "Correct by Construction Networks using Stepwise Refinement"
+            }, 
+            {
+                "pdf_url": "http://ryzhyk.net/publications/Ryzhyk_BCJSTV_17.pdf", 
+                "paper_title": "Correct by Construction Networks using Stepwise Refinement"
+            }, 
+            {
+                "pdf_url": "http://www.ryzhyk.me/publications/Ryzhyk_BCJSTV_17.pdf", 
+                "paper_title": "Correct by Construction Networks using Stepwise Refinement"
+            }
+        ], 
+        "paper_title": "Correct by Construction Networks Using Stepwise Refinement"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-panda-mutable-datapaths.pdf", 
+                "paper_title": "Verifying reachability in networks with mutable datapaths"
+            }, 
+            {
+                "pdf_url": "http://www.cs.tau.ac.il/~orilahav/papers/vmn-nsdi17.pdf", 
+                "paper_title": "Verifying Reachability in Networks with Mutable Datapaths"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~apanda/assets/papers/vmn-nsdi17.pdf", 
+                "paper_title": "Verifying Reachability in Networks with Mutable Datapaths"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/29eb/6849b0eb147673f51d6bc8a501131e4e7c52.pdf", 
+                "paper_title": "Verifying Reachability in Networks with Mutable Datapaths"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Mooly_Sagiv/publication/304788418_Verifying_Reachability_in_Networks_with_Mutable_Datapaths/links/58be76eaa6fdcc9831447059/Verifying-Reachability-in-Networks-with-Mutable-Datapaths.pdf", 
+                "paper_title": "Verifying Reachability in Networks with Mutable Datapaths"
+            }, 
+            {
+                "pdf_url": "https://www.cs.tau.ac.il/~orilahav/papers/vmn-nsdi17.pdf", 
+                "paper_title": "Verifying Reachability in Networks with Mutable Datapaths"
+            }
+        ], 
+        "paper_title": "Verifying Reachability in Networks with Mutable Datapaths"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wu.pdf", 
+                "paper_title": "Automated bug removal for software-defined networks"
+            }, 
+            {
+                "pdf_url": "http://people.cs.georgetown.edu/~wzhou/publication/metaprov-nsdi17.pdf", 
+                "paper_title": "Automated Bug Removal for Software-Defined Networks"
+            }, 
+            {
+                "pdf_url": "http://www.cis.upenn.edu/~ahae/papers/meta-provenance-tr.pdf", 
+                "paper_title": "Automated Bug Removal for Software-Defined Networks"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/6eae/eedd90f536f30c9df2b264feffd23c5d03a7.pdf", 
+                "paper_title": "Automated Bug Removal for Software-Defined Networks"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Yang_Wu101/publication/318283640_Automated_Bug_Removal_for_Software-Defined_Networks/links/5b38799ba6fdcc8506e3cb5e/Automated-Bug-Removal-for-Software-Defined-Networks.pdf", 
+                "paper_title": "Automated Bug Removal for Software-Defined Networks"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rice.edu/~angchen/papers/nsdi-2017.pdf", 
+                "paper_title": "Automated Bug Removal for Software-Defined Networks"
+            }, 
+            {
+                "pdf_url": "http://www.cis.upenn.edu/~ahae/papers/meta-provenance-nsdi2017.pdf", 
+                "paper_title": "Automated Bug Removal for Software-Defined Networks"
+            }
+        ], 
+        "paper_title": "Automated Bug Removal for Software-Defined Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi17/nsdi17-horn-alex.pdf", 
+                "paper_title": "Delta-net: Real-time network verification using atoms"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/ad80/6d9c69ab834d814865958cd3ded4df4f12f9.pdf", 
+                "paper_title": "Delta-net: Real-time Network Verification Using Atoms"
+            }
+        ], 
+        "paper_title": "Delta-net: Real-time Network Verification Using Atoms"
+    }
+]

@@ -1,0 +1,1014 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10073026", 
+                "paper_title": "Nfp: Enabling network function parallelism in nfv"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Chen_Sun41/publication/318916605_NFP_Enabling_Network_Function_Parallelism_in_NFV/links/5a37311045851532e832549b/NFP-Enabling-Network-Function-Parallelism-in-NFV.pdf", 
+                "paper_title": "NFP: Enabling Network Function Parallelism in NFV"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10073026", 
+                "paper_title": "NFP: Enabling Network Function Parallelism in NFV"
+            }, 
+            {
+                "pdf_url": "https://people.cs.clemson.edu/~hongxih/papers/SIGCOMM2017.pdf", 
+                "paper_title": "NFP: Enabling Network Function Parallelism in NFV"
+            }
+        ], 
+        "paper_title": "NFP: Enabling Network Function Parallelism in NFV"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf", 
+                "paper_title": "Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/espresso17.pdf", 
+                "paper_title": "Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering"
+            }
+        ], 
+        "paper_title": "Taking the Edge off with Espresso: Scale, Reliability and Programmability for Global Internet Peering"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://ina.kaist.ac.kr/~dongsuh/paper/cho-sigcomm17.pdf", 
+                "paper_title": "Credit-scheduled delay-bounded congestion control for datacenters"
+            }, 
+            {
+                "pdf_url": "http://keonjang.github.io/papers/sigcomm17ep.pdf", 
+                "paper_title": "Credit-Scheduled Delay-Bounded Congestion Control for Datacenters"
+            }, 
+            {
+                "pdf_url": "http://ina.kaist.ac.kr/~dongsuh/paper/cho-sigcomm17.pdf", 
+                "paper_title": "Credit-Scheduled Delay-Bounded Congestion Control for Datacenters"
+            }, 
+            {
+                "pdf_url": "https://www.systems.ethz.ch/sites/default/files/file/COURSES/2018_SPRING_COURSES/SDNseminar/09_Congestion.pdf", 
+                "paper_title": "Credit-Scheduled Delay-Bounded Congestion Control for Datacenters"
+            }
+        ], 
+        "paper_title": "Credit-Scheduled Delay-Bounded Congestion Control for Datacenters"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://infoscience.epfl.ch/record/231983/files/vignat-sigcomm17.pdf", 
+                "paper_title": "A formally verified nat"
+            }, 
+            {
+                "pdf_url": "https://vignat.github.io/vignat-paper.pdf", 
+                "paper_title": "A Formally Verified NAT"
+            }
+        ], 
+        "paper_title": "A Formally Verified NAT"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://about.att.com/ecms/dam/sites/labs_research/content/publications/SDN_Dynamic_service_chaining_with_Dysco.pdf", 
+                "paper_title": "Dynamic service chaining with dysco"
+            }, 
+            {
+                "pdf_url": "http://www.research.att.com/content/dam/sites/labs_research/content/publications/SDN_Dynamic_service_chaining_with_Dysco.pdf", 
+                "paper_title": "Dynamic Service Chaining with Dysco"
+            }, 
+            {
+                "pdf_url": "http://www.pamelazave.com/dyscoSIGCOMM17.pdf", 
+                "paper_title": "Dynamic Service Chaining with Dysco"
+            }, 
+            {
+                "pdf_url": "http://www2.research.att.com/ecms/dam/sites/labs_research/content/publications/SDN_Dynamic_service_chaining_with_Dysco.pdf", 
+                "paper_title": "Dynamic Service Chaining with Dysco"
+            }, 
+            {
+                "pdf_url": "https://about.att.com/ecms/dam/sites/labs_research/content/publications/SDN_Dynamic_service_chaining_with_Dysco.pdf", 
+                "paper_title": "Dynamic Service Chaining with Dysco"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~jrex/papers/dysco17.pdf", 
+                "paper_title": "Dynamic Service Chaining with Dysco"
+            }, 
+            {
+                "pdf_url": "http://lists.research.att.com/content/dam/sites/labs_research/content/publications/SDN_Dynamic_service_chaining_with_Dysco.pdf", 
+                "paper_title": "Dynamic Service Chaining with Dysco"
+            }
+        ], 
+        "paper_title": "Dynamic Service Chaining with Dysco"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://laoutaris.info/wp-content/uploads/2017/07/sigcomm17-final89.pdf", 
+                "paper_title": "Who is fiddling with prices?: Building and deploying a watchdog service for e-commerce"
+            }, 
+            {
+                "pdf_url": "http://laoutaris.info/wp-content/uploads/2017/07/sigcomm17-final89.pdf", 
+                "paper_title": "Who is Fiddling with Prices?"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Michael_Sirivianos/publication/318915407_Who_is_Fiddling_with_Prices_Building_and_Deploying_a_Watchdog_Service_for_E-commerce/links/5a1d44fdaca2726120b2ab33/Who-is-Fiddling-with-Prices-Building-and-Deploying-a-Watchdog-Service-for-E-commerce.pdf", 
+                "paper_title": "Who is Fiddling with Prices?"
+            }, 
+            {
+                "pdf_url": "https://encase.socialcomputing.eu/wp-content/uploads/2017/11/paper_89_CR.pdf", 
+                "paper_title": "Who is Fiddling with Prices?"
+            }, 
+            {
+                "pdf_url": "http://encase.socialcomputing.eu/wp-content/uploads/2017/11/paper_89_CR.pdf", 
+                "paper_title": "Who is Fiddling with Prices?"
+            }
+        ], 
+        "paper_title": "Who is Fiddling with Prices? Building and Deploying a Watchdog Service for E-commerce"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/3d5f/a0ff4a34d8e6dcab5f49a4064cb676bfcb0c.pdf", 
+                "paper_title": "Sketchvisor: Robust network measurement for software packet processing"
+            }, 
+            {
+                "pdf_url": "http://adslab.cse.cuhk.edu.hk/pubs/sigcomm17.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }, 
+            {
+                "pdf_url": "https://yichao0319.github.io/assets/publications/sigcomm17_huang.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }, 
+            {
+                "pdf_url": "http://www.cs.jhu.edu/~xinjin/files/SIGCOMM17_SketchVisor.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/3d5f/a0ff4a34d8e6dcab5f49a4064cb676bfcb0c.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }, 
+            {
+                "pdf_url": "https://www.cse.cuhk.edu.hk/~pclee/www/pubs/sigcomm17.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }, 
+            {
+                "pdf_url": "http://www.cse.cuhk.edu.hk/~pclee/www/pubs/sigcomm17.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }, 
+            {
+                "pdf_url": "https://www.cs.jhu.edu/~xinjin/files/SIGCOMM17_SketchVisor.pdf", 
+                "paper_title": "SketchVisor: Robust Network Measurement for So ware Packet Processing"
+            }
+        ], 
+        "paper_title": "SketchVisor: Robust Network Measurement for Software Packet Processing"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://people.inf.ethz.ch/asingla/papers/sigcomm17.pdf", 
+                "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+            }, 
+            {
+                "pdf_url": "https://people.inf.ethz.ch/asingla/papers/sigcomm17.pdf", 
+                "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-7-2-beyond-fat-tree.pdf", 
+                "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+            }, 
+            {
+                "pdf_url": "http://www.cs.huji.ac.il/~schapiram/SIGCOMM2017_Expanders.pdf", 
+                "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+            }, 
+            {
+                "pdf_url": "http://www.cs.huji.ac.il/~mestrebisli/pubs/2017/fatfree.pdf", 
+                "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-7-2-beyond-fat-tree.pdf", 
+                "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+            }
+        ], 
+        "paper_title": "Beyond fat-trees without antennae, mirrors, and disco-balls"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/impact_router_outages_as/impact_router_outages_as.pdf", 
+                "paper_title": "The impact of router outages on the AS-level internet"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-11-3-outages.pdf", 
+                "paper_title": "The Impact of Router Outages on the AS-Level Internet"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/impact_router_outages_as/impact_router_outages_as.pdf", 
+                "paper_title": "The Impact of Router Outages on the AS-level Internet"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-11-3-outages.pdf", 
+                "paper_title": "The Impact of Router Outages on the AS-Level Internet"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2017/impact_router_outages_as/impact_router_outages_as.pdf", 
+                "paper_title": "The Impact of Router Outages on the AS-level Internet"
+            }
+        ], 
+        "paper_title": "The Impact of Router Outages on the AS-level Internet"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10058540", 
+                "paper_title": "A tale of two topologies: Exploring convertible data center network architectures with flat-tree"
+            }, 
+            {
+                "pdf_url": "http://www.cs.rice.edu/~eugeneng/papers/SIGCOMM17.pdf", 
+                "paper_title": "A Tale of Two Topologies: Exploring Convertible Data Center Network Architectures with Flat-tree"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10096103", 
+                "paper_title": "A Tale of Two Topologies: Exploring Convertible Data Center Network Architectures with Flat-tree"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rice.edu/~eugeneng/papers/SIGCOMM17.pdf", 
+                "paper_title": "A Tale of Two Topologies: Exploring Convertible Data Center Network Architectures with Flat-tree"
+            }
+        ], 
+        "paper_title": "A Tale of Two Topologies: Exploring Convertible Data Center Network Architectures with Flat-tree"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1707.06778", 
+                "paper_title": "Constant time updates in hierarchical heavy hitters"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Marcelo_Caggiani_Luizelli/publication/318652471_Constant_Time_Updates_in_Hierarchical_Heavy_Hitters/links/5a1d5666a6fdcc0af326cd6c/Constant-Time-Updates-in-Hierarchical-Heavy-Hitters.pdf", 
+                "paper_title": "Constant Time Updates in Hierarchical Heavy Hitters"
+            }, 
+            {
+                "pdf_url": "http://www.cs.technion.ac.il/~gilga/hhh.pdf", 
+                "paper_title": "Constant Time Updates in Hierarchical Heavy Hitters"
+            }
+        ], 
+        "paper_title": "Constant Time Updates in Hierarchical Heavy Hitters"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.andrew.cmu.edu/user/oyagan/Conferences/SIGCOMM2017.pdf", 
+                "paper_title": "Empowering low-power wide area networks in urban settings"
+            }, 
+            {
+                "pdf_url": "http://www.andrew.cmu.edu/user/oyagan/Conferences/SIGCOMM2017.pdf", 
+                "paper_title": "Empowering Low-Power Wide Area Networks in Urban Se ings"
+            }, 
+            {
+                "pdf_url": "https://www.andrew.cmu.edu/user/oyagan/Conferences/SIGCOMM2017.pdf", 
+                "paper_title": "Empowering Low-Power Wide Area Networks in Urban Se ings"
+            }
+        ], 
+        "paper_title": "Empowering Low-Power Wide Area Networks in Urban Settings"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1612.04265", 
+                "paper_title": "Pretzel: Email encryption and provider-supplied functions are compatible"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/lorenzo/papers/pretzel-sigcomm17.pdf", 
+                "paper_title": "Pretzel: Email encryption and provider-supplied functions are compatible"
+            }, 
+            {
+                "pdf_url": "https://sites.cs.ucsb.edu/~trinabh/papers/pretzel-sigcomm17.pdf", 
+                "paper_title": "Pretzel: Email encryption and provider-supplied functions are compatible"
+            }
+        ], 
+        "paper_title": "Pretzel: Email encryption and provider-supplied functions are compatible"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~gmporter/papers/sigcomm17-rotornet.pdf", 
+                "paper_title": "Rotornet: A scalable, low-complexity, optical datacenter network"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~gmporter/papers/sigcomm17-rotornet.pdf", 
+                "paper_title": "RotorNet: A Scalable, Low-complexity, Optical Datacenter Network"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~gmporter/papers/sigcomm17-rotornet.pdf", 
+                "paper_title": "RotorNet: A Scalable, Low-complexity, Optical Datacenter Network"
+            }
+        ], 
+        "paper_title": "RotorNet: A Scalable, Low-complexity, Optical Datacenter Network"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3098822.3098839", 
+                "paper_title": "Drill: Micro load balancing for low-latency data center networks"
+            }, 
+            {
+                "pdf_url": "http://soudeh.net/files/drill_sigcomm.pdf", 
+                "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://firoozshahian.com/publications/drill_sigcomm17.pdf", 
+                "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://pbg.web.engr.illinois.edu/papers/ghorbani17drill.pdf", 
+                "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://pbg.cs.illinois.edu/papers/ghorbani17drill.pdf", 
+                "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://www.firoozshahian.com/publications/drill_sigcomm17.pdf", 
+                "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~soudeh/files/drill_sigcomm.pdf", 
+                "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+            }
+        ], 
+        "paper_title": "DRILL: Micro Load Balancing for Low-latency Data Center Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/marple.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/marple/marple-sigcomm17.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-1-ldhd.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/marple-sigcomm17.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d32b/d9cb2d8ff4a3d31e2e41357059a0deaedc28.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rutgers.edu/~sn624/papers/marple-sigcomm17.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }, 
+            {
+                "pdf_url": "http://nms.lcs.mit.edu/papers/marple.pdf", 
+                "paper_title": "Language-Directed Hardware Design for Network Performance Monitoring"
+            }
+        ], 
+        "paper_title": "Language-directed hardware design for network performance monitoring"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3098822.3098848", 
+                "paper_title": "A high performance packet core for next generation cellular networks"
+            }
+        ], 
+        "paper_title": "A High Performance Packet Core for Next Generation Cellular Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cs.cmu.edu/~prs/papers/evolve_sigcomm17_final.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/8d83/045099723a109ab709ed032f09958d01f2d9.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "https://wisr.cs.wisc.edu/papers/dbgp-sigcomm.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-11-2-D-BGP.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cmu.edu/~prs/papers/evolve_sigcomm17_final.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Raja_Sambasivan/publication/318914663_Bootstrapping_evolvability_for_inter-domain_routing_with_D-BGP/links/5991b041a6fdcc53b798fae9/Bootstrapping-evolvability-for-inter-domain-routing-with-D-BGP.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "https://www.rajasambasivan.com/wp-content/uploads/2017/07/sambasivan-sigcomm17.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2016/CMU-CS-16-117.pdf", 
+                "paper_title": "Bootstrapping Evolvability for Inter-Domain Routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~akella/papers/dbgp-sigcomm.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }, 
+            {
+                "pdf_url": "http://www.rajasambasivan.com/wp-content/uploads/2017/07/sambasivan-sigcomm17.pdf", 
+                "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+            }
+        ], 
+        "paper_title": "Bootstrapping evolvability for inter-domain routing with D-BGP"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3098822.3098852", 
+                "paper_title": "Carousel: Scalable traffic shaping at end hosts"
+            }, 
+            {
+                "pdf_url": "http://www.comm.toronto.edu/~jorg/teaching/ece1545/papers/Carousel-Sigcomm2017-paper.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-9-4-carousel.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://pub-tools-public-publication-data.storage.googleapis.com/pdf/5c081a4eef095abc2e135b67f792761113453067.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/ae32/870bea57f04ef70247127a42785091e8119d.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "http://www.cc.gatech.edu/~amsmti3/files/carousel-sigcomm17.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://www.cc.gatech.edu/~amsmti3/files/carousel-sigcomm17.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://www.comm.toronto.edu/~jorg/teaching/ece1545/papers/Carousel-Sigcomm2017-paper.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-9-4-carousel.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://www.systems.ethz.ch/sites/default/files/file/COURSES/2018_SPRING_COURSES/SDNseminar/08_Carousel.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://www.systems.ethz.ch/sites/default/files/file/COURSES/2018_SPRING_COURSES/SDNseminar/08_Carousel.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/6361/ec2cefe790a370bd4f42fe62f8af662b739b.pdf", 
+                "paper_title": "Carousel: Scalable Traffic Shaping at End Hosts"
+            }
+        ], 
+        "paper_title": "Carousel: Scalable Traffic Shaping at End-Hosts"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://homepages.dcc.ufmg.br/~cunha/papers/schlinker17sigcomm-edgefabric.pdf", 
+                "paper_title": "Engineering egress with edge fabric: Steering oceans of content to the world"
+            }, 
+            {
+                "pdf_url": "http://www.dcc.ufmg.br/~cunha/papers/schlinker17sigcomm-edgefabric.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~harshavm/papers/edgefabric_sigcomm17.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "https://homepages.dcc.ufmg.br/~cunha/papers/schlinker17sigcomm-edgefabric.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "https://research.fb.com/wp-content/uploads/2017/08/sigcomm17-final177-2billion.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "http://www.columbia.edu/~ebk2141/papers/edgefabric-sigcomm17.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/courses/archive/fall17/cos561/papers/EdgeFabric17.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "https://web.eecs.umich.edu/~harshavm/papers/edgefabric_sigcomm17.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }, 
+            {
+                "pdf_url": "http://homepages.dcc.ufmg.br/~cunha/papers/schlinker17sigcomm-edgefabric.pdf", 
+                "paper_title": "Engineering Egress with Edge Fabric"
+            }
+        ], 
+        "paper_title": "Engineering Egress with Edge Fabric: Steering Oceans of Content to the World"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10059093", 
+                "paper_title": "Drone relays for battery-free networks"
+            }
+        ], 
+        "paper_title": "Drone Relays for Battery-Free Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/writeup/sigcomm17.pdf", 
+                "paper_title": "Silkroad: Making stateful layer-4 load balancing fast and cheap using switching asics"
+            }, 
+            {
+                "pdf_url": "http://minlanyu.seas.harvard.edu/writeup/sigcomm17.pdf", 
+                "paper_title": "SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs"
+            }, 
+            {
+                "pdf_url": "http://www.cs.yale.edu/homes/yu-minlan/writeup/sigcomm17.pdf", 
+                "paper_title": "SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.uic.edu/~brents/cs494-cdcs/papers/silkroad.pdf", 
+                "paper_title": "SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs"
+            }
+        ], 
+        "paper_title": "SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://discovery.ucl.ac.uk/1560977/1/Swift_sigcomm17.pdf", 
+                "paper_title": "Swift: Predictive fast reroute"
+            }, 
+            {
+                "pdf_url": "https://www.vanbever.eu/pdfs/vanbever_swift_sigcomm_2017.pdf", 
+                "paper_title": "SWIFT: Predictive Fast Reroute"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsg_vanbever_swift_sigcomm_2017.pdf", 
+                "paper_title": "SWIFT: Predictive Fast Reroute"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-11-1-SWIFT.pdf", 
+                "paper_title": "SWIFT: Predictive Fast Reroute"
+            }, 
+            {
+                "pdf_url": "https://vanbever.eu/pdfs/vanbever_swift_sigcomm_2017.pdf", 
+                "paper_title": "SWIFT: Predictive Fast Reroute"
+            }, 
+            {
+                "pdf_url": "https://swift.ethz.ch/files/swift_sigcomm17.pdf", 
+                "paper_title": "SWIFT: Predictive Fast Reroute"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/nsg_vanbever_swift_sigcomm_2017.pdf", 
+                "paper_title": "SWIFT: Predictive Fast Reroute"
+            }
+        ], 
+        "paper_title": "SWIFT: Predictive Fast Reroute"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/CS239_W19/papers/vroom.pdf", 
+                "paper_title": "Vroom: Accelerating the mobile web with server-aided dependency resolution"
+            }, 
+            {
+                "pdf_url": "http://web.eecs.umich.edu/~harshavm/papers/vroom_sigcomm17.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "https://vaspol.me/pdfs/vroom-sigcomm-17.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-9-3-vroom.pdf", 
+                "paper_title": "Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/CS239_W19/papers/vroom.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "https://www.eecs.umich.edu/eecs/about/articles/2017/vroom_sigcomm17.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/ravinet/vroom.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/publications/vroom.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/ravinet/www/vroom.pdf", 
+                "paper_title": "VROOM: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-9-3-vroom.pdf", 
+                "paper_title": "Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+            }
+        ], 
+        "paper_title": "Vroom: Accelerating the Mobile Web with Server-Aided Dependency Resolution"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3098822.3098841", 
+                "paper_title": "Resilient datacenter load balancing in the wild"
+            }, 
+            {
+                "pdf_url": "https://www.mosharaf.com/wp-content/uploads/hermes-sigcomm17.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }, 
+            {
+                "pdf_url": "https://www.mosharaf.com/wp-content/uploads/hermes-sigcomm17.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }, 
+            {
+                "pdf_url": "http://www.cse.ust.hk/~kaichen/papers/hermes-sigcomm17.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }, 
+            {
+                "pdf_url": "http://baiwei0427.github.io/papers/hermes-sigcomm2017.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }, 
+            {
+                "pdf_url": "https://hongzhangblaze.github.io/papers/Hermes.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }, 
+            {
+                "pdf_url": "http://sing.cse.ust.hk/~hong/papers/Hermes.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }, 
+            {
+                "pdf_url": "https://baiwei0427.github.io/papers/hermes-sigcomm2017.pdf", 
+                "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+            }
+        ], 
+        "paper_title": "Resilient Datacenter Load Balancing in the Wild"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://discovery.ucl.ac.uk/10062261/1/paper.pdf", 
+                "paper_title": "Disk"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Mark_Handley/publication/318914565_DiskCryptNet_rethinking_the_stack_for_high-performance_video_streaming/links/59ca2f4745851556e97df2d0/DiskCryptNet-rethinking-the-stack-for-high-performance-video-streaming.pdf", 
+                "paper_title": "Disk| Crypt| Net: rethinking the stack for high-performance video streaming"
+            }, 
+            {
+                "pdf_url": "http://www.cl.cam.ac.uk/~rnw24/papers/201708-sigcomm-diskcryptnet.pdf", 
+                "paper_title": "Disk| Crypt| Net: rethinking the stack for high-performance video streaming"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~rnw24/papers/201708-sigcomm-diskcryptnet.pdf", 
+                "paper_title": "Disk| Crypt| Net: rethinking the stack for high-performance video streaming"
+            }
+        ], 
+        "paper_title": "Disk|Crypt|Net: rethinking the stack for high performance video streaming"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dspace.mit.edu/bitstream/handle/1721.1/111926/1005728861-MIT.pdf?sequence=1", 
+                "paper_title": "Neural adaptive video streaming with pensieve"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/papers/mao_sigcomm_2017.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/pensieve-sigcomm17.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "https://engineering.virginia.edu/sites/default/files/common/departments/electrical-and-computer-engineering/computer-engineering/files/QualAug2018/MachineLearning.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/CS239_W19/papers/pensieve.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/ravinet/pensieve.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/publications/pensieve.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/ravinet/www/pensieve.pdf", 
+                "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+            }
+        ], 
+        "paper_title": "Neural Adaptive Video Streaming with Pensieve"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.andrew.cmu.edu/user/yifeiy2/publication/netqre.pdf", 
+                "paper_title": "Quantitative network monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "https://www.cis.upenn.edu/~alur/Sigcomm17.pdf", 
+                "paper_title": "antitative Network Monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-2-NetQRE.pdf", 
+                "paper_title": "Quantitative Network Monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "https://www.andrew.cmu.edu/user/yifeiy2/publication/netqre.pdf", 
+                "paper_title": "Quantitative Network Monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "https://www.systems.ethz.ch/sites/default/files/file/COURSES/2018_SPRING_COURSES/SDNseminar/05_NetQRE.pdf", 
+                "paper_title": "Quantitative Network Monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/22ba/bca0134c4fd20cfe6122cab8aef529141b7c.pdf", 
+                "paper_title": "antitative Network Monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "http://www.andrew.cmu.edu/user/yifeiy2/publication/netqre.pdf", 
+                "paper_title": "Quantitative Network Monitoring with NetQRE"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-2-NetQRE.pdf", 
+                "paper_title": "Quantitative Network Monitoring with NetQRE"
+            }
+        ], 
+        "paper_title": "Quantitative Network Monitoring with NetQRE"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://discovery.ucl.ac.uk/10068163/1/ndp.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }, 
+            {
+                "pdf_url": "http://nets.cs.pub.ro/~costin/files/ndp.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }, 
+            {
+                "pdf_url": "https://gianniantichi.github.io/files/papers/ndp.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }, 
+            {
+                "pdf_url": "http://www2.cs.duke.edu/courses/fall18/compsci514/readings/p29-Handley.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }, 
+            {
+                "pdf_url": "http://cial.csie.ncku.edu.tw/presentation/st2017/pdf/Re-architecting%20datacenter%20networks%20and%20stacks%20for%20low%20latency%20and%20high%20performance.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Mark_Handley/publication/318915741_Re-architecting_datacenter_networks_and_stacks_for_low_latency_and_high_performance/links/59ca2fe045851556e97df2ee/Re-architecting-datacenter-networks-and-stacks-for-low-latency-and-high-performance.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.duke.edu/courses/fall18/compsci514/readings/p29-Handley.pdf", 
+                "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+            }
+        ], 
+        "paper_title": "Re-architecting datacenter networks and stacks for low latency and high performance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://rjshade.com/work/files/papers/pdf/langley_et_al_sigcomm2017_quic.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "https://ask.qcloudimg.com/draft/1236341/zf8uf3hp7s.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "https://www2.cs.duke.edu/courses/fall18/compsci514/readings/QUIC-sigcomm2017.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "https://research.google.com/pubs/archive/8b935debf13bd176a08326738f5f88ad115a071e.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "http://pub-tools-public-publication-data.storage.googleapis.com/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "https://www.cs.rutgers.edu/~sn624/552-F18/papers/quic.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "https://pub-tools-public-publication-data.storage.googleapis.com/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }, 
+            {
+                "pdf_url": "https://research.google.com/pubs/archive/46403.pdf", 
+                "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+            }
+        ], 
+        "paper_title": "The QUIC Transport Protocol: Design and Internet-Scale Deployment"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://eprints.lancs.ac.uk/123508/1/SIGCOMM2017.pdf", 
+                "paper_title": "Detecting peering infrastructure outages in the wild"
+            }, 
+            {
+                "pdf_url": "https://www.de-cix.net/Files/f33c2aeaf1d05640a27cf82e9f41f4715227f214/Detecting-Peering-Infrastructure-Outages-in-the-Wild.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/gsmaragd/publications/SIGCOMM2017/SIGCOMM2017.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-10-3-outages-in-wild.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/de/de/multimedia/documents/technical-publication/detecting-peering-infrastructure-outages-in-the-wild.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/detecting_peering_infrastructure_outages/detecting_peering_infrastructure_outages.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d2f8/58888bdb1b7e1a347fce8093fb33f3875a22.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }, 
+            {
+                "pdf_url": "http://www.net.t-labs.tu-berlin.de/papers/VDSFB-DPIOW-17.pdf", 
+                "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+            }
+        ], 
+        "paper_title": "Detecting Peering Infrastructure Outages in the Wild"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~dpw/papers/minesweeper-sigcomm17.pdf", 
+                "paper_title": "A general approach to network configuration verification"
+            }, 
+            {
+                "pdf_url": "https://ratul.org/papers/sigcomm2017-minesweeper.pdf", 
+                "paper_title": "A General Approach to Network Configuration Verification"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~dpw/papers/minesweeper-sigcomm17.pdf", 
+                "paper_title": "A General Approach to Network Configuration Verification"
+            }, 
+            {
+                "pdf_url": "https://scholar.princeton.edu/sites/default/files/rbeckett/files/paper.pdf", 
+                "paper_title": "A General Approach to Network Configuration Verification"
+            }, 
+            {
+                "pdf_url": "https://www.batfish.org/minesweeper/resources/Minesweeper.pdf", 
+                "paper_title": "A General Approach to Network Configuration Verification"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~aartig/papers/sigcomm17-minesweeper.pdf", 
+                "paper_title": "A General Approach to Network Configuration Verification"
+            }
+        ], 
+        "paper_title": "A General Approach to Network Configuration Verification"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1718/R02/papers/p1-Chole.pdf", 
+                "paper_title": "drmt: Disaggregated programmable switching"
+            }, 
+            {
+                "pdf_url": "http://nms.lcs.mit.edu/papers/drmt_sigcomm_17.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }, 
+            {
+                "pdf_url": "http://nms.csail.mit.edu/papers/drmt_sigcomm_17.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }, 
+            {
+                "pdf_url": "https://p4.org/assets/p4-ws-2017-drmt.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }, 
+            {
+                "pdf_url": "http://www-users.cselabs.umn.edu/classes/Fall-2017/csci8211/Papers/SDN%20Data%20Plane%20dRMT-%20Disaggregated%20Programmable%20Switching.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1718/R02/papers/p1-Chole.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }, 
+            {
+                "pdf_url": "http://webee.technion.ac.il/~isaac/p/sigcomm17_drmt.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/drmt-sigcomm17.pdf", 
+                "paper_title": "dRMT: Disaggregated Programmable Switching"
+            }
+        ], 
+        "paper_title": "dRMT: Disaggregated Programmable Switching"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3098822.3098846", 
+                "paper_title": "Wi-fi goes to town: Rapid picocell switching for wireless transit networks"
+            }
+        ], 
+        "paper_title": "Wi-Fi Goes to Town: Rapid Picocell Switching for Wireless Transit Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Xiaoming_Fu2/publication/318915169_NFVnice_Dynamic_Backpressure_and_Scheduling_for_NFV_Service_Chains/links/59e9ed55aca272bc42b757a7/NFVnice-Dynamic-Backpressure-and-Scheduling-for-NFV-Service-Chains.pdf", 
+                "paper_title": "Nfvnice: Dynamic backpressure and scheduling for nfv service chains"
+            }, 
+            {
+                "pdf_url": "http://faculty.cs.gwu.edu/timwood/papers/17-SIGCOMM-NFVNice.pdf", 
+                "paper_title": "NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-2-3-NFVnice.pdf", 
+                "paper_title": "NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Xiaoming_Fu2/publication/318915169_NFVnice_Dynamic_Backpressure_and_Scheduling_for_NFV_Service_Chains/links/59e9ed55aca272bc42b757a7/NFVnice-Dynamic-Backpressure-and-Scheduling-for-NFV-Service-Chains.pdf", 
+                "paper_title": "NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-2-3-NFVnice.pdf", 
+                "paper_title": "NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains"
+            }
+        ], 
+        "paper_title": "NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://eprints.cs.univie.ac.at/5546/1/CorrOpt_SIGCOMM2017.pdf", 
+                "paper_title": "Understanding and mitigating packet corruption in data center networks"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/corropt.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "https://ratul.org/papers/sigcomm2017-corropt.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "https://ktfoerster.github.io/paper/CorrOpt_SIGCOMM2017.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "https://danyangzhuo.com/papers/SIGCOMM17-CorrOpt.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://eprints.cs.univie.ac.at/5546/1/CorrOpt_SIGCOMM2017.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/ghobadi/papers/corropt_sigcomm_2017.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-9-1-CorrOpt.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/corropt.pdf", 
+                "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+            }
+        ], 
+        "paper_title": "Understanding and Mitigating Packet Corruption in Data Center Networks"
+    }
+]

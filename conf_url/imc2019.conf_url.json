@@ -1,0 +1,9 @@
+{
+    "conf_name": "imc2019", 
+    "conf_url": "https://conferences.sigcomm.org/imc/2019/program/", 
+    "conf_attrs": [], 
+    "conf_ele": [
+        "[[\"[document]\"], [\"div\"], [\"ul\"], [\"ul\"], [\"li\"], [\"div\"], [\"div\"], [\"div\"], [\"strong\"], [\"a\"]]", 
+        "[[\"[document]\"], [\"ul\"], [\"li\"], [\"div\"], [\"div\"], [\"div\"], [\"strong\"], [\"a\"]]"
+    ]
+}

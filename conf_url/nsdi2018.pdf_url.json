@@ -1,0 +1,1084 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-sharma.pdf", 
+                "paper_title": "Approximating fair queueing on reconfigurable switches"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_sharma.pdf", 
+                "paper_title": "Approximating Fair Queueing on Reconfigurable Switches"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/571a/253f7c5ed3517657ce8a49c25f0ebccc3d79.pdf", 
+                "paper_title": "Approximating Fair Queueing on Reconfigurable Switches"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/afq.pdf", 
+                "paper_title": "Approximating Fair Queueing on Reconfigurable Switches"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/afq.pdf", 
+                "paper_title": "Approximating Fair Queueing on Reconfigurable Switches"
+            }
+        ], 
+        "paper_title": "Approximating Fair Queueing on Reconfigurable Switches"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-honda.pdf", 
+                "paper_title": "{PASTE}: A Network Programming Interface for Non-Volatile Main Memory"
+            }, 
+            {
+                "pdf_url": "https://seminar-materials.iijlab.net/iijlab-seminar/iijlab-seminar-20180502.pdf", 
+                "paper_title": "PASTE: A Network Programming Interface for Non-Volatile Main Memory"
+            }, 
+            {
+                "pdf_url": "http://web.sfc.wide.ad.jp/~micchie/papers/paste-nsdi18.pdf", 
+                "paper_title": "PASTE: A Network Programming Interface for Non-Volatile Main Memory"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_honda.pdf", 
+                "paper_title": "PASTE: A Network Programming Interface for Non-Volatile Main Memory"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Michio_Honda/publication/326997571_PASTE_A_Network_Programming_Interface_for_Non-Volatile_Main_Memory/links/5b71c0fb45851546c9fd5c8f/PASTE-A-Network-Programming-Interface-for-Non-Volatile-Main-Memory.pdf", 
+                "paper_title": "PASTE: A Network Programming Interface for Non-Volatile Main Memory"
+            }, 
+            {
+                "pdf_url": "https://eggert.org/papers/paste-nsdi18.pdf", 
+                "paper_title": "PASTE: A Network Programming Interface for Non-Volatile Main Memory"
+            }
+        ], 
+        "paper_title": "PASTE: A Network Programming Interface for Non-Volatile Main Memory"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-jin.pdf", 
+                "paper_title": "Netchain: Scale-free sub-rtt coordination"
+            }, 
+            {
+                "pdf_url": "https://www.inf.usi.ch/faculty/soule/pubs/nsdi2018-netchain.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }, 
+            {
+                "pdf_url": "https://sns.cs.princeton.edu/assets/papers/2018-nsdi-jin.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~jnfoster/papers/netchain.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_jin.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }, 
+            {
+                "pdf_url": "http://www.cs.yale.edu/homes/soule/pubs/nsdi2018-netchain.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }, 
+            {
+                "pdf_url": "http://www.cs.jhu.edu/~xinjin/files/NSDI18_NetChain.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }, 
+            {
+                "pdf_url": "https://www.cs.jhu.edu/~xinjin/files/NSDI18_NetChain.pdf", 
+                "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+            }
+        ], 
+        "paper_title": "NetChain: Scale-Free Sub-RTT Coordination"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf", 
+                "paper_title": "Azure accelerated networking: SmartNICs in the public cloud"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_firestone.pdf", 
+                "paper_title": "Azure Accelerated Networking: SmartNICs in the Public Cloud"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/5067/a284d01182cfbfa1e6f9789314c25fb9f61d.pdf", 
+                "paper_title": "Azure Accelerated Networking: SmartNICs in the Public Cloud"
+            }
+        ], 
+        "paper_title": "Azure Accelerated Networking: SmartNICs in the Public Cloud"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-narula.pdf", 
+                "paper_title": "zkLedger: Privacy-preserving auditing for distributed ledgers"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/a591/45db19eedf3c63e956319de5316773e826eb.pdf", 
+                "paper_title": "zkLedger: Privacy-Preserving Auditing for Distributed Ledgers"
+            }, 
+            {
+                "pdf_url": "https://dci.mit.edu/s/zkledger.pdf", 
+                "paper_title": "zkLedger: Privacy-Preserving Auditing for Distributed Ledgers"
+            }, 
+            {
+                "pdf_url": "https://eprint.iacr.org/2018/241.pdf", 
+                "paper_title": "zkLedger: Privacy-Preserving Auditing for Distributed Ledgers"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/wrv/www/index_files/zkledger.pdf", 
+                "paper_title": "zkLedger: Privacy-Preserving Auditing for Distributed Ledgers"
+            }
+        ], 
+        "paper_title": "zkLedger: Privacy-Preserving Auditing for Distributed Ledgers"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-geng.pdf", 
+                "paper_title": "Exploiting a natural network effect for scalable, fine-grained clock synchronization"
+            }
+        ], 
+        "paper_title": "Exploiting a Natural Network Effect for Scalable, Fine-grained Clock Synchronization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-hoffmann.pdf", 
+                "paper_title": "Snailtrail: Generalizing critical paths for online analysis of distributed dataflows"
+            }, 
+            {
+                "pdf_url": "http://strymon.systems.ethz.ch/assets/pdf/nsdi18-hoffmann.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }, 
+            {
+                "pdf_url": "https://inf.ethz.ch/personal/troscoe/pubs/hoffmann-nsdi-2018.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }, 
+            {
+                "pdf_url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/228581/2/paper_full.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }, 
+            {
+                "pdf_url": "http://www-oldurls.inf.ethz.ch/personal/troscoe/pubs/hoffmann-nsdi-2018.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }, 
+            {
+                "pdf_url": "http://people.inf.ethz.ch/troscoe/pubs/hoffmann-nsdi-2018.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }, 
+            {
+                "pdf_url": "https://wiki.antiguru.de/lib/exe/fetch.php/pub/snailtrail.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }, 
+            {
+                "pdf_url": "https://people.inf.ethz.ch/troscoe/pubs/hoffmann-nsdi-2018.pdf", 
+                "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+            }
+        ], 
+        "paper_title": "SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-araujo.pdf", 
+                "paper_title": "Balancing on the edge: Transport affinity without network state"
+            }, 
+            {
+                "pdf_url": "https://jta.github.io/publications/nsdi.pdf", 
+                "paper_title": "Balancing on the edge: transport affinity without network state"
+            }, 
+            {
+                "pdf_url": "https://lorenzosaino.github.io/publications/faild-nsdi18.pdf", 
+                "paper_title": "Balancing on the edge: transport affinity without network state"
+            }, 
+            {
+                "pdf_url": "http://jta.github.io/publications/nsdi.pdf", 
+                "paper_title": "Balancing on the edge: transport affinity without network state"
+            }
+        ], 
+        "paper_title": "Balancing on the Edge: Transport Affinity without Network State"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-olteanu.pdf", 
+                "paper_title": "Stateless datacenter load-balancing with beamer"
+            }, 
+            {
+                "pdf_url": "https://www.systems.ethz.ch/sites/default/files/file/COURSES/2018_SPRING_COURSES/SDNseminar/07_Beamer.pdf", 
+                "paper_title": "Stateless Datacenter Load-balancing with Beamer"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_olteanu.pdf", 
+                "paper_title": "Stateless Datacenter Load Balancing with Beamer"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/7d46/c3765faa7ee3427ae01890086d43dc0179e0.pdf", 
+                "paper_title": "Stateless Datacenter Load-balancing with Beamer"
+            }, 
+            {
+                "pdf_url": "http://nets.cs.pub.ro/~costin/files/beamer.pdf", 
+                "paper_title": "Stateless Datacenter Load-balancing with Beamer"
+            }, 
+            {
+                "pdf_url": "http://nets.cs.pub.ro/crc/fair2018/olteanu_beamer.pdf", 
+                "paper_title": "Stateless Datacenter Load Balancing with Beamer"
+            }
+        ], 
+        "paper_title": "Stateless Datacenter Load-balancing with Beamer"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-chatzieleftheriou.pdf", 
+                "paper_title": "Larry: Practical network reconfigurability in the data center"
+            }, 
+            {
+                "pdf_url": "http://rowstron.azurewebsites.net/Publications/nsdi18-Larry.pdf", 
+                "paper_title": "Larry: Practical Network Reconfigurability in the Data Center"
+            }
+        ], 
+        "paper_title": "Larry: Practical Network Reconfigurability in the Data Center"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-kumar.pdf", 
+                "paper_title": "Semi-oblivious traffic engineering: The road not taken"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_kumar.pdf", 
+                "paper_title": "Semi-Oblivious Traffic Engineering: The Road Not Taken"
+            }, 
+            {
+                "pdf_url": "http://www.cs.yale.edu/homes/soule/pubs/nsdi2018-smore.pdf", 
+                "paper_title": "Semi-Oblivious Traffic Engineering: The Road Not Taken"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~jnfoster/papers/smore.pdf", 
+                "paper_title": "Semi-Oblivious Traffic Engineering: The Road Not Taken"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~praveenk/papers/smore-nsdi18.pdf", 
+                "paper_title": "Semi-Oblivious Traffic Engineering: The Road Not Taken"
+            }
+        ], 
+        "paper_title": "Semi-Oblivious Traffic Engineering: The Road Not Taken"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-katsikas.pdf", 
+                "paper_title": "Metron:{NFV} Service Chains at the True Speed of the Underlying Hardware"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_katsikas.pdf", 
+                "paper_title": "Metron NFV Service Chains at the True Speed of the Underlying Hardware"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Georgios_Katsikas/publication/323341992_Metron_NFV_Service_Chains_at_the_True_Speed_of_the_Underlying_Hardware/links/5b2370cdaca272277fb101ad/Metron-NFV-Service-Chains-at-the-True-Speed-of-the-Underlying-Hardware.pdf", 
+                "paper_title": "Metron: NFV Service Chains at the True Speed of the Underlying Hardware"
+            }, 
+            {
+                "pdf_url": "https://www.kth.se/blogs/tcc/files/2018/04/metron-katsikas-nsdi18.pdf", 
+                "paper_title": "Metron NFV Service Chains at the True Speed of the Underlying Hardware"
+            }, 
+            {
+                "pdf_url": "https://people.kth.se/~dejanko/documents/publications/metron-nsdi18.pdf", 
+                "paper_title": "Metron: NFV Service Chains at the True Speed of the Underlying Hardware"
+            }
+        ], 
+        "paper_title": "Metron: NFV Service Chains at the True Speed of the Underlying Hardware"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-zhang-kai.pdf", 
+                "paper_title": "G-NET: Effective {GPU} Sharing in {NFV} Systems"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_zhang-kai.pdf", 
+                "paper_title": "G-NET: Effective GPU Sharing In NFV Systems"
+            }, 
+            {
+                "pdf_url": "http://www.cs.wm.edu/~lyang11/G-NET.pdf", 
+                "paper_title": "G-NET: Effective GPU Sharing in NFV Systems"
+            }, 
+            {
+                "pdf_url": "https://kay21s.github.io/G-NET.pdf", 
+                "paper_title": "G-NET: Effective GPU Sharing in NFV Systems"
+            }, 
+            {
+                "pdf_url": "https://wangzeke.github.io/doc/gnet-nsdi-18.pdf", 
+                "paper_title": "G-NET: Effective GPU Sharing in NFV Systems"
+            }, 
+            {
+                "pdf_url": "https://www.comp.nus.edu.sg/~hebs/pub/NSDI18-GNET.pdf", 
+                "paper_title": "G-NET: Effective GPU Sharing in NFV Systems"
+            }
+        ], 
+        "paper_title": "G-NET: Effective GPU Sharing in NFV Systems"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-poddar.pdf", 
+                "paper_title": "Safebricks: Shielding network functions in the cloud"
+            }, 
+            {
+                "pdf_url": "https://rise.cs.berkeley.edu/~rishabhp/publications/SafeBricks.pdf", 
+                "paper_title": "SafeBricks: Shielding Network Functions in the Cloud"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_poddar.pdf", 
+                "paper_title": "SafeBricks: Shielding Network Functions in the Cloud"
+            }, 
+            {
+                "pdf_url": "http://rishabhpoddar.com/publications/SafeBricks.pdf", 
+                "paper_title": "SafeBricks: Shielding Network Functions in the Cloud"
+            }, 
+            {
+                "pdf_url": "https://rishabhpoddar.com/publications/SafeBricks.pdf", 
+                "paper_title": "SafeBricks: Shielding Network Functions in the Cloud"
+            }
+        ], 
+        "paper_title": "SafeBricks: Shielding Network Functions in the Cloud"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-netravali-vesper.pdf", 
+                "paper_title": "Vesper: measuring time-to-interactivity for web pages"
+            }, 
+            {
+                "pdf_url": "https://mickens.seas.harvard.edu/files/mickens/files/vesper-nsdi.pdf", 
+                "paper_title": "Vesper: Measuring Time-to-Interactivity for Web Pages"
+            }
+        ], 
+        "paper_title": "Vesper: Measuring Time-to-Interactivity for Web Pages"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-naderiparizi.pdf", 
+                "paper_title": "Towards battery-free {HD} video streaming"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d286/35db8721ea9549ffc2f750c05aa70d638021.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~gshyam/Papers/videobackscatter.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }, 
+            {
+                "pdf_url": "https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }, 
+            {
+                "pdf_url": "http://staff.washington.edu/mehrdadh/files/hdcamera.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }, 
+            {
+                "pdf_url": "https://yivian.com/resource/paper/Towards_Battery-Free_HD_Video_Streaming.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }, 
+            {
+                "pdf_url": "http://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }, 
+            {
+                "pdf_url": "https://staff.washington.edu/mehrdadh/files/hdcamera.pdf", 
+                "paper_title": "Towards Battery-Free HD Video Streaming"
+            }
+        ], 
+        "paper_title": "Towards Battery-Free HD Video Streaming"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-netravali-prophecy.pdf", 
+                "paper_title": "Prophecy: accelerating mobile page loads using final-state write logs"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/publications/prophecy_nsdi18.pdf", 
+                "paper_title": "Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs"
+            }, 
+            {
+                "pdf_url": "http://nms.lcs.mit.edu/papers/prophecy_nsdi18.pdf", 
+                "paper_title": "Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/ravinet/www/prophecy_nsdi18.pdf", 
+                "paper_title": "Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs"
+            }, 
+            {
+                "pdf_url": "https://mickens.seas.harvard.edu/files/mickens/files/prophecy-nsdi.pdf", 
+                "paper_title": "Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs"
+            }, 
+            {
+                "pdf_url": "http://web.mit.edu/ravinet/prophecy_nsdi18.pdf", 
+                "paper_title": "Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs"
+            }
+        ], 
+        "paper_title": "Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-fouladi.pdf", 
+                "paper_title": "Salsify: low-latency network video through tighter integration between a video codec and a transport protocol"
+            }, 
+            {
+                "pdf_url": "https://www-cs.stanford.edu/~keithw/salsify-paper.pdf", 
+                "paper_title": "Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol"
+            }, 
+            {
+                "pdf_url": "http://web.cs.ucla.edu/~ravi/CS239_W19/papers/salsify.pdf", 
+                "paper_title": "Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol"
+            }, 
+            {
+                "pdf_url": "https://www.johnemmons.com/files/john_emmons_salsify.pdf", 
+                "paper_title": "Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol"
+            }
+        ], 
+        "paper_title": "Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-tootoonchian.pdf", 
+                "paper_title": "Resq: Enabling slos in network function virtualization"
+            }
+        ], 
+        "paper_title": "ResQ: Enabling SLOs in Network Function Virtualization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-woo.pdf", 
+                "paper_title": "Elastic scaling of stateful network functions"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/b354/1b9a7bf8b87578702b7ab1a53589de296d82.pdf", 
+                "paper_title": "Elastic Scaling of Stateful Network Functions"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_woo_0.pdf", 
+                "paper_title": "Elastic Scaling of Stateful Network Functions"
+            }
+        ], 
+        "paper_title": "Elastic Scaling of Stateful Network Functions"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-khalid.pdf", 
+                "paper_title": "Iron: Isolating Network-based {CPU} in Container Environments"
+            }, 
+            {
+                "pdf_url": "http://wisr.cs.wisc.edu/papers/nsdi18-khalid.pdf", 
+                "paper_title": "Iron: Isolating Network-based CPU in Container Environments"
+            }, 
+            {
+                "pdf_url": "http://ericrozner.com/papers/nsdi18-iron.pdf", 
+                "paper_title": "Iron: Isolating Network-based CPU in Container Environments"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_khalid.pdf", 
+                "paper_title": "Iron: Isolating Network-based CPU in Container Environments"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~junaid/papers/iron.pdf", 
+                "paper_title": "Iron: Isolating Network-based CPU in Container Environments"
+            }, 
+            {
+                "pdf_url": "https://wisr.cs.wisc.edu/papers/nsdi18-khalid.pdf", 
+                "paper_title": "Iron: Isolating Network-based CPU in Container Environments"
+            }
+        ], 
+        "paper_title": "Iron: Isolating Network-based CPU in Container Environments"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-arun.pdf", 
+                "paper_title": "Copa: Practical delay-based congestion control for the internet"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/venkatar/copa.pdf", 
+                "paper_title": "Copa: Practical Delay-Based Congestion Control for the Internet"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/venkatar/copa.pdf", 
+                "paper_title": "Copa: Practical Delay-Based Congestion Control for the Internet"
+            }
+        ], 
+        "paper_title": "Copa: Practical Delay-Based Congestion Control for the Internet"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf", 
+                "paper_title": "{PCC} Vivace: Online-Learning Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://pbg.cs.illinois.edu/papers/dong18pcc-vivace.pdf", 
+                "paper_title": "PCC Vivace: Online-Learning Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://pbg.web.engr.illinois.edu/papers/dong18pcc-vivace.pdf", 
+                "paper_title": "PCC Vivace: Online-Learning Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/papers/pccvivace.pdf", 
+                "paper_title": "PCC Vivace: Online-Learning Congestion Control"
+            }, 
+            {
+                "pdf_url": "https://engineering.virginia.edu/sites/default/files/common/departments/electrical-and-computer-engineering/computer-engineering/files/QualAug2018/Networks.pdf", 
+                "paper_title": "PCC Vivace: Online-Learning Congestion Control"
+            }, 
+            {
+                "pdf_url": "http://www.cs.huji.ac.il/~schapiram/nsdi18-dong.pdf", 
+                "paper_title": "PCC Vivace: Online-Learning Congestion Control"
+            }
+        ], 
+        "paper_title": "PCC Vivace: Online-Learning Congestion Control"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-lu.pdf", 
+                "paper_title": "Multi-path transport for {RDMA} in datacenters"
+            }, 
+            {
+                "pdf_url": "https://bigdata.ustc.edu.cn/paper_pdf/2018/Yuanwei-Lu-NSDI.pdf", 
+                "paper_title": "Multi-Path Transport for RDMA in Datacenters"
+            }, 
+            {
+                "pdf_url": "http://staff.ustc.edu.cn/~cheneh/paper_pdf/2018/Yuanwei-Lu-NSDI.pdf", 
+                "paper_title": "Multi-Path Transport for RDMA in Datacenters"
+            }, 
+            {
+                "pdf_url": "https://1989chenguo.github.io/Publications/MPRDMA-NSDI18.pdf", 
+                "paper_title": "Multi-Path Transport for RDMA in Datacenters"
+            }, 
+            {
+                "pdf_url": "http://bigdata.ustc.edu.cn/paper_pdf/2018/Yuanwei-Lu-NSDI.pdf", 
+                "paper_title": "Multi-Path Transport for RDMA in Datacenters"
+            }
+        ], 
+        "paper_title": "Multi-Path Transport for RDMA in Datacenters"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf", 
+                "paper_title": "Andromeda: performance, isolation, and velocity at scale in cloud network virtualization"
+            }
+        ], 
+        "paper_title": "Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-beckmann.pdf", 
+                "paper_title": "{LHD}: Improving Cache Hit Rate by Maximizing Hit Density"
+            }, 
+            {
+                "pdf_url": "https://www.seas.upenn.edu/~hxchen/papers/2018-nsdi-lhd.pdf", 
+                "paper_title": "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+            }, 
+            {
+                "pdf_url": "https://pdl.cmu.edu/PDL-FTP/associated/2018.nsdi.lhd.pdf", 
+                "paper_title": "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+            }, 
+            {
+                "pdf_url": "https://www.pdl.cmu.edu/PDL-FTP/associated/2018.nsdi.lhd.pdf", 
+                "paper_title": "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cmu.edu/~beckmann/publications/papers/2018.nsdi.lhd.pdf", 
+                "paper_title": "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+            }, 
+            {
+                "pdf_url": "https://www.cs.cmu.edu/~beckmann/publications/papers/2018.nsdi.lhd.pdf", 
+                "paper_title": "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+            }
+        ], 
+        "paper_title": "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-ardelean.pdf", 
+                "paper_title": "Performance analysis of cloud applications"
+            }
+        ], 
+        "paper_title": "Performance Analysis of Cloud Applications"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-arzani.pdf", 
+                "paper_title": "007: Democratically finding the cause of packet drops"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/63ef/cd0695d3de798e2743739c8b6a32a568fb84.pdf", 
+                "paper_title": "007: Democratically Finding The Cause of Packet Drops (Extended Version)"
+            }, 
+            {
+                "pdf_url": "http://www.hongqiangliu.com/uploads/5/2/7/4/52747939/nsdi18-arzani.pdf", 
+                "paper_title": "007: Democratically Finding the Cause of Packet Drops"
+            }, 
+            {
+                "pdf_url": "http://yibozhu.com/doc/007-nsdi18.pdf", 
+                "paper_title": "007: Democratically Finding the Cause of Packet Drops"
+            }
+        ], 
+        "paper_title": "007: Democratically Finding the Cause of Packet Drops"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-yuan.pdf", 
+                "paper_title": "Efficient and correct test scheduling for ensembles of network policies"
+            }, 
+            {
+                "pdf_url": "https://users.ece.cmu.edu/~vsekar/papers/nsdi18_mikado.pdf", 
+                "paper_title": "Efficient and Correct Test Scheduling for Ensembles of Network Policies"
+            }, 
+            {
+                "pdf_url": "http://users.ece.cmu.edu/~vsekar/papers/nsdi18_mikado.pdf", 
+                "paper_title": "Efficient and Correct Test Scheduling for Ensembles of Network Policies"
+            }
+        ], 
+        "paper_title": "Efficient and Correct Test Scheduling for Ensembles of Network Policies"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-tammana.pdf", 
+                "paper_title": "Distributed network monitoring and debugging with switchpointer"
+            }, 
+            {
+                "pdf_url": "http://www.usenix.net/system/files/conference/nsdi18/nsdi18-tammana.pdf", 
+                "paper_title": "Distributed Network Monitoring and Debugging with SwitchPointer"
+            }, 
+            {
+                "pdf_url": "https://www.research.ed.ac.uk/portal/files/59363849/nsdi18_tammana.pdf", 
+                "paper_title": "Distributed Network Monitoring and Debugging with SwitchPointer"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_tammana.pdf", 
+                "paper_title": "Distributed Network Monitoring and Debugging with SwitchPointer"
+            }, 
+            {
+                "pdf_url": "http://www.cs.cornell.edu/~ragarwal/pubs/switchp.pdf", 
+                "paper_title": "Distributed Network Monitoring and Debugging with SwitchPointer"
+            }, 
+            {
+                "pdf_url": "https://core.ac.uk/download/pdf/157784656.pdf", 
+                "paper_title": "Distributed Network Monitoring and Debugging with SwitchPointer"
+            }
+        ], 
+        "paper_title": "Distributed Network Monitoring and Debugging with SwitchPointer"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-tilmans.pdf", 
+                "paper_title": "Stroboscope: Declarative network monitoring on a budget"
+            }, 
+            {
+                "pdf_url": "https://inl.info.ucl.ac.be/system/files/stroboscope_camera_ready_1.pdf", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }, 
+            {
+                "pdf_url": "https://vanbever.eu/pdfs/vanbever_stroboscope_nsdi_2018.pdf", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }, 
+            {
+                "pdf_url": "https://dial.uclouvain.be/pr/boreal/object/boreal%3A196032/datastream/PDF_01/view", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsdi18_stroboscope.pdf", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }, 
+            {
+                "pdf_url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/259851/stroboscope-nsdi18.pdf", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }, 
+            {
+                "pdf_url": "https://www.vanbever.eu/pdfs/vanbever_stroboscope_nsdi_2018.pdf", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }, 
+            {
+                "pdf_url": "https://stroboscope.ethz.ch/assets/pdfs/stroboscope-nsdi18.pdf", 
+                "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+            }
+        ], 
+        "paper_title": "Stroboscope: Declarative Network Monitoring on a Budget"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-wang.pdf", 
+                "paper_title": "{PLOVER}: Fast, Multi-core Scalable Virtual Machine Fault-tolerance"
+            }, 
+            {
+                "pdf_url": "https://i.cs.hku.hk/~heming/papers/nsdi18-plover.pdf", 
+                "paper_title": "PLOVER: Fast, Multi-core Scalable Virtual Machine Fault-tolerance"
+            }, 
+            {
+                "pdf_url": "http://www.cs.hku.hk/~heming/papers/nsdi18-plover.pdf", 
+                "paper_title": "PLOVER: Fast, Multi-core Scalable Virtual Machine Fault-tolerance"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_wang-cheng.pdf", 
+                "paper_title": "PLOVER: Fast, Multi-core Scalable Virtual Machine Fault-tolerance"
+            }
+        ], 
+        "paper_title": "PLOVER: Fast, Multi-core Scalable Virtual Machine Fault-tolerance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-calder.pdf", 
+                "paper_title": "Odin: Microsoft's Scalable Fault-Tolerant {CDN} Measurement System"
+            }, 
+            {
+                "pdf_url": "https://ratul.org/papers/nsdi2018-odin.pdf", 
+                "paper_title": "Odin: Microsoft's Scalable Fault-Tolerant CDN Measurement System"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_calder.pdf", 
+                "paper_title": "Odin: Microsoft's Scalable Fault-Tolerant CDN Measurement System"
+            }
+        ], 
+        "paper_title": "Odin: Microsoft\u2019s Scalable Fault-Tolerant CDN Measurement System"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf", 
+                "paper_title": "LiveTag: Sensing human-object interaction through passive chipless WiFi tags"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/04b2/6697e344a9696ab4b48b592f2b95a99cffde.pdf", 
+                "paper_title": "LiveTag: Sensing Human-Object Interaction Through Passive Chipless WiFi Tags"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/391c/3b4c09f3db3c58f2965e789ecc83d3e817f1.pdf", 
+                "paper_title": "LiveTag: Sensing Human-\u2010Object Interaction Through Passive Chipless WiFi Tags"
+            }
+        ], 
+        "paper_title": "Chuhan Gao and Yilong Li,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.frontiermaterials.net/teaching/pubs/nanofiber_seeding.pdf", 
+                "paper_title": "Synthesis of Polyaniline Nanofibers by \u201cNanofiber Seeding\u201d"
+            }, 
+            {
+                "pdf_url": "http://ww.frontiermaterials.net/teaching/pubs/nanofiber_seeding.pdf", 
+                "paper_title": "Synthesis of Polyaniline Nanofibers by \u201cNanofiber Seeding\u201d"
+            }, 
+            {
+                "pdf_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.6081&rep=rep1&type=pdf", 
+                "paper_title": "Synthesis of Polyaniline Nanofibers by \u201cNanofiber Seeding\u201d"
+            }
+        ], 
+        "paper_title": "Xinyu Zhang,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-roy.pdf", 
+                "paper_title": "Inaudible voice commands: The long-range attack and defense"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/cs563/fa2018/slides/cs563-16-inaudible-voice-commands.pdf", 
+                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_roy.pdf", 
+                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/b618/c47ea67d36ac48e2a19bdb093f130a284317.pdf", 
+                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+            }
+        ], 
+        "paper_title": "Nirupam Roy, Sheng Shen, Haitham Hassanieh, and Romit Roy Choudhury,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-chen.pdf", 
+                "paper_title": "Powerman: An out-of-band management network for datacenters using power line communication"
+            }, 
+            {
+                "pdf_url": "http://www.cse.ust.hk/~kaichen/papers/nsdi18-powerman.pdf", 
+                "paper_title": "PowerMan: An Out-of-Band Management Network for Datacenters Using Power Line Communication"
+            }
+        ], 
+        "paper_title": "Li Chen, Jiacheng Xia, Bairen Yi, and Kai Chen,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-el-hassany.pdf", 
+                "paper_title": "Netcomplete: Practical network-wide configuration synthesis with autocompletion"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_el-hassany.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/nsd18_netcomplete.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "http://people.ee.ethz.ch/~eahmed/pdfs/netcomplete-nsdi18.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://netcomplete.ethz.ch/files/netcomplete-nsdi2018.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://files.sri.inf.ethz.ch/website/papers/netcomplete-nsdi18.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsd18_netcomplete.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://hassany.ps/pdfs/netcomplete-nsdi18.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }
+        ], 
+        "paper_title": "Ahmed El-Hassany, Petar Tsankov, Laurent Vanbever, and Martin Vechev,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-zhou.pdf", 
+                "paper_title": "Automatically correcting networks with neat"
+            }, 
+            {
+                "pdf_url": "http://bingzhe.web.engr.illinois.edu/files/nsdi18.pdf", 
+                "paper_title": "Automatically Correcting Networks with NEAt"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_zhou.pdf", 
+                "paper_title": "Automatically Correcting Networks with NEAt"
+            }
+        ], 
+        "paper_title": "Wenxuan Zhou, Jason Croft, Bingzhe Liu, Elaine Ang, and Matthew Caesar,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-birkner.pdf", 
+                "paper_title": "Net2Text: Query-guided summarization of network forwarding behaviors"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/nsdi18_net2text.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://net2text.ethz.ch/assets/pdfs/nsdi18-net2text-paper.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://files.sri.inf.ethz.ch/website/papers/nsdi18.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://www.rbirkner.ch/assets/pdfs/rbirkner-nsdi18-paper.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsdi18_net2text.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://vanbever.eu/pdfs/vanbever_net2text_nsdi_2018.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://www.vanbever.eu/pdfs/vanbever_net2text_nsdi_2018.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }
+        ], 
+        "paper_title": "R\u00fcdiger Birkner, Dana Drachsler-Cohen, Laurent Vanbever, and Martin Vechev,"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf", 
+                "paper_title": "LiveTag: Sensing human-object interaction through passive chipless WiFi tags"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/04b2/6697e344a9696ab4b48b592f2b95a99cffde.pdf", 
+                "paper_title": "LiveTag: Sensing Human-Object Interaction Through Passive Chipless WiFi Tags"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/391c/3b4c09f3db3c58f2965e789ecc83d3e817f1.pdf", 
+                "paper_title": "LiveTag: Sensing Human-\u2010Object Interaction Through Passive Chipless WiFi Tags"
+            }
+        ], 
+        "paper_title": "LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-roy.pdf", 
+                "paper_title": "Inaudible voice commands: The long-range attack and defense"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/cs563/fa2018/slides/cs563-16-inaudible-voice-commands.pdf", 
+                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_roy.pdf", 
+                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/b618/c47ea67d36ac48e2a19bdb093f130a284317.pdf", 
+                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+            }
+        ], 
+        "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-chen.pdf", 
+                "paper_title": "Powerman: An out-of-band management network for datacenters using power line communication"
+            }, 
+            {
+                "pdf_url": "http://www.cse.ust.hk/~kaichen/papers/nsdi18-powerman.pdf", 
+                "paper_title": "PowerMan: An Out-of-Band Management Network for Datacenters Using Power Line Communication"
+            }
+        ], 
+        "paper_title": "PowerMan: An Out-of-Band Management Network for Datacenters Using Power Line Communication"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-el-hassany.pdf", 
+                "paper_title": "Netcomplete: Practical network-wide configuration synthesis with autocompletion"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_el-hassany.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/nsd18_netcomplete.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "http://people.ee.ethz.ch/~eahmed/pdfs/netcomplete-nsdi18.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://netcomplete.ethz.ch/files/netcomplete-nsdi2018.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://files.sri.inf.ethz.ch/website/papers/netcomplete-nsdi18.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsd18_netcomplete.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }, 
+            {
+                "pdf_url": "https://hassany.ps/pdfs/netcomplete-nsdi18.pdf", 
+                "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+            }
+        ], 
+        "paper_title": "NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-zhou.pdf", 
+                "paper_title": "Automatically correcting networks with neat"
+            }, 
+            {
+                "pdf_url": "http://bingzhe.web.engr.illinois.edu/files/nsdi18.pdf", 
+                "paper_title": "Automatically Correcting Networks with NEAt"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_zhou.pdf", 
+                "paper_title": "Automatically Correcting Networks with NEAt"
+            }
+        ], 
+        "paper_title": "Automatically Correcting Networks with NEAt"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-birkner.pdf", 
+                "paper_title": "Net2Text: Query-guided summarization of network forwarding behaviors"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/nsdi18_net2text.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://net2text.ethz.ch/assets/pdfs/nsdi18-net2text-paper.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://files.sri.inf.ethz.ch/website/papers/nsdi18.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://www.rbirkner.ch/assets/pdfs/rbirkner-nsdi18-paper.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsdi18_net2text.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://vanbever.eu/pdfs/vanbever_net2text_nsdi_2018.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://www.vanbever.eu/pdfs/vanbever_net2text_nsdi_2018.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_birkner.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_birkner.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/publications/nsdi18_net2text-presentation.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://nsg.romeier.ch/fileadmin/user_upload/publications/nsdi18_net2text-presentation.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/3a89/7ff8f85be65cdb3069eb30e7d6baf059a4d8.pdf", 
+                "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+            }
+        ], 
+        "paper_title": "Net2Text: Query-Guided Summarization of Network Forwarding Behaviors"
+    }
+]

@@ -1,0 +1,1280 @@
+[
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://eprints.lancs.ac.uk/123507/1/inferring_bgp_blackholing_activity_in_the_internet.pdf", 
+                "paper_title": "Inferring BGP blackholing activity in the internet"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/inferring_bgp_blackholing_activity/inferring_bgp_blackholing_activity.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }, 
+            {
+                "pdf_url": "http://www.research.lancs.ac.uk/portal/services/downloadRegister/223333983/inferring_bgp_blackholing_activity_in_the_internet.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }, 
+            {
+                "pdf_url": "https://pc.nanog.org/static/published/meetings/NANOG72/1632/20180221_Nipper_Lightning_Talk_Inferring_v1.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }, 
+            {
+                "pdf_url": "https://www.de-cix.net/Files/3dc6302479dc77225a799f83532945dbcb6ea236/Inferring-BGP-Blackholing-Activity.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }, 
+            {
+                "pdf_url": "https://eprints.lancs.ac.uk/123507/1/inferring_bgp_blackholing_activity_in_the_internet.pdf", 
+                "paper_title": "Inferring BGP blackholing activity in the Internet"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/us/en/multimedia/documents/technical-publication/inferring-bgp-blackholing-activity-in-the-internet.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final90.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }, 
+            {
+                "pdf_url": "http://people.csail.mit.edu/gsmaragd/publications/IMC2017/IMC2017.pdf", 
+                "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+            }
+        ], 
+        "paper_title": "Inferring BGP Blackholing Activity in the Internet"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1605.04784", 
+                "paper_title": "Pinpointing delay and forwarding anomalies using large-scale traceroute measurements"
+            }, 
+            {
+                "pdf_url": "https://clarinet.u-strasbg.fr/~pelsser/publications/Fontugne-delay-forwarding-detector-arxiv2016.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Romain_Fontugne/publication/303268904_Pinpointing_Delay_and_Forwarding_Anomalies_Using_Large-Scale_Traceroute_Measurements/links/5747954308ae707fe21e4056/Pinpointing-Delay-and-Forwarding-Anomalies-Using-Large-Scale-Traceroute-Measurements.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/workshops/wide/1711/slides/wide1711_rfontugne.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final106.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }, 
+            {
+                "pdf_url": "https://www.iij-ii.co.jp/en/members/romain/pdf/romain_imc2017.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/workshops/wide/1711/slides/wide1711_rfontugne.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/slides.pdf", 
+                "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+            }
+        ], 
+        "paper_title": "Pinpointing Delay and Forwarding Anomalies Using Large-Scale Traceroute Measurements"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://orbi.uliege.be/bitstream/2268/214681/1/paper.pdf", 
+                "paper_title": "Through the wormhole: tracking invisible MPLS tunnels"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Jean-Jacques_Pansiot/publication/321066165_Through_the_wormhole_tracking_invisible_MPLS_tunnels/links/5a1bd3934585155c26ae06f5/Through-the-wormhole-tracking-invisible-MPLS-tunnels.pdf", 
+                "paper_title": "Through the Wormhole: Tracking Invisible MPLS Tunnels"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final75.pdf", 
+                "paper_title": "Through the Wormhole: Tracking Invisible MPLS Tunnels"
+            }, 
+            {
+                "pdf_url": "https://icube-publis.unistra.fr/docs/12553/imc17-vanaubel.pdf", 
+                "paper_title": "Through the Wormhole: Tracking Invisible MPLS Tunnels"
+            }
+        ], 
+        "paper_title": "Through the Wormhole: Tracking Invisible MPLS Tunnels"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/challenges_inferring_internet_congestion/challenges_inferring_internet_congestion.pdf", 
+                "paper_title": "Challenges in inferring internet congestion using throughput measurements"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final100.pdf", 
+                "paper_title": "Challenges in Inferring Internet Congestion Using Throughput Measurements"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/challenges_inferring_internet_congestion/challenges_inferring_internet_congestion.pdf", 
+                "paper_title": "Challenges in Inferring Internet Congestion Using Throughput Measurements"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2017/challenges_inferring_internet_congestion/challenges_inferring_internet_congestion.pdf", 
+                "paper_title": "Challenges in Inferring Internet Congestion Using Throughput Measurements"
+            }
+        ], 
+        "paper_title": "Challenges in Inferring Internet Congestion using Throughput Measurements"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e949/ac897eb910db6afcace4cf4a3b28e26a7f03.pdf", 
+                "paper_title": "Investigating the Causes of Congestion on the African IXP substrate"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/e949/ac897eb910db6afcace4cf4a3b28e26a7f03.pdf", 
+                "paper_title": "Investigating the Causes of Congestion on the African IXP substrate"
+            }
+        ], 
+        "paper_title": "Investigating the Causes of Congestion on the African IXP Substrate"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2017/tcp_congestion_signatures/tcp_congestion_signatures.pdf", 
+                "paper_title": "TCP congestion signatures"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2017/tcp_congestion_signatures/tcp_congestion_signatures.pdf", 
+                "paper_title": "TCP Congestion Signatures"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final99.pdf", 
+                "paper_title": "TCP Congestion Signatures"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/mallman/pubs/SDAC17/SDAC17.pdf", 
+                "paper_title": "TCP Congestion Signatures"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/tcp_congestion_signatures/tcp_congestion_signatures.pdf", 
+                "paper_title": "TCP Congestion Signatures"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/imc-tcp-signatures-201711.pdf", 
+                "paper_title": "TCP CONGESTION SIGNATURES"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/mallman/pubs/SDAC17/SDAC17-talk.pdf", 
+                "paper_title": "TCP CONGESTION SIGNATURES"
+            }
+        ], 
+        "paper_title": "TCP Congestion Signatures"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/uburst.pdf", 
+                "paper_title": "High-resolution measurement of data center microbursts"
+            }, 
+            {
+                "pdf_url": "http://homes.cs.washington.edu/~arvind/papers/uburst.pdf", 
+                "paper_title": "High-Resolution Measurement of Data Center Microbursts"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final60.pdf", 
+                "paper_title": "High-Resolution Measurement of Data Center Microbursts"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/50b1/e6233ca99a4022df97e382af3a9891e63b1d.pdf", 
+                "paper_title": "High-resolution Measurement of Data Center Microbursts"
+            }, 
+            {
+                "pdf_url": "https://zhangqiaorjc.github.io/paper/imc.pdf", 
+                "paper_title": "High-Resolution Measurement of Data Center Microbursts"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/imc2017_microbursts.pdf", 
+                "paper_title": "High-resolution Measurement of Data Center Microbursts"
+            }, 
+            {
+                "pdf_url": "https://zhangqiaorjc.github.io/static/imc2017_microbursts.pdf", 
+                "paper_title": "High-resolution Measurement of Data Center Microbursts"
+            }, 
+            {
+                "pdf_url": "https://homes.cs.washington.edu/~arvind/papers/uburst.pdf", 
+                "paper_title": "High-Resolution Measurement of Data Center Microbursts"
+            }
+        ], 
+        "paper_title": "High-Resolution Measurement of Data Center Microbursts"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final24.pdf", 
+                "paper_title": "Detection, classification, and analysis of inter-domain traffic with spoofed source IP addresses"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final24.pdf", 
+                "paper_title": "Detection, Classification, and Analysis of Inter-Domain Traffic with Spoofed Source IP Addresses"
+            }, 
+            {
+                "pdf_url": "https://people.csail.mit.edu/richterp/spoofing_imc17.pdf", 
+                "paper_title": "Detection, Classification, and Analysis of Inter-Domain Traffic with Spoofed Source IP Addresses"
+            }
+        ], 
+        "paper_title": "Detection, Classification, and Analysis of Inter-Domain Traffic with Spoofed Source IP Addresses"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10076480", 
+                "paper_title": "Millions of targets under attack: a macroscopic characterization of the DoS ecosystem"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/millions_targets_under_attack/millions_targets_under_attack.pdf", 
+                "paper_title": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://christian-rossow.de/publications/underattack-imc2017.pdf", 
+                "paper_title": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://www.christian-rossow.de/publications/underattack-imc2017.pdf", 
+                "paper_title": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/a5c1/4c648d44fcd5fc35fe022bfe155a42f62b98.pdf", 
+                "paper_title": "A Third of the Internet is Under Attack: a Macroscopic Characterization of the DoS Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-103.pdf", 
+                "paper_title": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10076480", 
+                "paper_title": "Millions of targets under attack: a macroscopic characterization of the DoS ecosystem"
+            }
+        ], 
+        "paper_title": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://gitee.com/wizardforcel/sniffing-research/raw/master/Your%20State%20is%20Not%20Mine%20A%20Closer%20Look%20at%20Evading%20Stateful%20Internet%20Censorship.pdf", 
+                "paper_title": "Your state is not mine: a closer look at evading stateful internet censorship"
+            }, 
+            {
+                "pdf_url": "https://gitee.com/wizardforcel/sniffing-research/raw/master/Your%20State%20is%20Not%20Mine%20A%20Closer%20Look%20at%20Evading%20Stateful%20Internet%20Censorship.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }, 
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/Wang2017a.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }, 
+            {
+                "pdf_url": "https://3wcwjjnuvjyazeza.onion.si/pdf/Wang2017a.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }, 
+            {
+                "pdf_url": "https://courses.engr.illinois.edu/cs563/fa2018/slides/cs563-22-yuanshan.pdf", 
+                "paper_title": "Your state is not mine: a closer look at evading stateful internet censorship"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final59.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }, 
+            {
+                "pdf_url": "http://www.cs.ucr.edu/~zhiyunq/pub/imc17_censorship_tcp.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }, 
+            {
+                "pdf_url": "https://crysp.uwaterloo.ca/courses/pet/F18/cache/conferences.sigcomm.org/imc/2017/papers/imc17-final59.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }, 
+            {
+                "pdf_url": "http://www.cs.ucr.edu/~ycao009/pdf/imc17.pdf", 
+                "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+            }
+        ], 
+        "paper_title": "Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.david.choffnes.com/pubs/liberate-imc17.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "http://abbas.rpanah.ir/publications/imc2017_liberate_paper.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "https://censorbib.nymity.ch/pdf/Li2017a.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/~amislove/publications/Liberate-IMC.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "http://www.david.choffnes.com/pubs/liberate-imc17.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "https://david.choffnes.com/pubs/liberate-imc17.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "https://mislove.org/publications/Liberate-IMC.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final61.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "https://people.cs.umass.edu/~phillipa/papers/imc2017_liberate_paper.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }, 
+            {
+                "pdf_url": "https://www.ccs.neu.edu/home/amislove/publications/Liberate-IMC.pdf", 
+                "paper_title": "lib\u2022 erate,(n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+            }
+        ], 
+        "paper_title": "lib\u00b7erate, (n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1701.07058", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Nicolas_Kourtellis/publication/321066171_If_you_are_not_paying_for_it_you_are_the_product_how_much_do_advertisers_pay_to_reach_you/links/5aec0282aca2727bc003ef8c/If-you-are-not-paying-for-it-you-are-the-product-how-much-do-advertisers-pay-to-reach-you.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "https://www.protasis.eu/m/filer_public/49/64/49646bce-547e-4158-ac05-7e91dd86ecf2/imc17-panpap.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "https://www.ics.forth.gr/_publications/imc17-panpap.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final193.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "http://laoutaris.info/wp-content/uploads/2017/09/imc17-final193.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Nicolas_Kourtellis/publication/312908084_Computing_the_advertising_value_of_users_by_tapping_on_RTB/links/5a03d2cf4585151f478ea03d/Computing-the-advertising-value-of-users-by-tapping-on-RTB.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }, 
+            {
+                "pdf_url": "http://www.protasis.eu/m/filer_public/49/64/49646bce-547e-4158-ac05-7e91dd86ecf2/imc17-panpap.pdf", 
+                "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+            }
+        ], 
+        "paper_title": "If you are not paying for it, you are the product: How much do advertisers pay to reach you?"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.sysnet.ucsd.edu/~voelker/pubs/bingads-imc17.pdf", 
+                "paper_title": "Exploring the dynamics of search advertiser fraud"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~snoeren/papers/bingads-imc17.pdf", 
+                "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final177.pdf", 
+                "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+            }, 
+            {
+                "pdf_url": "http://www.saikat.guha.cc/pub/imc17-adfraud.pdf", 
+                "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+            }, 
+            {
+                "pdf_url": "http://www.sysnet.ucsd.edu/~voelker/pubs/bingads-imc17.pdf", 
+                "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+            }, 
+            {
+                "pdf_url": "http://saikat.guha.cc/pub/imc17-adfraud.pdf", 
+                "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~voelker/pubs/bingads-imc17.pdf", 
+                "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+            }
+        ], 
+        "paper_title": "Exploring the Dynamics of Search Advertiser Fraud"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10073745", 
+                "paper_title": "The ad wars: retrospective measurement and analysis of anti-adblock filter lists"
+            }, 
+            {
+                "pdf_url": "http://homepage.divms.uiowa.edu/~mshafiq/files/adblock-imc2017.pdf", 
+                "paper_title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+            }, 
+            {
+                "pdf_url": "https://cs.uiowa.edu/~mshafiq/files/adblock-imc2017.pdf", 
+                "paper_title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+            }, 
+            {
+                "pdf_url": "https://par.nsf.gov/servlets/purl/10073745", 
+                "paper_title": "The AdWars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+            }, 
+            {
+                "pdf_url": "http://www.cs.ucr.edu/~zhiyunq/pub/imc17_antiadblocker_measurement.pdf", 
+                "paper_title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final113.pdf", 
+                "paper_title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/IMC_2017_Updated.pdf", 
+                "paper_title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+            }
+        ], 
+        "paper_title": "The Ad Wars: Retrospective Measurement and Analysis of Anti-Adblock Filter Lists"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://cs.colgate.edu/~jsommers/pubs/imc17_ua.pdf", 
+                "paper_title": "On the structure and characteristics of user agent string"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final253.pdf", 
+                "paper_title": "On the Structure and Characteristics of User Agent String"
+            }, 
+            {
+                "pdf_url": "https://cs.colgate.edu/~jsommers/pubs/imc17_ua.pdf", 
+                "paper_title": "On the Structure and Characteristics of User Agent String"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/Slides_1.pdf", 
+                "paper_title": "On the Structure and Characteristics of User Agent Strings"
+            }
+        ], 
+        "paper_title": "On the Structure and Characteristics of User Agent Strings"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.akamai.com/de/de/multimedia/documents/technical-publication/cell-spotting-understanding-the-role-of-cellular-networks-on-the-internet.pdf", 
+                "paper_title": "Cell spotting: studying the role of cellular networks in the internet"
+            }, 
+            {
+                "pdf_url": "https://www.moritzsteiner.de/papers/cellspotting.pdf", 
+                "paper_title": "Cell Spotting: Studying the Role of Cellular Networks in the Internet"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/de/de/multimedia/documents/technical-publication/cell-spotting-understanding-the-role-of-cellular-networks-on-the-internet.pdf", 
+                "paper_title": "Cell Spotting: Studying the Role of Cellular Networks in the Internet"
+            }, 
+            {
+                "pdf_url": "http://aqualab.cs.northwestern.edu/wp-content/uploads/2019/02/census.pdf", 
+                "paper_title": "Cell Spotting: Studying the Role of Cellular Networks in the Internet"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final233.pdf", 
+                "paper_title": "Cell Spotting: Studying the Role of Cellular Networks in the Internet"
+            }, 
+            {
+                "pdf_url": "https://www.akamai.com/it/it/multimedia/documents/technical-publication/cell-spotting-understanding-the-role-of-cellular-networks-on-the-internet.pdf", 
+                "paper_title": "Cell Spotting: Studying the Role of Cellular Networks in the Internet"
+            }
+        ], 
+        "paper_title": "Cell Spotting: Studying the role of cellular networks in the Internet"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final203.pdf", 
+                "paper_title": "Measurement-based, practical techniques to improve 802.11 ac performance"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final203.pdf", 
+                "paper_title": "Measurement-based, Practical Techniques to Improve 802.11 ac Performance"
+            }
+        ], 
+        "paper_title": "Measurement-based, Practical Techniques to Improve 802.11ac Performance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final111.pdf", 
+                "paper_title": "Dissecting VOD services for cellular: performance, root causes and best practices"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final111.pdf", 
+                "paper_title": "Dissecting VOD Services for Cellular: Performance, Root Causes and Best Practices"
+            }, 
+            {
+                "pdf_url": "https://jiayunhan.github.io/material/dissecting_imc17.pdf", 
+                "paper_title": "Dissecting VOD Services for Cellular: Performance, Root Causes and Best Practices"
+            }
+        ], 
+        "paper_title": "Dissecting VOD Services for Cellular: Performance, Root Causes and Best Practices"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final234.pdf", 
+                "paper_title": "Connected cars in cellular network: a measurement study"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final234.pdf", 
+                "paper_title": "Connected cars in cellular network: A measurement study"
+            }
+        ], 
+        "paper_title": "Connected cars in a cellular network: A measurement study"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~frankli/papers/ipv6-scanning-imc17.pdf", 
+                "paper_title": "Target generation for Internet-wide IPv6 scanning"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/vern/papers/ipv6-scanning-imc17.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://zakird.com/papers/imc17-6gen.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final245.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://people.eecs.berkeley.edu/~frankli/papers/ipv6-scanning-imc17.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://austinmurdock.com/6Gen.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://www.icir.org/vern/papers/ipv6-scanning-imc17.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/6Gen_imc17.pdf", 
+                "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+            }
+        ], 
+        "paper_title": "Target Generation for Internet-wide IPv6 Scanning"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/packetlab/packetlab.pdf", 
+                "paper_title": "Packetlab: a universal measurement endpoint interface"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/packetlab/packetlab.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "https://klevchen.ece.illinois.edu/pubs/packetlab-imc17.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final187.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "https://www.icir.org/vern/papers/pktlab-imc17.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "https://cseweb.ucsd.edu/~klevchen/packetlab-imc17.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~klevchen/packetlab-imc17.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/~amogh/papers/packetlab-IMC17.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }, 
+            {
+                "pdf_url": "http://klevchen.ece.illinois.edu/pubs/packetlab-imc17.pdf", 
+                "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+            }
+        ], 
+        "paper_title": "PacketLab: A Universal Measurement Endpoint Interface"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://ix.cs.uoregon.edu/~ram/papers/IMC-2017.pdf", 
+                "paper_title": "Automatic metadata generation for active measurement"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final217.pdf", 
+                "paper_title": "Automatic Metadata Generation for Active Measurement"
+            }, 
+            {
+                "pdf_url": "http://pages.cs.wisc.edu/~pb/imc17b_final.pdf", 
+                "paper_title": "Automatic Metadata Generation for Active Measurement"
+            }, 
+            {
+                "pdf_url": "http://ix.cs.uoregon.edu/~ram/papers/IMC-2017.pdf", 
+                "paper_title": "Automatic Metadata Generation for Active Measurement"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/jsommers-imc17.pdf", 
+                "paper_title": "Automatic Metadata Generation for Active Measurement"
+            }, 
+            {
+                "pdf_url": "https://ix.cs.uoregon.edu/~ram/papers/IMC-2017.pdf", 
+                "paper_title": "Automatic Metadata Generation for Active Measurement"
+            }
+        ], 
+        "paper_title": "Automatic Metadata Generation for Active Measurement"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1705.07001", 
+                "paper_title": "A high-performance algorithm for identifying frequent items in data streams"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final255.pdf", 
+                "paper_title": "A High-Performance Algorithm for Identifying Frequent Items in Data Streams"
+            }
+        ], 
+        "paper_title": "A High-Performance Algorithm for Identifying Frequent Items in Data Streams"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.iij-ii.co.jp/en/members/kjc/papers/imc2017-rls.pdf", 
+                "paper_title": "Recursive lattice search: hierarchical heavy hitters revisited"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/workshops/wide/1711/slides/wide1711_kcho.pdf", 
+                "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final74.pdf", 
+                "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+            }, 
+            {
+                "pdf_url": "https://www.iijlab.net/~kjc/papers/imc2017-rls.pdf", 
+                "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+            }, 
+            {
+                "pdf_url": "https://www.iij-ii.co.jp/en/members/kjc/papers/imc2017-rls.pdf", 
+                "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/workshops/wide/1711/slides/wide1711_kcho.pdf", 
+                "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/rls-imc2017.pdf", 
+                "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+            }
+        ], 
+        "paper_title": "Recursive Lattice Search: Hierarchical Heavy Hitters Revisited"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://128.232.0.20/teaching/1011/R02/papers/imc17-final39.pdf", 
+                "paper_title": "Taking a long look at QUIC: an approach for rigorous evaluation of rapidly evolving transport protocols"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/~amislove/publications/QUIC-IMC.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "http://sjero.net/pubs/2017_IMC_QUIC.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "https://www.sjero.net/pubs/2017_IMC_QUIC.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final39.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "https://mislove.org/publications/QUIC-IMC.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1314/R02/papers/imc17-final39.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/teaching/1011/R02/papers/imc17-final39.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "https://cnitarot.github.io/papers/quic_imc2017.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }, 
+            {
+                "pdf_url": "http://www.david.choffnes.com/pubs/long-look-at-quic-imc17.pdf", 
+                "paper_title": "Taking a Long Look at QUIC"
+            }
+        ], 
+        "paper_title": "Taking a Long Look at QUIC: An Approach for Rigorous Evaluation of Rapidly Evolving Transport Protocols"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-rueth-iwmeasure.pdf", 
+                "paper_title": "Large-scale scanning of TCP's initial window"
+            }, 
+            {
+                "pdf_url": "https://janrueth.com/publication/2017-rueth-iwmeasure/2017-rueth-iwmeasure.pdf", 
+                "paper_title": "Large-Scale Scanning of TCP's Initial Window"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final43.pdf", 
+                "paper_title": "Large-Scale Scanning of TCP's Initial Window"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/d825/358b1a991377708bb4d8f339596e8c0f3784.pdf", 
+                "paper_title": "Large-Scale Scanning of TCP's Initial Window"
+            }, 
+            {
+                "pdf_url": "https://www.comsys.rwth-aachen.de/fileadmin/papers/2017/2017-rueth-iwmeasure.pdf", 
+                "paper_title": "Large-Scale Scanning of TCP's Initial Window"
+            }
+        ], 
+        "paper_title": "Large-Scale Scanning of TCP's Initial Window"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://david.choffnes.com/pubs/record_route-imc17.pdf", 
+                "paper_title": "The record route option is an option!"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/~mjl/rroption.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "http://www.columbia.edu/~ebk2141/papers/record_route-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "http://david.choffnes.com/pubs/record_route-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final174.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "http://www.david.choffnes.com/pubs/record_route-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "https://david.choffnes.com/pubs/record_route-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/rr_slides_final_big.pdf", 
+                "paper_title": "The Record Route Option Is an Option!"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~wlloyd/papers/rr-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "http://www.cs.princeton.edu/~wlloyd/papers/rr-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~wlloyd/papers/rr-imc17.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }, 
+            {
+                "pdf_url": "https://sns.cs.princeton.edu/assets/papers/2017-imc-goodchild.pdf", 
+                "paper_title": "The Record Route Option is an Option!"
+            }
+        ], 
+        "paper_title": "The Record Route Option is an Option!"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://dl.acm.org/ft_gateway.cfm?id=3131395&type=pdf", 
+                "paper_title": "Initial measurements of the cuban street network"
+            }, 
+            {
+                "pdf_url": "https://piratenproxy.nl/jhalderm.com/pub/papers/snet-imc17.pdf", 
+                "paper_title": "Initial Measurements of the Cuban Street Network"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final186.pdf", 
+                "paper_title": "Initial Measurements of the Cuban Street Network"
+            }, 
+            {
+                "pdf_url": "https://jhalderm.com/pub/papers/snet-imc17.pdf", 
+                "paper_title": "Initial Measurements of the Cuban Street Network"
+            }, 
+            {
+                "pdf_url": "https://tecn.cubava.cu/files/2018/09/Initial-Measurements-of-the-Cuban-Street-Network-imc17-final186.pdf", 
+                "paper_title": "Initial Measurements of the Cuban Street Network"
+            }
+        ], 
+        "paper_title": "Initial Measurements of the Cuban Street Network"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://ralphholz.science/publications/MissionAccomplishedHttpsSecurityAfterDiginotar.pdf", 
+                "paper_title": "Mission accomplished?: HTTPS security after diginotar"
+            }, 
+            {
+                "pdf_url": "https://ralphholz.science/publications/MissionAccomplishedHttpsSecurityAfterDiginotar.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/2017-imc-missionacc.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/4e2f/7669b748db42bb368c42fd21934f5f14d280.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "https://www.cm.in.tum.de/fileadmin/w00bvd/www/mir-2017.2/2017.2-mir-qscheitle-slides.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final227.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "https://www.icir.org/johanna/papers/imc17httpssecurity.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "http://www.icir.org/johanna/papers/imc17httpssecurity.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/imc17_1.pdf", 
+                "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+            }
+        ], 
+        "paper_title": "Mission Accomplished? HTTPS Security after DigiNotar"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~jdeblasio/papers/tripwire-imc17.pdf", 
+                "paper_title": "Tripwire: inferring internet site compromise"
+            }, 
+            {
+                "pdf_url": "http://cseweb.ucsd.edu/~snoeren/papers/tripwire-imc17.pdf", 
+                "paper_title": "Tripwire: Inferring Internet Site Compromise"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~jdeblasio/papers/tripwire-imc17.pdf", 
+                "paper_title": "Tripwire: Inferring Internet Site Compromise"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final166.pdf", 
+                "paper_title": "Tripwire: Inferring Internet Site Compromise"
+            }, 
+            {
+                "pdf_url": "https://www.sysnet.ucsd.edu/~voelker/pubs/tripwire-imc17.pdf", 
+                "paper_title": "Tripwire: Inferring Internet Site Compromise"
+            }
+        ], 
+        "paper_title": "Tripwire: Inferring Internet Site Compromise"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final235.pdf", 
+                "paper_title": "Measuring and mitigating oauth access token abuse by collusion networks"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final235.pdf", 
+                "paper_title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks"
+            }, 
+            {
+                "pdf_url": "https://cs.uiowa.edu/~mshafiq/files/shehroze-oauth-imc2017.pdf", 
+                "paper_title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks"
+            }, 
+            {
+                "pdf_url": "http://homepage.divms.uiowa.edu/~mshafiq/files/shehroze-oauth-imc2017.pdf", 
+                "paper_title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks"
+            }, 
+            {
+                "pdf_url": "https://cs.uiowa.edu/~sfarooqi/Files/oauth-imc2017.pdf", 
+                "paper_title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks"
+            }, 
+            {
+                "pdf_url": "http://homepage.divms.uiowa.edu/~sfarooqi/Files/oauth-imc2017.pdf", 
+                "paper_title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks"
+            }
+        ], 
+        "paper_title": "Measuring and Mitigating OAuth Access Token Abuse by Collusion Networks"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.ccs.neu.edu/home/amislove/publications/DNSSEC-Registrars-IMC.pdf", 
+                "paper_title": "Understanding the role of registrars in DNSSEC deployment"
+            }, 
+            {
+                "pdf_url": "http://www.david.choffnes.com/pubs/registrars-dnssec-imc17.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }, 
+            {
+                "pdf_url": "https://users.cs.duke.edu/~bmm/assets/pubs/ChungR-DCLMMW17.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }, 
+            {
+                "pdf_url": "http://www.ccs.neu.edu/home/amislove/publications/DNSSEC-Registrars-IMC.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }, 
+            {
+                "pdf_url": "https://securepki.org/paper/imc17.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umd.edu/~dml/papers/dnssec_imc17.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }, 
+            {
+                "pdf_url": "https://cbw.sh/static/pdf/chung-imc17.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }, 
+            {
+                "pdf_url": "http://david.choffnes.com/pubs/registrars-dnssec-imc17.pdf", 
+                "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+            }
+        ], 
+        "paper_title": "Understanding the Role of Registrars in DNSSEC Deployment"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://sites.cs.ucsb.edu/~bolunwang/assets/docs/mlaas-imc17.pdf", 
+                "paper_title": "Complexity vs. performance: empirical analysis of machine learning as a service"
+            }, 
+            {
+                "pdf_url": "https://people.cs.vt.edu/vbimal/publications/Mlaas-IMC17.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }, 
+            {
+                "pdf_url": "https://vbimal.github.io/publications/Mlaas-IMC17.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final51.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }, 
+            {
+                "pdf_url": "http://noithytiff.com/papers/mlaas-imc17.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }, 
+            {
+                "pdf_url": "https://people.cs.uchicago.edu/~ravenben/publications/pdf/mlaas-imc17.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }, 
+            {
+                "pdf_url": "https://sites.cs.ucsb.edu/~bolunwang/assets/docs/mlaas-imc17.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }, 
+            {
+                "pdf_url": "http://people.cs.uchicago.edu/~zhujunxiao/papers/mlaas-imc17.pdf", 
+                "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+            }
+        ], 
+        "paper_title": "Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://xianghang.me/pubs/imc17_ifttt.pdf", 
+                "paper_title": "An empirical characterization of IFTTT: ecosystem, usage, and performance"
+            }, 
+            {
+                "pdf_url": "https://www-users.cs.umn.edu/~fengqian/paper/ifttt_imc17.pdf", 
+                "paper_title": "An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final41.pdf", 
+                "paper_title": "An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance"
+            }, 
+            {
+                "pdf_url": "https://xianghang.me/pubs/imc17_ifttt.pdf", 
+                "paper_title": "An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance"
+            }, 
+            {
+                "pdf_url": "http://homes.sice.indiana.edu/xw7/papers/p398-mi.pdf", 
+                "paper_title": "An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Xianghang_Mi/publication/321068300_An_empirical_characterization_of_IFTTT_ecosystem_usage_and_performance/links/5a33cfa345851532e82c4c54/An-empirical-characterization-of-IFTTT-ecosystem-usage-and-performance.pdf", 
+                "paper_title": "An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance"
+            }
+        ], 
+        "paper_title": "An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1705.06947", 
+                "paper_title": "The web centipede: understanding how web communities influence each other through the lens of mainstream and alternative news sources"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Gianluca_Stringhini/publication/321068618_The_Web_Centipede_Understanding_How_Web_Communities_Influence_Each_Other_Through_the_Lens_of_Mainstream_and_Alternative_News_Sources/links/5a857650aca272c99ac42457/The-Web-Centipede-Understanding-How-Web-Communities-Influence-Each-Other-Through-the-Lens-of-Mainstream-and-Alternative-News-Sources.pdf", 
+                "paper_title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources"
+            }, 
+            {
+                "pdf_url": "http://www0.cs.ucl.ac.uk/staff/g.stringhini/papers/centipede-IMC2017.pdf", 
+                "paper_title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources"
+            }, 
+            {
+                "pdf_url": "https://seclab.bu.edu/people/gianluca/papers/centipede-IMC2017.pdf", 
+                "paper_title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final145.pdf", 
+                "paper_title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources"
+            }, 
+            {
+                "pdf_url": "https://encase.socialcomputing.eu/wp-content/uploads/2017/11/imc17-final145.pdf", 
+                "paper_title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources"
+            }
+        ], 
+        "paper_title": "The Web Centipede: Understanding How Web Communities Influence Each Other Through the Lens of Mainstream and Alternative News Sources"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.contrib.andrew.cmu.edu/~nicolasc/publications/Szurdi-IMC17.pdf", 
+                "paper_title": "Email typosquatting"
+            }, 
+            {
+                "pdf_url": "http://janos.szurdi.com/content/emailtypo-imc17.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "http://www.andrew.cmu.edu/user/nicolasc/publications/Szurdi-IMC17.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final215.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "http://www.contrib.andrew.cmu.edu/~nicolasc/publications/Szurdi-IMC17.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Janos_Szurdi/publication/320991843_Email_Typosquatting/links/5a0613f5a6fdcc65eab1818e/Email-Typosquatting.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "http://www.contrib.andrew.cmu.edu/~nicolasc/publications/Szurdi-IMC17-appendix.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "http://janos.szurdi.com/content/emailtypo-imc17-appendix.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "https://www.andrew.cmu.edu/user/nicolasc/publications/Szurdi-IMC17.pdf", 
+                "paper_title": "Email Typosquatting"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/imc17-presentation-toshare.pdf", 
+                "paper_title": "Email Typosquatting"
+            }
+        ], 
+        "paper_title": "Email Typosquatting"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.peteresnyder.com/static/papers/fifteen-minutes.pdf", 
+                "paper_title": "Fifteen minutes of unwanted fame: Detecting and characterizing doxing"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final109.pdf", 
+                "paper_title": "Fifteen Minutes of Unwanted Fame: Detecting and Characterizing Doxing"
+            }, 
+            {
+                "pdf_url": "https://www.peteresnyder.com/static/papers/fifteen-minutes.pdf", 
+                "paper_title": "Fifteen Minutes of Unwanted Fame: Detecting and Characterizing Doxing"
+            }, 
+            {
+                "pdf_url": "http://damonmccoy.com/papers/imc17-final109.pdf", 
+                "paper_title": "Fifteen Minutes of Unwanted Fame: Detecting and Characterizing Doxing"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/IMC%202017.pdf", 
+                "paper_title": "Fifteen Minutes of Unwanted Fame: Detecting and Characterizing Doxing"
+            }
+        ], 
+        "paper_title": "Fifteen Minutes of Unwanted Fame: Detecting and Characterizing Doxing"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.repository.cam.ac.uk/bitstream/handle/1810/267728/ethical-issues-research-authorversion.pdf?sequence=3", 
+                "paper_title": "Ethical issues in research using datasets of illicit origin"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~arb33/papers/ThomasEtAl-EthicalIssuesIllicitData-IMC2017.pdf", 
+                "paper_title": "Ethical issues in research using datasets of illicit origin"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final137.pdf", 
+                "paper_title": "Ethical issues in research using datasets of illicit origin"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/ethical-issues%20%281%29.pdf", 
+                "paper_title": "Ethical issues in research using datasets of illicit origin"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/~sp849/files/IMC_2017-ethical-issues.pdf", 
+                "paper_title": "Ethical issues in research using datasets of illicit origin"
+            }
+        ], 
+        "paper_title": "Ethical issues of research using datasets of illicit origin"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2017/look_at_router_geolocation/look_at_router_geolocation.pdf", 
+                "paper_title": "A look at router geolocation in public and commercial databases"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final96.pdf", 
+                "paper_title": "A Look at Router Geolocation in Public and Commercial Databases"
+            }, 
+            {
+                "pdf_url": "https://ensa.fi/papers/geolocation_imc17.pdf", 
+                "paper_title": "A Look at Router Geolocation in Public and Commercial Databases"
+            }, 
+            {
+                "pdf_url": "https://censoredplanet.org/assets/Ensafi2017a.pdf", 
+                "paper_title": "A Look at Router Geolocation in Public and Commercial Databases"
+            }, 
+            {
+                "pdf_url": "https://www.caida.org/publications/papers/2017/look_at_router_geolocation/look_at_router_geolocation.pdf", 
+                "paper_title": "A Look at Router Geolocation in Public and Commercial Databases"
+            }, 
+            {
+                "pdf_url": "http://www.caida.org/publications/papers/2017/look_at_router_geolocation/look_at_router_geolocation.pdf", 
+                "paper_title": "A Look at Router Geolocation in Public and Commercial Databases"
+            }
+        ], 
+        "paper_title": "A Look at Router Geolocation in Public and Commercial Databases"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://arxiv.org/pdf/1710.04422", 
+                "paper_title": "Shortcuts through colocation facilities"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final132.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }, 
+            {
+                "pdf_url": "https://pdfs.semanticscholar.org/ff22/efdf8a1ed41a7c7a920254e4954445ddf544.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }, 
+            {
+                "pdf_url": "https://www.inspire.edu.gr/wp-content/pdfs/shortcuts-colocation-facilities.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }, 
+            {
+                "pdf_url": "http://www.ics.forth.gr/_publications/shortcuts-colocation-facilities.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/George_Nomikos/publication/320371004_Shortcuts_through_Colocation_Facilities/links/5ab8b2daaca2722b97cfdcda/Shortcuts-through-Colocation-Facilities.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/kotronis_%20presentation_imc17_paper132.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }, 
+            {
+                "pdf_url": "http://www.inspire.edu.gr/wp-content/pdfs/shortcuts-colocation-facilities.pdf", 
+                "paper_title": "Shortcuts through Colocation Facilities"
+            }
+        ], 
+        "paper_title": "Shortcuts through Colocation Facilities"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Wouter_De_Vries/publication/321068448_Broad_and_load-aware_anycast_mapping_with_verfploeter/links/5a12ec23aca27217b59e90f7/Broad-and-load-aware-anycast-mapping-with-verfploeter.pdf", 
+                "paper_title": "Broad and load-aware anycast mapping with verfploeter"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/slides/Broad%20and%20load-aware%20anycast%20mapping%20with%20verfploeter_v4.pdf", 
+                "paper_title": "BROAD AND LOAD-AWARE ANYCAST MAPPING WITH VERFPLOETER"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Wouter_De_Vries/publication/321068448_Broad_and_load-aware_anycast_mapping_with_verfploeter/links/5a12ec23aca27217b59e90f7/Broad-and-load-aware-anycast-mapping-with-verfploeter.pdf", 
+                "paper_title": "Broad and Load-Aware Anycast Mapping with Verfploeter"
+            }
+        ], 
+        "paper_title": "Broad and Load-Aware Anycast Mapping with Verfploeter"
+    }, 
+    {
+        "paper_links": [
+            {
+                "pdf_url": "http://www.isi.edu/~johnh/PAPERS/Mueller17b.pdf", 
+                "paper_title": "Recursives in the wild: engineering authoritative DNS servers"
+            }, 
+            {
+                "pdf_url": "https://assets.ctfassets.net/yj8364fopk6s/roMci5HpS8msPNfGWvl7dw/88a2826360de33693ef3681009bf0b9d/2017-11-03_IMC.pdf", 
+                "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+            }, 
+            {
+                "pdf_url": "http://www.isi.edu/~johnh/PAPERS/Mueller17b.pdf", 
+                "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+            }, 
+            {
+                "pdf_url": "https://tma.ifip.org/wordpress/wp-content/uploads/2016/08/poster_TMA2017_Mueller.pdf", 
+                "paper_title": "Recursives in the Wild Engineering Authoritative DNS Servers"
+            }, 
+            {
+                "pdf_url": "https://iepg.org/2017-07-16-ietf99/giovane-iepg-ietf99.pdf", 
+                "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+            }, 
+            {
+                "pdf_url": "http://www.iepg.org/2017-07-16-ietf99/giovane-iepg-ietf99.pdf", 
+                "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/imc/2017/papers/imc17-final12.pdf", 
+                "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+            }, 
+            {
+                "pdf_url": "https://assets.ctfassets.net/yj8364fopk6s/SL_PZgPnRLeIp2pK9NJwTA/1d57388a6ad47c62c48dc349112c9a40/2017-11-03-SURFNET-RoN-meeting.pdf", 
+                "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+            }
+        ], 
+        "paper_title": "Recursives in the Wild: Engineering Authoritative DNS Servers"
+    }
+]

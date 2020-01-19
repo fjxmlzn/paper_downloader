@@ -1,0 +1,13 @@
+__author__ = 'Zinan Lin'
+__email__ = 'zinanl@andrew.cmu.edu'
+
+PDF_URL = 'pdf_url'
+PAPER_TITLE = 'paper_title'
+PAPER_LINKS = 'paper_links'
+CONF_URL_FILE_SUFFIX = '.conf_url.json'
+PDF_URL_FILE_SUFFIX = '.pdf_url.json'
+PAPER_LIST_FILE_SUFFIX = '.paper_list.json'
+CONF_NAME = 'conf_name'
+CONF_URL = 'conf_url'
+CONF_ELE = 'conf_ele'
+CONF_ATTRS = 'conf_attrs'

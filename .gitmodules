@@ -1,0 +1,3 @@
+[submodule "paper_downloader/scholar"]
+	path = paper_downloader/scholar
+	url = https://github.com/fjxmlzn/scholar.git

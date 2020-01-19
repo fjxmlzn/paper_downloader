@@ -1,0 +1,5 @@
+cookies.txt
+debug.txt
+pdf/
+*.pyc
+.DS_Store

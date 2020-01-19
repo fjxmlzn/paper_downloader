@@ -60,8 +60,8 @@ def paper_list_from_url(url, keys=None, attrs=[]):
     def id_(node):
         result = [str(node.name)]
         for attr in attrs:
-            if node.has_attr('class'):
-                result.append(node['class'])
+            if node.has_attr(attr):
+                result.append(node[attr])
             else:
                 result.append(None)
         return result

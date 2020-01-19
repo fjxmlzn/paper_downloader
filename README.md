@@ -17,35 +17,35 @@ git clone --recurse-submodules https://github.com/fjxmlzn/paper_downloader.git
 ## Quick examples
 ### Example 1
 ```
-python pd.py -u https://conferences.sigcomm.org/sigcomm/2019/program.html --store --merge 1 --merge 2
+python pd.py -u https://www.usenix.org/conference/nsdi19/technical-sessions --store --merge 1 --merge 2
 ```
 Here,
 
-* `-u https://conferences.sigcomm.org/sigcomm/2019/program.html`: this is the webpage of SIGCOMM 2019, with a list of all accepted papers
+* `-u https://www.usenix.org/conference/nsdi19/technical-sessions`: this is the webpage of NSDI 2019, with a list of all accepted papers
 * `--store`: downloading all papers into `pdf` folder
 * `--merge 1 --merge 2`: extracting the first and the second page of all papers into a single PDF `pdf/merged.pdf`. You can specify any page to be merged using single or multiple `--merge`
 
 ### Example 2
 ```
-python pd.py -c sigcomm2019 -u https://conferences.sigcomm.org/sigcomm/2019/program.html --store --merge 1 --merge 2
+python pd.py -c nsdi2019 -u https://www.usenix.org/conference/nsdi19/technical-sessions --store --merge 1 --merge 2
 ```
-The only difference is the additional option `-c sigcomm2019`. This will save the following intermediate results:
+The only difference is the additional option `-c nsdi2019`. This will save the following intermediate results:
 
-*  `conf_url/sigcomm2019.conf_url.json`: this contains the URL of the conference webpage and the HTML indicators for paper titles that are automatically detected by the code. See [troubleshooting](#troubleshooting) and [how it works](#how-it-works) for more details
-*  `conf_url/sigcomm2019.paper_list.json`: this contains the list of detected paper titles
-*  `conf_url/sigcomm2019.pdf_url.json`: this contains the PDF links of the papers
+*  `conf_url/nsdi2019.conf_url.json`: this contains the URL of the conference webpage and the HTML indicators for paper titles that are automatically detected by the code. See [troubleshooting](#troubleshooting) and [how it works](#how-it-works) for more details
+*  `conf_url/nsdi2019.paper_list.json`: this contains the list of detected paper titles
+*  `conf_url/nsdi2019.pdf_url.json`: this contains the PDF links of the papers
 
 Next time when you run the code, you do not need to specify `-u`, i.e.
 
 ```
-python pd.py -c sigcomm2019 --store --merge 1 --merge 2
+python pd.py -c nsdi2019 --store --merge 1 --merge 2
 ```
 
 is enough. It will 
 
-* Use `conf_url/sigcomm2019.pdf_url.json` if exists. Otherwise,
-* Use `conf_url/sigcomm2019.paper_list.json` if exists, to generate  `conf_url/sigcomm2019.pdf_url.json`. Otherwise,
-* Use `conf_url/sigcomm2019.conf_url.json` if exists, to generate the other two.
+* Use `conf_url/nsdi2019.pdf_url.json` if exists. Otherwise,
+* Use `conf_url/nsdi2019.paper_list.json` if exists, to generate  `conf_url/nsdi2019.pdf_url.json`. Otherwise,
+* Use `conf_url/nsdi2019.conf_url.json` if exists, to generate the other two.
 
 Those files are important for [troubleshooting](#troubleshooting), and you are welcome to [upload these files to the repo](#contributing). Click these links for the details.
 
@@ -90,7 +90,7 @@ After getting the list of paper titles, the tool will search them over Google Sc
 ## Contributing
 ### Contributing the PDF link results
 As mentioned above, getting the correct JSON files might require some manual efforts. If you successfully getting the PDF links using this tool, we encourage you to make a pull request to upload the JSON files (`<>.pdf_url.json`, `<>.paper_list.json`, `<>.conf_url.json`) to this repo. 
-> To keep it consistent, please make the conference name to be all lower cases + 4 digit year, for example, `sigcomm2019.pdf_url.json`, `sigcomm2019.paper_list.json`, and `sigcomm2019.conf_url.json`.
+> To keep it consistent, please make the conference name to be all lower cases + 4 digit year, for example, `nsdi2019.pdf_url.json`, `nsdi2019.paper_list.json`, and `nsdi2019.conf_url.json`.
 
 After having these files, other users can more easily download or merge the papers.
 

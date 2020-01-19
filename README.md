@@ -4,6 +4,7 @@ If you want to download all papers of a conference, or a single PDF containing t
 **Given the URL of the conference webpage** which contains the list of accepted papers (e.g., the webpage of the accepted papers or the program), it can:
 
 * **Automatically extract paper titles**
+* **Search over Internet for their PDF files**
 * **Download the PDFs**
 * **Merge your specified pages into a single PDF**
 
@@ -15,6 +16,8 @@ git clone --recurse-submodules https://github.com/fjxmlzn/paper_downloader.git
 ```
 
 ## Quick examples
+Before running these examples, you may want to [setup cookie and user agent](#cookie) first.
+
 ### Example 1
 ```
 python pd.py -u https://www.usenix.org/conference/nsdi19/technical-sessions --store --merge 1 --merge 2
@@ -67,7 +70,7 @@ Here are some possible ways to fix it.
 In most cases we have tried, the above two ways can give you a reasonably correct list of paper titles. If there still some errors, you can manually modify `<>.paper_list.json`.
 
 ### PDF links of some/all papers in `<>.pdf_url.json` are empty
-* Add `--debug` option. If you see `HTTP 429 Too Many Requests` error, it is because Google has banned our requests (see [how it works](#how-it-works) for details). The solution is:
+* Add `--debug` option. If you see `HTTP 429 Too Many Requests` error, it is because Google has banned our requests (see [how it works](#how-it-works) for details). The solution is: <a name="cookie"></a>
     * Use whatever explorer you like; install an extension which can export your cookies; login your Google account; open Google scholar and search something; export your cookies to `./cookies.txt`, make sure to remove all `#HttpOnly_` in this file if any.
     * When running code, specify `--user_agent` option as the user agent your explorer is using. For example,
 ` --user_agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:56.0) Gecko/20100101 Firefox/56.0"`

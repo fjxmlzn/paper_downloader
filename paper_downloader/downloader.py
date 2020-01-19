@@ -1,15 +1,18 @@
 import os
 import traceback
+import ssl
 
 try:
     # Try importing for Python 3
     # pylint: disable-msg=F0401
     # pylint: disable-msg=E0611
-    from urllib.request import HTTPCookieProcessor, Request, build_opener
+    from urllib.request import HTTPCookieProcessor, Request, build_opener, \
+        HTTPSHandler
     from http.cookiejar import MozillaCookieJar
 except ImportError:
     # Fallback for Python 2
-    from urllib2 import Request, build_opener, HTTPCookieProcessor
+    from urllib2 import Request, build_opener, HTTPCookieProcessor, \
+        HTTPSHandler
     from cookielib import MozillaCookieJar
 
 __author__ = 'Zinan Lin'
@@ -35,7 +38,14 @@ class Downloader(object):
                 if args.debug:
                     traceback.print_exc()
 
-        self.opener = build_opener(HTTPCookieProcessor(self.cjar))
+        # Fix from:
+        # https://stackoverflow.com/questions/19268548/python-ignore-certificate-validation-urllib2
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+
+        self.opener = build_opener(
+            HTTPSHandler(context=ctx), HTTPCookieProcessor(self.cjar))
 
     def _get_http_response(self, url):
         try:

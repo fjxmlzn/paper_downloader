@@ -109,7 +109,7 @@ def process_conf_url(args):
                 str_ += '\n'
             str_ += '---\n'
 
-        with open(args.debug_file, 'w') as f:
+        with open(args.debug_file, 'wb') as f:
             f.write(str_.encode('utf-8'))
 
 

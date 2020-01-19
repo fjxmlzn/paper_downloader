@@ -1,9 +1,9 @@
 import numpy as np
 
-from scholar.scholar import ScholarQuerier
-from scholar.scholar import SearchScholarQuery
-from scholar.scholar import ClusterScholarQuery
-from scholar.scholar import ScholarConf
+from .scholar.scholar import ScholarQuerier
+from .scholar.scholar import SearchScholarQuery
+from .scholar.scholar import ClusterScholarQuery
+from .scholar.scholar import ScholarConf
 from .constant import PDF_URL
 from .constant import PAPER_TITLE
 

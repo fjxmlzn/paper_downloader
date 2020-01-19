@@ -1,11 +1,16 @@
 import copy
 import re
 import json
+import sys
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
 from six.moves.urllib.request import urlopen
+import ssl
 import numpy as np
+
+if sys.version_info.major == 3:
+    unicode = str
 
 __author__ = 'Zinan Lin'
 __email__ = 'zinanl@andrew.cmu.edu'
@@ -46,7 +51,8 @@ def _to_title(key):
 
 
 def paper_list_from_url(url, keys=None, attrs=[]):
-    html = urlopen(url).read()
+    gcontext = ssl.SSLContext(ssl.PROTOCOL_TLS)
+    html = urlopen(url, context=gcontext).read()
     soup = BeautifulSoup(html, 'html.parser')
 
     contents = {}

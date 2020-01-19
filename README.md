@@ -52,6 +52,9 @@ is enough. It will
 
 Those files are important for [troubleshooting](#troubleshooting), and you are welcome to [upload these files to the repo](#contributing). Click these links for the details.
 
+### Prefetched conference
+`./conf_url/` contains prefetched paper list of several conferences (e.g., NSDI, SIGCOMM, IMC) using this tool. For these conferences, you don't need to worry about the problems in [troubleshooting](#troubleshooting). You can directly specify conference name to download and merge papers (e.g., `python pd.py -c nsdi2019 --store --merge 1 --merge 2`). You are welcome to upload the paper list of your favorite conferences to this repo to help others. See [here](#contributing) for details.
+
 ## Troubleshooting
 The tool is designed to reduce your manual work as much as possible. However, there are cases where you might need to manually tune it.
 

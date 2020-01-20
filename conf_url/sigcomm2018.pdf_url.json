@@ -177,15 +177,23 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://ieeexplore.ieee.org/iel7/8867821/8884790/08885151.pdf", 
-                "paper_title": "Deep Reinforcement Learning Based VNF Management in Geo-distributed Edge Computing"
+                "pdf_url": "http://www.cse.ust.hk/~kaichen/papers/sigcomm18-auto.pdf", 
+                "paper_title": "Auto: Scaling deep reinforcement learning for datacenter-scale automatic traffic optimization"
             }, 
             {
-                "pdf_url": "https://conferences.computer.org/icdcs/2019/pdfs/ICDCS2019-49XpIlu3rRtYi2T0qVYnNX/11q32rv79UFEJ3yg292g2W/2wuuNJo4MJxdkmVDtTjJq9.pdf", 
-                "paper_title": "Deep Reinforcement Learning based VNF Management in Geo-distributed Edge Computing"
+                "pdf_url": "http://www.cse.ust.hk/~kaichen/papers/sigcomm18-auto.pdf", 
+                "paper_title": "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Tra ic Optimization"
+            }, 
+            {
+                "pdf_url": "http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/papers/auto.pdf", 
+                "paper_title": "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Tra ic Optimization"
+            }, 
+            {
+                "pdf_url": "https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf", 
+                "paper_title": "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Tra ic Optimization"
             }
         ], 
-        "paper_title": "AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization"
+        "paper_title": "Auto: Scaling deep reinforcement learning for datacenter-scale automatic traffic optimization"
     }, 
     {
         "paper_links": [

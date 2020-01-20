@@ -2,6 +2,8 @@ import os
 import traceback
 import ssl
 
+from PyPDF2 import PdfFileReader
+
 try:
     # Try importing for Python 3
     # pylint: disable-msg=F0401
@@ -66,9 +68,20 @@ class Downloader(object):
         if "dl.acm.org/doi/pdf" in url and not url.endswith("?download=true"):
             url += "?download=true"
         content = self._get_http_response(url)
-        if content is None:
-            return False
-        else:
+        flag = False
+        if content is not None:
             with open(save_path, 'wb') as f:
                 f.write(content)
-            return True
+            # check if it's PDF format
+            try:
+                with open(save_path, 'rb') as f:
+                    PdfFileReader(f, strict=False)
+            except (KeyboardInterrupt, SystemExit):
+                raise
+            except Exception:
+                if self.debug:
+                    traceback.print_exc()
+                os.remove(save_path)
+            else:
+                flag = True
+        return flag

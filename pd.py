@@ -215,10 +215,12 @@ def merge_papers(args):
         if os.path.exists(path):
             f = open(path, 'rb')
             file_steams.append(f)
-            reader = PdfFileReader(f)
+            reader = PdfFileReader(f, strict=False)
             for page in args.merge:
                 if page >= 0 and page < reader.getNumPages():
                     writer.addPage(reader.getPage(page - 1))
+        else:
+            print("Missing: {}".format(paper[PAPER_TITLE]))
 
     path = get_merged_pdf_path(args)
     with open(path, 'wb') as f:

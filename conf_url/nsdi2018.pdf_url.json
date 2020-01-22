@@ -763,61 +763,6 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-gao.pdf", 
-                "paper_title": "LiveTag: Sensing human-object interaction through passive chipless WiFi tags"
-            }, 
-            {
-                "pdf_url": "https://pdfs.semanticscholar.org/04b2/6697e344a9696ab4b48b592f2b95a99cffde.pdf", 
-                "paper_title": "LiveTag: Sensing Human-Object Interaction Through Passive Chipless WiFi Tags"
-            }, 
-            {
-                "pdf_url": "https://pdfs.semanticscholar.org/391c/3b4c09f3db3c58f2965e789ecc83d3e817f1.pdf", 
-                "paper_title": "LiveTag: Sensing Human-\u2010Object Interaction Through Passive Chipless WiFi Tags"
-            }
-        ], 
-        "paper_title": "Chuhan Gao and Yilong Li,"
-    }, 
-    {
-        "paper_links": [
-            {
-                "pdf_url": "http://www.frontiermaterials.net/teaching/pubs/nanofiber_seeding.pdf", 
-                "paper_title": "Synthesis of Polyaniline Nanofibers by \u201cNanofiber Seeding\u201d"
-            }, 
-            {
-                "pdf_url": "http://ww.frontiermaterials.net/teaching/pubs/nanofiber_seeding.pdf", 
-                "paper_title": "Synthesis of Polyaniline Nanofibers by \u201cNanofiber Seeding\u201d"
-            }, 
-            {
-                "pdf_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.6081&rep=rep1&type=pdf", 
-                "paper_title": "Synthesis of Polyaniline Nanofibers by \u201cNanofiber Seeding\u201d"
-            }
-        ], 
-        "paper_title": "Xinyu Zhang,"
-    }, 
-    {
-        "paper_links": [
-            {
-                "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-roy.pdf", 
-                "paper_title": "Inaudible voice commands: The long-range attack and defense"
-            }, 
-            {
-                "pdf_url": "https://courses.engr.illinois.edu/cs563/fa2018/slides/cs563-16-inaudible-voice-commands.pdf", 
-                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
-            }, 
-            {
-                "pdf_url": "https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_roy.pdf", 
-                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
-            }, 
-            {
-                "pdf_url": "https://pdfs.semanticscholar.org/b618/c47ea67d36ac48e2a19bdb093f130a284317.pdf", 
-                "paper_title": "Inaudible Voice Commands: The Long-Range Attack and Defense"
-            }
-        ], 
-        "paper_title": "Nirupam Roy, Sheng Shen, Haitham Hassanieh, and Romit Roy Choudhury,"
-    }, 
-    {
-        "paper_links": [
-            {
                 "pdf_url": "https://www.usenix.org/system/files/conference/nsdi18/nsdi18-chen.pdf", 
                 "paper_title": "Powerman: An out-of-band management network for datacenters using power line communication"
             }, 

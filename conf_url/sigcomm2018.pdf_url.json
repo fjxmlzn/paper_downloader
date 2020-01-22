@@ -98,6 +98,10 @@
     {
         "paper_links": [
             {
+                "pdf_url": "http://nets.cs.pub.ro/~costin/files/vera.pdf", 
+                "paper_title": "Debugging P4 programs with Vera"
+            }, 
+            {
                 "pdf_url": "http://nets.cs.pub.ro/~costin/files/vera-tr.pdf", 
                 "paper_title": "Debugging P4 programs with Vera"
             }, 
@@ -277,12 +281,12 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://repository.kaust.edu.sa/bitstream/handle/10754/626547/p357-gupta.pdf?sequence=6", 
-                "paper_title": "Sonata: Query-driven streaming network telemetry"
-            }, 
-            {
                 "pdf_url": "https://mcanini.github.io/papers/sonata.sigcomm18.pdf", 
                 "paper_title": "Sonata: Query-Driven Streaming Network Telemetry"
+            }, 
+            {
+                "pdf_url": "https://repository.kaust.edu.sa/bitstream/handle/10754/626547/p357-gupta.pdf?sequence=6", 
+                "paper_title": "Sonata: Query-driven streaming network telemetry"
             }, 
             {
                 "pdf_url": "https://www.cs.princeton.edu/~jrex/papers/sonata.pdf", 
@@ -459,11 +463,15 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://128.232.0.20/teaching/0910/R02/papers/p103-daggitt.pdf", 
+                "pdf_url": "https://128.232.0.20/teaching/1314/R02/papers/p103-daggitt.pdf", 
                 "paper_title": "Asynchronous convergence of policy-rich distributed bellman-ford routing protocols"
             }, 
             {
-                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_2.4.pdf", 
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1920/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://128.232.0.20/teaching/1314/R02/papers/p103-daggitt.pdf", 
                 "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
             }, 
             {
@@ -471,11 +479,7 @@
                 "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
             }, 
             {
-                "pdf_url": "https://128.232.0.20/teaching/0910/R02/papers/p103-daggitt.pdf", 
-                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
-            }, 
-            {
-                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1718/R02/papers/p103-daggitt.pdf", 
+                "pdf_url": "https://conferences.sigcomm.org/sigcomm/2018/files/slides/paper_2.4.pdf", 
                 "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
             }, 
             {
@@ -483,7 +487,15 @@
                 "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
             }, 
             {
-                "pdf_url": "https://www.cl.cam.ac.uk/teaching/0910/R02/papers/p103-daggitt.pdf", 
+                "pdf_url": "https://128.232.0.20/teaching/1011/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://www.cl.cam.ac.uk/teaching/1617/R02/papers/p103-daggitt.pdf", 
+                "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
+            }, 
+            {
+                "pdf_url": "https://www.repository.cam.ac.uk/bitstream/handle/1810/287727/ConvergencePaper%20(1).pdf?sequence=3", 
                 "paper_title": "Asynchronous Convergence of Policy-Rich Distributed Bellman-Ford Routing Protocols"
             }
         ], 
@@ -552,11 +564,15 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://www.researchgate.net/profile/Christoph_Steiger/publication/326842261_Enabling_Deep-Tissue_Networking_for_Miniature_Medical_Devices/links/5b6897cfa6fdcc87df6d5dbb/Enabling-Deep-Tissue-Networking-for-Miniature-Medical-Devices.pdf", 
+                "pdf_url": "https://yfmascgy.github.io/papers/IVN.pdf", 
                 "paper_title": "Enabling deep-tissue networking for miniature medical devices"
             }, 
             {
                 "pdf_url": "https://www.researchgate.net/profile/Christoph_Steiger/publication/326842261_Enabling_Deep-Tissue_Networking_for_Miniature_Medical_Devices/links/5b6897cfa6fdcc87df6d5dbb/Enabling-Deep-Tissue-Networking-for-Miniature-Medical-Devices.pdf", 
+                "paper_title": "Enabling Deep-Tissue Networking for Miniature Medical Devices"
+            }, 
+            {
+                "pdf_url": "https://yfmascgy.github.io/papers/IVN.pdf", 
                 "paper_title": "Enabling Deep-Tissue Networking for Miniature Medical Devices"
             }
         ], 

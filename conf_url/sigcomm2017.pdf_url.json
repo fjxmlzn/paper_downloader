@@ -688,13 +688,13 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://dspace.mit.edu/bitstream/handle/1721.1/111926/1005728861-MIT.pdf?sequence=1", 
-                "paper_title": "Neural adaptive video streaming with pensieve"
-            }, 
-            {
                 "pdf_url": "https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/papers/mao_sigcomm_2017.pdf", 
                 "paper_title": "Neural Adaptive Video Streaming with Pensieve"
-            }, 
+            },
+            {
+                "pdf_url": "https://dspace.mit.edu/bitstream/handle/1721.1/111926/1005728861-MIT.pdf?sequence=1", 
+                "paper_title": "Neural adaptive video streaming with pensieve"
+            },  
             {
                 "pdf_url": "https://people.csail.mit.edu/alizadeh/papers/pensieve-sigcomm17.pdf", 
                 "paper_title": "Neural Adaptive Video Streaming with Pensieve"
@@ -948,12 +948,12 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://www.researchgate.net/profile/Xiaoming_Fu2/publication/318915169_NFVnice_Dynamic_Backpressure_and_Scheduling_for_NFV_Service_Chains/links/59e9ed55aca272bc42b757a7/NFVnice-Dynamic-Backpressure-and-Scheduling-for-NFV-Service-Chains.pdf", 
-                "paper_title": "Nfvnice: Dynamic backpressure and scheduling for nfv service chains"
-            }, 
-            {
                 "pdf_url": "http://faculty.cs.gwu.edu/timwood/papers/17-SIGCOMM-NFVNice.pdf", 
                 "paper_title": "NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/Xiaoming_Fu2/publication/318915169_NFVnice_Dynamic_Backpressure_and_Scheduling_for_NFV_Service_Chains/links/59e9ed55aca272bc42b757a7/NFVnice-Dynamic-Backpressure-and-Scheduling-for-NFV-Service-Chains.pdf", 
+                "paper_title": "Nfvnice: Dynamic backpressure and scheduling for nfv service chains"
             }, 
             {
                 "pdf_url": "https://conferences.sigcomm.org/sigcomm/2017/files/program/ts-2-3-NFVnice.pdf", 

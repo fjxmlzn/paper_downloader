@@ -764,12 +764,12 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://www.researchgate.net/profile/George_Nomikos/publication/332370543_O_Peer_Where_Art_Thou_Uncovering_Remote_Peering_Interconnections_at_IXPs/links/5cb04cde4585156cd791775d/O-Peer-Where-Art-Thou-Uncovering-Remote-Peering-Interconnections-at-IXPs.pdf", 
-                "paper_title": "O Peer, Where Art Thou?: Uncovering Remote Peering Interconnections at IXPs"
-            }, 
-            {
                 "pdf_url": "https://www.ics.forth.gr/_publications/uncovering_remote_peering_interconnections_v1.pdf", 
                 "paper_title": "O Peer, Where Art Thou? Uncovering Remote Peering Interconnections at IXPs"
+            }, 
+            {
+                "pdf_url": "https://www.researchgate.net/profile/George_Nomikos/publication/332370543_O_Peer_Where_Art_Thou_Uncovering_Remote_Peering_Interconnections_at_IXPs/links/5cb04cde4585156cd791775d/O-Peer-Where-Art-Thou-Uncovering-Remote-Peering-Interconnections-at-IXPs.pdf", 
+                "paper_title": "O Peer, Where Art Thou?: Uncovering Remote Peering Interconnections at IXPs"
             }, 
             {
                 "pdf_url": "https://www.researchgate.net/profile/George_Nomikos/publication/332370543_O_Peer_Where_Art_Thou_Uncovering_Remote_Peering_Interconnections_at_IXPs/links/5cb04cde4585156cd791775d/O-Peer-Where-Art-Thou-Uncovering-Remote-Peering-Interconnections-at-IXPs.pdf", 
@@ -801,12 +801,12 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311830/spinbit-imc-authors-copy.pdf?sequence=8", 
-                "paper_title": "Three bits suffice: Explicit support for passive measurement of internet latency in quic and tcp"
-            }, 
-            {
                 "pdf_url": "https://mami-project.eu/wp-content/uploads/2018/09/spinbit.pdf", 
                 "paper_title": "Three Bits Suffice: Explicit Support for Passive Measurement of Internet Latency in QUIC and TCP"
+            }, 
+            {
+                "pdf_url": "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311830/spinbit-imc-authors-copy.pdf?sequence=8", 
+                "paper_title": "Three bits suffice: Explicit support for passive measurement of internet latency in quic and tcp"
             }, 
             {
                 "pdf_url": "https://nsg.ee.ethz.ch/fileadmin/user_upload/spinbit.pdf", 
@@ -889,16 +889,16 @@
     {
         "paper_links": [
             {
+                "pdf_url": "https://indico.dns-oarc.net/event/29/contributions/647/attachments/624/1005/paper.pdf", 
+                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
+            }, 
+            {
                 "pdf_url": "https://assets.ctfassets.net/qhzu5l2wyxby/_Y8d-I97SlewfKIbQilQ7g/2b58f8be9ffea9c62a7c3d34287720c4/isi-tr-725.pdf", 
                 "paper_title": "When the dike breaks: Dissecting dns defenses during ddos"
             }, 
             {
                 "pdf_url": "https://assets.ctfassets.net/qhzu5l2wyxby/_Y8d-I97SlewfKIbQilQ7g/2b58f8be9ffea9c62a7c3d34287720c4/isi-tr-725.pdf", 
                 "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During"
-            }, 
-            {
-                "pdf_url": "https://indico.dns-oarc.net/event/29/contributions/647/attachments/624/1005/paper.pdf", 
-                "paper_title": "When the Dike Breaks: Dissecting DNS Defenses During DDoS"
             }, 
             {
                 "pdf_url": "https://www.isi.edu/~johnh/PAPERS/Moura18b.pdf", 

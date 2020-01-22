@@ -4,6 +4,7 @@ import shutil
 import json
 import time
 import re
+import resource
 
 from tqdm import tqdm
 from PyPDF2 import PdfFileReader, PdfFileWriter
@@ -207,6 +208,10 @@ def merge_papers(args):
     with open(pdf_url_path, 'r') as f:
         papers = json.load(f)
     print('Using {}'.format(pdf_url_path))
+
+    soft, hard = resource.getrlimit(resource.RLIMIT_NOFILE)
+    resource.setrlimit(
+        resource.RLIMIT_NOFILE, (max(soft, len(papers) + 10), hard))
 
     writer = PdfFileWriter()
     file_steams = []

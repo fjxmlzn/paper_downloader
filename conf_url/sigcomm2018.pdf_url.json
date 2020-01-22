@@ -77,20 +77,24 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3337821.3337897", 
-                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230547", 
+                "paper_title": "Internet anycast: Performance, problems, & potential"
             }, 
             {
-                "pdf_url": "https://user.informatik.uni-goettingen.de/~ychen/papers/Artemis_ICPP19.pdf", 
-                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+                "pdf_url": "http://www.cs.umd.edu/projects/droot/anycast_sigcomm18.pdf", 
+                "paper_title": "Internet Anycast: Performance, Problems, & Potential"
             }, 
             {
-                "pdf_url": "https://pdfs.semanticscholar.org/959a/4ea32daf52ab3740be80a25922e14f44592f.pdf", 
-                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+                "pdf_url": "http://www.sand-project.nl/pdf/anycast_sigcomm18.pdf", 
+                "paper_title": "Internet Anycast: Performance, Problems, & Potential"
             }, 
             {
-                "pdf_url": "https://www.researchgate.net/profile/Yang_Chen9/publication/334684984_Artemis_A_Practical_Low-latency_Naming_and_Routing_System/links/5d58fd1245851545af4c2026/Artemis-A-Practical-Low-latency-Naming-and-Routing-System.pdf", 
-                "paper_title": "Artemis: A Practical Low-latency Naming and Routing System"
+                "pdf_url": "https://zhihao.li/anycast_sigcomm18.pdf", 
+                "paper_title": "Internet Anycast: Performance, Problems, & Potential"
+            }, 
+            {
+                "pdf_url": "http://www.cs.umd.edu/~dml/papers/anycast_sigcomm18.pdf", 
+                "paper_title": "Internet Anycast: Performance, Problems, & Potential"
             }
         ], 
         "paper_title": "Internet Anycast: Performance,  Problems and Potential"
@@ -901,8 +905,24 @@
     {
         "paper_links": [
             {
-                "pdf_url": "https://patentimages.storage.googleapis.com/ed/8a/65/487c97c90da4c4/US8111707.pdf", 
-                "paper_title": "Compression mechanisms for control plane\u2014data plane processing architectures"
+                "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3230543.3230583", 
+                "paper_title": "Control plane compression"
+            }, 
+            {
+                "pdf_url": "https://scholar.princeton.edu/sites/default/files/rbeckett/files/paper_0.pdf", 
+                "paper_title": "Control Plane Compression"
+            }, 
+            {
+                "pdf_url": "https://ratul.org/papers/sigcomm2018-bonsai.pdf", 
+                "paper_title": "Control Plane Compression"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~aartig/papers/sigcomm18-bonsai.pdf", 
+                "paper_title": "Control Plane Compression"
+            }, 
+            {
+                "pdf_url": "https://www.cs.princeton.edu/~dpw/papers/compression-sigcomm2018.pdf", 
+                "paper_title": "Control Plane Compression"
             }
         ], 
         "paper_title": "Control Plane Compression"

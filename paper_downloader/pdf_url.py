@@ -34,6 +34,14 @@ def gscholar_pdf_url_from_title(title, eps=1e-6):
 
     articles = querier.articles
 
+    querier = ScholarQuerier()
+    query = SearchScholarQuery()
+    query.set_words(title)
+    query.set_num_page_results(ScholarConf.MAX_PAGE_RESULTS)
+    querier.send_query(query)
+
+    articles.extend(querier.articles)
+
     scores = []
     cluster_ids = []
     pdf_urls = []
@@ -46,18 +54,19 @@ def gscholar_pdf_url_from_title(title, eps=1e-6):
             titles.append(art['title'])
             pdf_urls.append(art['url_pdf'])
     papers = []
+    done_cluster_ids = set([])
     if len(scores) > 0:
         sort_list = np.argsort(scores)[::-1]
         for best_id in range(len(sort_list)):
             if np.abs(scores[sort_list[best_id]] - scores[sort_list[0]]) > eps:
                 break
-            if pdf_urls[best_id] is not None:
+            if pdf_urls[sort_list[best_id]] is not None:
                 papers.append({
-                    PAPER_TITLE: titles[best_id],
-                    PDF_URL: pdf_urls[best_id]})
+                    PAPER_TITLE: titles[sort_list[best_id]],
+                    PDF_URL: pdf_urls[sort_list[best_id]]})
 
-            cluster_id = cluster_ids[best_id]
-            if cluster_id is not None:
+            cluster_id = cluster_ids[sort_list[best_id]]
+            if cluster_id is not None and cluster_id not in done_cluster_ids:
                 query = ClusterScholarQuery(cluster=cluster_id)
                 querier.send_query(query)
                 articles = querier.articles
@@ -66,4 +75,5 @@ def gscholar_pdf_url_from_title(title, eps=1e-6):
                         papers.append({
                             PAPER_TITLE: art['title'],
                             PDF_URL: art['url_pdf']})
+                done_cluster_ids.add(cluster_id)
     return papers

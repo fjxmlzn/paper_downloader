@@ -3,3 +3,4 @@ debug.txt
 pdf/
 *.pyc
 .DS_Store
+check_pdf_url.py

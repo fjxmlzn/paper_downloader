@@ -26,6 +26,11 @@ def _get_average_frac_eng(titles):
                     for t in titles])
 
 
+def _get_average_num_punc(titles):
+    filter_ = '([\\(\\);,])'
+    return np.mean([len(re.findall(filter_, t)) for t in titles])
+
+
 def _get_frac_keywords(titles,
                        keywords=['workshop', 'tutorials', 'session',
                                  'location']):
@@ -84,10 +89,12 @@ def paper_list_from_url(url, keys=None, attrs=[]):
             average_num_word = _get_average_num_word(contents[key])
             average_frac_eng = _get_average_frac_eng(contents[key])
             frac_keywords = _get_frac_keywords(contents[key])
+            average_num_punc = _get_average_num_punc(contents[key])
             if (average_num_word >= 6 and average_num_word <= 30 and
                     average_frac_eng >= 0.90 and
                     frac_keywords <= 0.1 and
-                    len(contents[key]) >= 3):
+                    len(contents[key]) >= 3 and
+                    average_num_punc <= 3):
                 keys.append(key)
 
     papers = []

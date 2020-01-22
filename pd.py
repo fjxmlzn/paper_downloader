@@ -5,6 +5,7 @@ import json
 import time
 import re
 import resource
+from encodings import hex_codec
 
 from tqdm import tqdm
 from PyPDF2 import PdfFileReader, PdfFileWriter
@@ -222,10 +223,13 @@ def merge_papers(args):
             file_steams.append(f)
             reader = PdfFileReader(f, strict=False)
             for page in args.merge:
-                if page >= 0 and page < reader.getNumPages():
+                if page >= 1 and page <= reader.getNumPages():
                     writer.addPage(reader.getPage(page - 1))
+                else:
+                    print('Skip: {} page of {}'.format(
+                        page, paper[PAPER_TITLE].encode('utf-8')))
         else:
-            print("Missing: {}".format(paper[PAPER_TITLE]))
+            print('Missing: {}'.format(paper[PAPER_TITLE]))
 
     path = get_merged_pdf_path(args)
     with open(path, 'wb') as f:

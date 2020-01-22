@@ -40,7 +40,7 @@ def gscholar_pdf_url_from_title(title, eps=1e-6):
     titles = []
 
     for art in articles:
-        if art['title'] is not None and art['cluster_id'] is not None:
+        if art['title'] is not None:
             scores.append(_longest_common_substring(art['title'], title))
             cluster_ids.append(art['cluster_id'])
             titles.append(art['title'])
@@ -51,18 +51,19 @@ def gscholar_pdf_url_from_title(title, eps=1e-6):
         for best_id in range(len(sort_list)):
             if np.abs(scores[sort_list[best_id]] - scores[sort_list[0]]) > eps:
                 break
-            cluster_id = cluster_ids[best_id]
             if pdf_urls[best_id] is not None:
                 papers.append({
                     PAPER_TITLE: titles[best_id],
                     PDF_URL: pdf_urls[best_id]})
 
-            query = ClusterScholarQuery(cluster=cluster_id)
-            querier.send_query(query)
-            articles = querier.articles
-            for art in articles:
-                if art['title'] is not None and art['url_pdf'] is not None:
-                    papers.append({
-                        PAPER_TITLE: art['title'],
-                        PDF_URL: art['url_pdf']})
+            cluster_id = cluster_ids[best_id]
+            if cluster_id is not None:
+                query = ClusterScholarQuery(cluster=cluster_id)
+                querier.send_query(query)
+                articles = querier.articles
+                for art in articles:
+                    if art['title'] is not None and art['url_pdf'] is not None:
+                        papers.append({
+                            PAPER_TITLE: art['title'],
+                            PDF_URL: art['url_pdf']})
     return papers

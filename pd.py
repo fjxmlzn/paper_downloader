@@ -90,7 +90,8 @@ def process_conf_url(args):
     data = {
         CONF_NAME: str(args.conference),
         CONF_URL: args.url}
-    _, keys, contents = paper_list_from_url(args.url, args.ele, args.attrs)
+    _, keys, contents = paper_list_from_url(
+        args, args.url, args.ele, args.attrs)
     data[CONF_ELE] = keys
     data[CONF_ATTRS] = args.attrs
     path = get_conf_url_path(args)
@@ -126,7 +127,7 @@ def process_paper_list(args):
     conf_url = data[CONF_URL]
     conf_ele = data[CONF_ELE]
     conf_attrs = data[CONF_ATTRS]
-    papers, _, _ = paper_list_from_url(conf_url, conf_ele, conf_attrs)
+    papers, _, _ = paper_list_from_url(args, conf_url, conf_ele, conf_attrs)
     print('Found {} papers'.format(len(papers)))
 
     paper_list_path = get_paper_list_path(args)

@@ -49,7 +49,7 @@ class Downloader(object):
         self.opener = build_opener(
             HTTPSHandler(context=ctx), HTTPCookieProcessor(self.cjar))
 
-    def _get_http_response(self, url):
+    def get_http_response(self, url):
         try:
             req = Request(url=url, headers={'User-Agent': self.user_agent})
             hdl = self.opener.open(req)
@@ -67,7 +67,7 @@ class Downloader(object):
         # simple fix for ACM
         if "dl.acm.org/doi/pdf" in url and not url.endswith("?download=true"):
             url += "?download=true"
-        content = self._get_http_response(url)
+        content = self.get_http_response(url)
         flag = False
         if content is not None:
             with open(save_path, 'wb') as f:

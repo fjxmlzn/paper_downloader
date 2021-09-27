@@ -5,8 +5,7 @@ import sys
 
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
-from six.moves.urllib.request import urlopen
-import ssl
+from .downloader import Downloader
 import numpy as np
 
 if sys.version_info.major == 3:
@@ -55,9 +54,9 @@ def _to_title(key):
     return ' '.join(unicode(key).split())
 
 
-def paper_list_from_url(url, keys=None, attrs=[]):
-    gcontext = ssl.SSLContext(ssl.PROTOCOL_TLS)
-    html = urlopen(url, context=gcontext).read()
+def paper_list_from_url(args, url, keys=None, attrs=[]):
+    downloader = Downloader(args)
+    html = downloader.get_http_response(url)
     soup = BeautifulSoup(html, 'html.parser')
 
     contents = {}
